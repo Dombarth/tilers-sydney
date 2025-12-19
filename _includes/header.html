@@ -1,25 +1,97 @@
-<header class="site-header">
+<header class="site-header" role="banner">
   <div class="container">
-    <a href="{{ '/' | relative_url }}" class="site-logo">
-      {{ site.data.site.business.name }}
-    </a>
+    <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.data.site.name }}</a>
     
-    <nav class="site-nav" aria-label="Main navigation">
-      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu">
-        <span class="sr-only">Menu</span>
-        <span class="nav-toggle-icon"></span>
+    <nav class="site-nav" role="navigation" aria-label="Main navigation">
+      <button class="nav-toggle" 
+              type="button"
+              aria-expanded="false" 
+              aria-controls="nav-list" 
+              aria-label="Open menu">
+        <span class="nav-toggle-icon" aria-hidden="true"></span>
       </button>
       
-      <ul id="nav-menu" class="nav-list">
+      <ul class="nav-list" id="nav-list">
         {% for item in site.data.navigation.main %}
-          <li class="nav-item">
-            <a href="{{ item.url | relative_url }}" 
-               {% if page.url == item.url %}aria-current="page"{% endif %}>
-              {{ item.title }}
-            </a>
-          </li>
+        <li class="nav-item">
+          <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+        </li>
         {% endfor %}
+        <li class="nav-item nav-item-cta">
+          <a href="/contact/" class="btn btn-primary btn-sm">Contact</a>
+        </li>
       </ul>
     </nav>
   </div>
 </header>
+
+<script>
+(function() {
+  'use strict';
+  
+  var toggle = document.querySelector('.nav-toggle');
+  var navList = document.querySelector('.nav-list');
+  
+  if (!toggle || !navList) return;
+  
+  // Toggle menu
+  function toggleMenu() {
+    var isOpen = navList.classList.toggle('is-open');
+    toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    toggle.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+    toggle.classList.toggle('is-active', isOpen);
+  }
+  
+  // Close menu
+  function closeMenu() {
+    navList.classList.remove('is-open');
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.setAttribute('aria-label', 'Open menu');
+    toggle.classList.remove('is-active');
+  }
+  
+  // Toggle on click
+  toggle.addEventListener('click', toggleMenu);
+  
+  // Close on Escape key
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && navList.classList.contains('is-open')) {
+      closeMenu();
+      toggle.focus();
+    }
+  });
+  
+  // Close when clicking nav links (for same-page navigation)
+  navList.addEventListener('click', function(e) {
+    if (e.target.tagName === 'A') {
+      closeMenu();
+    }
+  });
+  
+  // Close on resize if window becomes wide enough for desktop nav
+  var mediaQuery = window.matchMedia('(min-width: 1024px)');
+  function handleResize(e) {
+    if (e.matches) {
+      closeMenu();
+    }
+  }
+  mediaQuery.addListener(handleResize);
+  
+  // Support keyboard navigation within menu
+  navList.addEventListener('keydown', function(e) {
+    var focusable = navList.querySelectorAll('a, button');
+    var first = focusable[0];
+    var last = focusable[focusable.length - 1];
+    
+    if (e.key === 'Tab') {
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        toggle.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        toggle.focus();
+      }
+    }
+  });
+})();
+</script>

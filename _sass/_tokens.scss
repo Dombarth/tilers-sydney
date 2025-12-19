@@ -1,59 +1,82 @@
 // ==========================================================================
 // DESIGN TOKENS — Harbour Tiling
-// Premium, architectural, calm
+// Warm Architectural Direction
+// Premium, intentional, conversion-focused
 // ==========================================================================
 
-// COLOURS
+// COLOURS — Warm Architectural Palette
 // --------------------------------------------------------------------------
-// Primary: Charcoal / Slate
-$color-charcoal:      #2d2d2d;
-$color-slate:         #4a4a4a;
-$color-slate-light:   #6b6b6b;
 
-// Secondary: Warm off-white / stone
-$color-stone:         #f5f3f0;
-$color-stone-warm:    #ebe7e1;
+// Base: Warm stone/off-white
+$color-cream:         #faf8f5;      // Lightest background
+$color-stone:         #f2efe9;      // Primary light background
+$color-stone-warm:    #e8e3da;      // Subtle contrast sections
+$color-sand:          #d9d2c5;      // Borders, dividers
+
+// Text: Near-black for readability
+$color-ink:           #1a1a1a;      // Primary text
+$color-charcoal:      #2d2d2d;      // Secondary headings
+$color-slate:         #5c5c5c;      // Body text, muted
+$color-slate-light:   #8a8a8a;      // Captions, helpers
+
+// Accent: Muted clay/terracotta
+$color-clay:          #a67c52;      // Primary accent
+$color-clay-dark:     #8b6544;      // Accent hover
+$color-clay-light:    #c9a882;      // Accent soft
+
+// Dark sections: Warm charcoal
+$color-night:         #232220;      // Dark section background
+$color-night-soft:    #2f2d2a;      // Dark section cards
+
+// Pure
 $color-white:         #ffffff;
 
-// Accent: Muted bronze / clay
-$color-bronze:        #a68b6a;
-$color-bronze-dark:   #8b7355;
-$color-clay:          #c4a77d;
-
-// Functional
-$color-text:          $color-charcoal;
+// Functional mappings
+$color-text:          $color-ink;
+$color-text-secondary: $color-slate;
 $color-text-muted:    $color-slate-light;
-$color-bg:            $color-white;
+$color-bg:            $color-cream;
 $color-bg-alt:        $color-stone;
-$color-border:        rgba($color-charcoal, 0.12);
+$color-bg-contrast:   $color-stone-warm;
+$color-border:        $color-sand;
+$color-border-subtle: rgba($color-ink, 0.08);
 
-// TYPOGRAPHY
+// TYPOGRAPHY — Architectural Hierarchy
 // --------------------------------------------------------------------------
 $font-family-base:    'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 $font-family-heading: $font-family-base;
 
-// Scale (mobile-first, rem-based)
-$font-size-base:      1rem;        // 16px
-$font-size-sm:        0.875rem;    // 14px
-$font-size-xs:        0.75rem;     // 12px
-$font-size-lg:        1.125rem;    // 18px
-$font-size-xl:        1.25rem;     // 20px
-$font-size-2xl:       1.5rem;      // 24px
-$font-size-3xl:       2rem;        // 32px
-$font-size-4xl:       2.5rem;      // 40px
-$font-size-5xl:       3rem;        // 48px
+// Scale — More dramatic for architectural feel
+$font-size-xs:        0.75rem;      // 12px
+$font-size-sm:        0.875rem;     // 14px
+$font-size-base:      1rem;         // 16px
+$font-size-lg:        1.125rem;     // 18px
+$font-size-xl:        1.25rem;      // 20px
+$font-size-2xl:       1.5rem;       // 24px
+$font-size-3xl:       2rem;         // 32px
+$font-size-4xl:       2.75rem;      // 44px
+$font-size-5xl:       3.5rem;       // 56px
+$font-size-6xl:       4.5rem;       // 72px
 
 // Weights
 $font-weight-normal:  400;
 $font-weight-medium:  500;
 $font-weight-semibold: 600;
+$font-weight-bold:    700;
 
 // Line heights
-$line-height-tight:   1.2;
-$line-height-base:    1.6;
-$line-height-relaxed: 1.75;
+$line-height-tight:   1.15;
+$line-height-snug:    1.3;
+$line-height-base:    1.65;
+$line-height-relaxed: 1.8;
 
-// SPACING
+// Letter spacing
+$letter-spacing-tight: -0.02em;
+$letter-spacing-normal: 0;
+$letter-spacing-wide:  0.05em;
+$letter-spacing-caps:  0.1em;
+
+// SPACING — Generous for premium feel
 // --------------------------------------------------------------------------
 $space-1:   0.25rem;   // 4px
 $space-2:   0.5rem;    // 8px
@@ -63,14 +86,21 @@ $space-5:   1.5rem;    // 24px
 $space-6:   2rem;      // 32px
 $space-8:   3rem;      // 48px
 $space-10:  4rem;      // 64px
-$space-12:  6rem;      // 96px
-$space-16:  8rem;      // 128px
+$space-12:  5rem;      // 80px
+$space-16:  7rem;      // 112px
+$space-20:  9rem;      // 144px
+$space-24:  11rem;     // 176px
 
 // LAYOUT
 // --------------------------------------------------------------------------
 $container-max:       1200px;
 $container-narrow:    720px;
+$container-wide:      1400px;
 $container-padding:   $space-5;
+
+@media (min-width: 768px) {
+  $container-padding: $space-8;
+}
 
 // BREAKPOINTS (mobile-first)
 // --------------------------------------------------------------------------
@@ -78,21 +108,35 @@ $bp-sm:   480px;
 $bp-md:   768px;
 $bp-lg:   1024px;
 $bp-xl:   1280px;
+$bp-2xl:  1440px;
 
 // Mixins for breakpoints
 @mixin media-sm { @media (min-width: $bp-sm) { @content; } }
 @mixin media-md { @media (min-width: $bp-md) { @content; } }
 @mixin media-lg { @media (min-width: $bp-lg) { @content; } }
 @mixin media-xl { @media (min-width: $bp-xl) { @content; } }
+@mixin media-2xl { @media (min-width: $bp-2xl) { @content; } }
 
-// TRANSITIONS
+// TRANSITIONS — Subtle, intentional
 // --------------------------------------------------------------------------
-$transition-fast:   150ms ease;
-$transition-base:   250ms ease;
-$transition-slow:   400ms ease;
+$transition-fast:   150ms ease-out;
+$transition-base:   250ms ease-out;
+$transition-slow:   400ms ease-out;
+$transition-smooth: 500ms cubic-bezier(0.4, 0, 0.2, 1);
 
-// BORDERS
+// BORDERS & SHADOWS — Tactile, deliberate
 // --------------------------------------------------------------------------
 $border-radius-sm:  4px;
-$border-radius:     8px;
-$border-radius-lg:  12px;
+$border-radius:     6px;
+$border-radius-lg:  10px;
+$border-radius-xl:  16px;
+
+$shadow-sm:         0 1px 2px rgba($color-ink, 0.04);
+$shadow-md:         0 4px 12px rgba($color-ink, 0.06);
+$shadow-lg:         0 8px 24px rgba($color-ink, 0.08);
+$shadow-xl:         0 16px 48px rgba($color-ink, 0.1);
+$shadow-inner:      inset 0 1px 3px rgba($color-ink, 0.06);
+
+// Card-specific shadows (warmer)
+$shadow-card:       0 2px 8px rgba(139, 101, 68, 0.06);
+$shadow-card-hover: 0 8px 24px rgba(139, 101, 68, 0.1);

@@ -1,150 +1,239 @@
 // ==========================================================================
 // COMPONENTS — Harbour Tiling
-// Buttons, cards, trust chips
+// Warm Architectural Direction
+// Tactile, deliberate, premium
 // ==========================================================================
 
 // ==========================================================================
-// BUTTONS
+// BUTTONS — Warm, substantial, mobile-friendly
 // ==========================================================================
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: $space-3 $space-5;
+  padding: $space-4 $space-5;
   font-family: $font-family-base;
   font-size: $font-size-sm;
   font-weight: $font-weight-medium;
   line-height: 1;
   text-decoration: none;
-  border: 1px solid transparent;
-  border-radius: $border-radius-sm;
+  border: 2px solid transparent;
+  border-radius: $border-radius;
   cursor: pointer;
-  transition: all $transition-fast;
+  transition: all $transition-base;
+  min-height: 48px; // Touch-friendly minimum
+  -webkit-tap-highlight-color: transparent;
+  
+  @include media-md {
+    padding: $space-4 $space-6;
+  }
   
   &:focus {
-    outline: 2px solid $color-bronze;
-    outline-offset: 2px;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba($color-clay, 0.25);
   }
-}
-
-// Primary button
-.btn-primary {
-  background: $color-charcoal;
-  color: $color-white;
-  border-color: $color-charcoal;
   
-  &:hover {
-    background: $color-slate;
-    border-color: $color-slate;
-    color: $color-white;
+  &:active {
+    transform: scale(0.98);
   }
 }
 
-// Secondary button
-.btn-secondary {
-  background: transparent;
-  color: $color-charcoal;
-  border-color: $color-charcoal;
+// Primary button — Solid clay
+.btn-primary {
+  background: $color-ink;
+  color: $color-white;
+  border-color: $color-ink;
   
   &:hover {
     background: $color-charcoal;
+    border-color: $color-charcoal;
     color: $color-white;
+    transform: translateY(-1px);
+    box-shadow: $shadow-md;
   }
   
-  // Light variant for dark backgrounds
+  // On dark backgrounds
+  .section-dark &,
   .conversion-section & {
-    color: $color-white;
+    background: $color-white;
+    color: $color-ink;
     border-color: $color-white;
     
     &:hover {
-      background: $color-white;
-      color: $color-charcoal;
+      background: $color-stone;
+      border-color: $color-stone;
+      color: $color-ink;
     }
   }
 }
 
-// Outline button
-.btn-outline {
+// Secondary button — Outlined
+.btn-secondary {
   background: transparent;
-  color: $color-bronze-dark;
-  border-color: $color-bronze;
+  color: $color-ink;
+  border-color: $color-sand;
   
   &:hover {
-    background: $color-bronze;
+    background: $color-stone;
+    border-color: $color-sand;
+    color: $color-ink;
+  }
+  
+  // On dark backgrounds
+  .section-dark &,
+  .conversion-section & {
     color: $color-white;
-    border-color: $color-bronze;
+    border-color: rgba($color-white, 0.3);
+    
+    &:hover {
+      background: rgba($color-white, 0.1);
+      border-color: rgba($color-white, 0.5);
+      color: $color-white;
+    }
+  }
+}
+
+// Outline button — Accent
+.btn-outline {
+  background: transparent;
+  color: $color-clay;
+  border-color: $color-clay;
+  
+  &:hover {
+    background: $color-clay;
+    color: $color-white;
+    border-color: $color-clay;
   }
 }
 
 // Large button
 .btn-lg {
-  padding: $space-4 $space-6;
+  padding: $space-5 $space-8;
   font-size: $font-size-base;
 }
 
+// Small button
+.btn-sm {
+  padding: $space-3 $space-4;
+  font-size: $font-size-xs;
+}
+
 // ==========================================================================
-// CARDS
+// CARDS — Tactile, warm shadows
 // ==========================================================================
 .card {
   background: $color-white;
-  border: 1px solid $color-border;
-  border-radius: $border-radius;
-  padding: $space-5;
-  transition: box-shadow $transition-base;
+  border: 1px solid $color-border-subtle;
+  border-radius: $border-radius-lg;
+  padding: $space-6;
+  box-shadow: $shadow-card;
+  transition: transform $transition-base, box-shadow $transition-base;
   
   &:hover {
-    box-shadow: 0 4px 12px rgba($color-charcoal, 0.08);
+    transform: translateY(-2px);
+    box-shadow: $shadow-card-hover;
   }
 }
 
 .card-title {
   font-size: $font-size-lg;
+  font-weight: $font-weight-semibold;
   margin-bottom: $space-3;
+  color: $color-ink;
 }
 
 .card-text {
   font-size: $font-size-sm;
   color: $color-slate;
+  line-height: $line-height-base;
+}
+
+// Service cards
+.service-card {
+  background: $color-white;
+  padding: $space-6;
+  border-radius: $border-radius-lg;
+  border: 1px solid $color-border-subtle;
+  box-shadow: $shadow-card;
+  transition: transform $transition-base, box-shadow $transition-base;
+  
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: $shadow-card-hover;
+  }
+  
+  h3 {
+    font-size: $font-size-lg;
+    margin-bottom: $space-3;
+    margin-top: 0;
+  }
+  
+  p {
+    font-size: $font-size-sm;
+    color: $color-slate;
+    margin-bottom: $space-5;
+  }
+}
+
+.service-link {
+  font-size: $font-size-sm;
+  font-weight: $font-weight-medium;
+  color: $color-clay;
+  display: inline-flex;
+  align-items: center;
+  gap: $space-2;
+  
+  &::after {
+    content: '→';
+    transition: transform $transition-fast;
+  }
+  
+  &:hover::after {
+    transform: translateX(3px);
+  }
 }
 
 // ==========================================================================
-// TRUST CHIPS (alternative to trust list)
+// TRUST CHIPS
 // ==========================================================================
 .trust-chips {
   display: flex;
   flex-wrap: wrap;
-  gap: $space-2;
+  gap: $space-3;
 }
 
 .trust-chip {
   display: inline-flex;
   align-items: center;
   gap: $space-2;
-  padding: $space-2 $space-3;
+  padding: $space-2 $space-4;
   background: $color-stone;
-  border-radius: $border-radius-sm;
+  border-radius: $border-radius;
   font-size: $font-size-xs;
+  font-weight: $font-weight-medium;
   color: $color-slate;
   
   &::before {
-    content: '✓';
-    color: $color-bronze;
-    font-weight: $font-weight-semibold;
+    content: '';
+    width: 5px;
+    height: 5px;
+    background: $color-clay;
+    border-radius: 50%;
   }
 }
 
 // ==========================================================================
-// TABLES (for comparison content later)
+// TABLES — Clean, architectural
 // ==========================================================================
 table {
   width: 100%;
   border-collapse: collapse;
-  margin-bottom: $space-5;
+  margin: $space-6 0;
   font-size: $font-size-sm;
 }
 
 th, td {
-  padding: $space-3 $space-4;
+  padding: $space-4;
   text-align: left;
   border-bottom: 1px solid $color-border;
 }
@@ -152,6 +241,10 @@ th, td {
 th {
   font-weight: $font-weight-semibold;
   background: $color-stone;
+  color: $color-ink;
+  font-size: $font-size-xs;
+  text-transform: uppercase;
+  letter-spacing: $letter-spacing-wide;
 }
 
 tr:hover td {
@@ -159,42 +252,66 @@ tr:hover td {
 }
 
 // ==========================================================================
-// BLOCKQUOTE (for callouts, not testimonials)
+// BLOCKQUOTE — Callouts
 // ==========================================================================
 blockquote {
-  margin: $space-5 0;
-  padding: $space-4 $space-5;
+  margin: $space-8 0;
+  padding: $space-6;
   background: $color-stone;
-  border-left: 3px solid $color-bronze;
-  font-size: $font-size-base;
-  color: $color-slate;
+  border-left: 3px solid $color-clay;
+  border-radius: 0 $border-radius $border-radius 0;
   
-  p:last-child {
-    margin-bottom: 0;
+  p {
+    font-size: $font-size-base;
+    color: $color-slate;
+    margin: 0;
   }
 }
 
 // ==========================================================================
-// FORM ELEMENTS (basic, for contact form later)
+// FORMS — Mobile-first, warm, inviting
 // ==========================================================================
+.form-group {
+  margin-bottom: $space-4;
+  
+  @include media-md {
+    margin-bottom: $space-5;
+  }
+}
+
+label {
+  display: block;
+  margin-bottom: $space-2;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-medium;
+  color: $color-ink;
+}
+
 input[type="text"],
 input[type="email"],
 input[type="tel"],
 textarea,
 select {
   width: 100%;
-  padding: $space-3 $space-4;
+  padding: $space-4;
   font-family: $font-family-base;
-  font-size: $font-size-base;
+  font-size: 16px; // Prevents iOS zoom on focus
   color: $color-text;
   background: $color-white;
   border: 1px solid $color-border;
-  border-radius: $border-radius-sm;
-  transition: border-color $transition-fast;
+  border-radius: $border-radius;
+  transition: border-color $transition-fast, box-shadow $transition-fast;
+  -webkit-appearance: none; // Remove iOS styling
+  appearance: none;
+  
+  @include media-md {
+    font-size: $font-size-base;
+  }
   
   &:focus {
     outline: none;
-    border-color: $color-bronze;
+    border-color: $color-clay;
+    box-shadow: 0 0 0 3px rgba($color-clay, 0.1);
   }
   
   &::placeholder {
@@ -205,30 +322,122 @@ select {
 textarea {
   min-height: 120px;
   resize: vertical;
+  line-height: $line-height-base;
+  
+  @include media-md {
+    min-height: 140px;
+  }
 }
 
-label {
+.form-helper {
   display: block;
-  margin-bottom: $space-2;
-  font-size: $font-size-sm;
+  margin-top: $space-2;
+  font-size: $font-size-xs;
+  color: $color-slate-light;
+  line-height: $line-height-base;
+}
+
+// Contact form styling
+.contact-form {
+  width: 100%;
+  
+  @include media-md {
+    max-width: 500px;
+  }
+  
+  .btn {
+    width: 100%;
+    margin-top: $space-4;
+    
+    @include media-sm {
+      width: auto;
+    }
+  }
+}
+
+// ==========================================================================
+// CTA ACTIONS — Mobile-first, full-width on small screens
+// ==========================================================================
+.cta-actions {
+  display: flex;
+  flex-direction: column;
+  gap: $space-3;
+  margin-top: $space-5;
+  
+  @include media-sm {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: $space-4;
+    margin-top: $space-6;
+  }
+  
+  .btn {
+    width: 100%;
+    
+    @include media-sm {
+      width: auto;
+    }
+  }
+}
+
+// ==========================================================================
+// DIVIDERS
+// ==========================================================================
+.divider {
+  height: 1px;
+  background: $color-border;
+  margin: $space-10 0;
+}
+
+.divider-subtle {
+  height: 1px;
+  background: $color-border-subtle;
+  margin: $space-8 0;
+}
+
+// ==========================================================================
+// BADGES / LABELS
+// ==========================================================================
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: $space-1 $space-3;
+  font-size: $font-size-xs;
   font-weight: $font-weight-medium;
-  color: $color-charcoal;
+  text-transform: uppercase;
+  letter-spacing: $letter-spacing-wide;
+  border-radius: $border-radius-sm;
+  background: $color-stone;
+  color: $color-slate;
 }
 
-.form-group {
-  margin-bottom: $space-4;
+.badge-clay {
+  background: rgba($color-clay, 0.1);
+  color: $color-clay-dark;
 }
 
 // ==========================================================================
-// UTILITIES
+// ICONS / DECORATIVE
 // ==========================================================================
-.text-center { text-align: center; }
-.text-muted { color: $color-slate-light; }
-.text-small { font-size: $font-size-sm; }
+.icon-dot {
+  width: 6px;
+  height: 6px;
+  background: $color-clay;
+  border-radius: 50%;
+  display: inline-block;
+}
 
-.mt-0 { margin-top: 0; }
-.mb-0 { margin-bottom: 0; }
-.mt-4 { margin-top: $space-4; }
-.mb-4 { margin-bottom: $space-4; }
-.mt-6 { margin-top: $space-6; }
-.mb-6 { margin-bottom: $space-6; }
+// ==========================================================================
+// PAGE-SPECIFIC ADJUSTMENTS
+// ==========================================================================
+
+// Home page body class
+.home {
+  // Hero gets extra dramatic sizing
+  .hero-title {
+    @include media-lg {
+      font-size: $font-size-6xl;
+      line-height: 1.05;
+    }
+  }
+}

@@ -2,16 +2,20 @@
 layout: default
 ---
 
+{%- comment -%}
+Page Layout — Harbour Tiling
+Warm Architectural Direction
+Consistent styling for content pages
+{%- endcomment -%}
+
 <article class="page">
   <div class="container">
-    {% if page.title %}
-      <header class="page-header">
-        <h1>{{ page.title }}</h1>
-        {% if page.subtitle %}
-          <p class="page-subtitle">{{ page.subtitle }}</p>
-        {% endif %}
-      </header>
-    {% endif %}
+    <header class="page-header">
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p class="page-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </header>
     
     <div class="page-content">
       {{ content }}

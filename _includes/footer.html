@@ -1,28 +1,24 @@
-<footer class="site-footer">
+<footer class="site-footer" role="contentinfo">
   <div class="container">
     <div class="footer-main">
-      <!-- Entity block -->
       <div class="footer-entity">
-        <p class="footer-brand">{{ site.data.site.business.name }}</p>
-        <p class="footer-tagline">{{ site.data.site.business.tagline }}</p>
-        <p class="footer-area">Serving {{ site.data.site.service_area.primary }} and nearby suburbs</p>
-        {% if site.data.site.credentials.insured %}
-          <p class="footer-credential">{{ site.data.site.credentials.insured_statement }}</p>
-        {% endif %}
+        <p class="footer-brand">{{ site.data.site.name }}</p>
+        <p>{{ site.data.site.tagline }}</p>
+        <p>Serving {{ site.data.site.location }}</p>
+        <p class="footer-credential">Fully insured · Licensed waterproofer coordination</p>
       </div>
       
-      <!-- Footer navigation -->
       <nav class="footer-nav" aria-label="Footer navigation">
         <ul>
           {% for item in site.data.navigation.footer %}
-            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+          <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
           {% endfor %}
         </ul>
       </nav>
     </div>
     
     <div class="footer-bottom">
-      <p class="copyright">&copy; {{ 'now' | date: '%Y' }} {{ site.data.site.business.name }}</p>
+      <p class="copyright">&copy; {{ 'now' | date: '%Y' }} {{ site.data.site.name }}. All rights reserved.</p>
     </div>
   </div>
 </footer>

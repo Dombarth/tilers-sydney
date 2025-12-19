@@ -1,140 +1,140 @@
 ---
 layout: default
-body_class: home
 ---
 
-<!-- HOMEPAGE LAYOUT: Sectioned for authority + conversion -->
+{%- comment -%}
+Homepage Layout — Harbour Tiling
+Warm Architectural Direction
+Section rhythm: stone hero → light signals → services stone → dark conversion
+{%- endcomment -%}
 
-<!-- 1. HERO -->
-<section class="hero">
+<!-- Hero Section -->
+<section class="hero section">
   <div class="container">
-    <h1 class="hero-title">{{ page.hero.title }}</h1>
-    <p class="hero-lead">{{ page.hero.lead }}</p>
-    
-    <div class="hero-cta">
-      <a href="{{ page.hero.primary_cta_url | relative_url }}" class="btn btn-primary">
-        {{ page.hero.primary_cta }}
-      </a>
-      <a href="{{ page.hero.secondary_cta_url | relative_url }}" class="btn btn-secondary">
-        {{ page.hero.secondary_cta }}
-      </a>
-    </div>
-    
-    {% if page.hero.microcopy %}
-      <p class="hero-microcopy">{{ page.hero.microcopy }}</p>
+    <h1 class="hero-title">{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <p class="hero-lead">{{ page.subtitle }}</p>
     {% endif %}
+    <div class="hero-cta">
+      <a href="/contact/" class="btn btn-primary btn-lg">Request a Project Assessment</a>
+      <a href="/contact/#question" class="btn btn-secondary btn-lg">Ask a Question</a>
+    </div>
+    <p class="hero-microcopy">No pressure, no obligation. I respond within one business day.</p>
   </div>
 </section>
 
-<!-- 2. TRUST SIGNALS -->
-{% if page.trust_signals %}
+<!-- Trust Signals -->
 <section class="trust-signals">
   <div class="container">
     <ul class="trust-list">
-      {% for signal in page.trust_signals %}
-        <li class="trust-item">{{ signal }}</li>
-      {% endfor %}
+      <li class="trust-item">Based in Ryde NSW</li>
+      <li class="trust-item">Fully insured</li>
+      <li class="trust-item">Licensed waterproofer coordination</li>
     </ul>
   </div>
 </section>
-{% endif %}
 
-<!-- 3. WHY HARBOUR TILING -->
-{% if page.why_section %}
-<section class="why-section">
+<!-- Why Section -->
+<section class="section why-section">
   <div class="container">
-    <h2>{{ page.why_section.heading }}</h2>
     <div class="why-content">
-      {{ page.why_section.content | markdownify }}
+      <h2>Why tiling work matters</h2>
+      <p>Good tiling lasts for years. It's one of the few finishes in a home that people see and touch every day. When it's done well, it looks effortless. When it's not, you notice.</p>
+      <p>Most tiling problems come from what happens before the tiles go on — preparation, substrate condition, waterproofing sequencing, and layout planning. That's where I focus.</p>
     </div>
   </div>
 </section>
-{% endif %}
 
-<!-- 4. CORE SERVICES -->
-{% if page.services %}
-<section class="services-section">
+<!-- Services Section -->
+<section class="section services-section">
   <div class="container">
-    <h2>{{ page.services.heading | default: "What we do" }}</h2>
+    <h2 class="text-center mb-10">Tiling services</h2>
     <div class="services-grid">
-      {% for service in page.services.items %}
-        <div class="service-card">
-          <h3>{{ service.title }}</h3>
-          <p>{{ service.description }}</p>
-          <a href="{{ service.url | relative_url }}" class="service-link">Learn more</a>
-        </div>
-      {% endfor %}
+      
+      <div class="service-card">
+        <h3>Bathroom Tiling</h3>
+        <p>Full bathroom tiling including floors, walls, niches, and wet area coordination. Preparation-led approach from substrate to grout.</p>
+        <a href="/bathroom-tiling/" class="service-link">Learn more</a>
+      </div>
+      
+      <div class="service-card">
+        <h3>Kitchen Tiling</h3>
+        <p>Splashbacks, floor tiling, and feature walls. Clean layouts, precise cuts, and coordination with cabinetry and benchtops.</p>
+        <a href="/kitchen-tiling/" class="service-link">Learn more</a>
+      </div>
+      
+      <div class="service-card">
+        <h3>Apartment Tiling</h3>
+        <p>Tiling for units and strata buildings. Understanding of access logistics, approvals, and the higher stakes of shared buildings.</p>
+        <a href="/apartment-tiling/" class="service-link">Learn more</a>
+      </div>
+      
     </div>
   </div>
 </section>
-{% endif %}
 
-<!-- 5. RYDE AUTHORITY PREVIEW -->
-{% if page.ryde_preview %}
-<section class="ryde-preview">
+<!-- Ryde Preview -->
+<section class="section ryde-preview">
   <div class="container">
-    <h2>{{ page.ryde_preview.heading }}</h2>
-    <p>{{ page.ryde_preview.text }}</p>
-    <a href="{{ page.ryde_preview.link_url | relative_url }}" class="btn btn-outline">
-      {{ page.ryde_preview.link_text }}
-    </a>
+    <h2>Serving Ryde and nearby suburbs</h2>
+    <p>Based in Ryde, I work across West Ryde, Eastwood, Gladesville, Meadowbank, North Ryde, and surrounding areas. Local knowledge means I understand the building types, access considerations, and what it takes to get tiling right in this area.</p>
+    <a href="/tiling-in-ryde-nsw/" class="btn btn-primary">Tiling in Ryde NSW</a>
   </div>
 </section>
-{% endif %}
 
-<!-- 6. PROCESS -->
-{% if page.process %}
-<section class="process-section">
+<!-- Process Section -->
+<section class="section process-section">
   <div class="container">
-    <h2>{{ page.process.heading | default: "How it works" }}</h2>
-    <ol class="process-list">
-      {% for step in page.process.steps %}
-        <li class="process-step">
-          <span class="process-step-title">{{ step.title }}</span>
-          <span class="process-step-desc">{{ step.description }}</span>
-        </li>
-      {% endfor %}
-    </ol>
+    <h2>How projects work</h2>
+    <ul class="process-list">
+      <li class="process-step">
+        <span class="process-step-title">Initial conversation</span>
+        <span class="process-step-desc">You share what you're planning. I ask questions, explain what's involved, and let you know if it's something I can help with.</span>
+      </li>
+      <li class="process-step">
+        <span class="process-step-title">Site assessment</span>
+        <span class="process-step-desc">I look at the space in person — substrate condition, access, sequencing with other trades. This informs an accurate quote.</span>
+      </li>
+      <li class="process-step">
+        <span class="process-step-title">Clear quote and scope</span>
+        <span class="process-step-desc">You receive a written quote with clear inclusions. No hidden costs. If something's not included, I'll explain why.</span>
+      </li>
+      <li class="process-step">
+        <span class="process-step-title">Preparation and tiling</span>
+        <span class="process-step-desc">Work begins with proper prep — levelling, priming, waterproofing coordination. Then tiling, grouting, and finishing.</span>
+      </li>
+      <li class="process-step">
+        <span class="process-step-title">Handover</span>
+        <span class="process-step-desc">Final walkthrough, care instructions, and answers to any questions. I don't disappear once the job is done.</span>
+      </li>
+    </ul>
   </div>
 </section>
-{% endif %}
 
-<!-- 7. PROOF (WITHOUT TESTIMONIALS) -->
-{% if page.proof %}
-<section class="proof-section">
+<!-- Proof Section -->
+<section class="section proof-section">
   <div class="container">
-    <h2>{{ page.proof.heading }}</h2>
     <div class="proof-content">
-      {{ page.proof.content | markdownify }}
+      <h2>The work speaks for itself</h2>
+      <p>I don't use testimonials or before-and-after galleries on this site. Instead, I focus on explaining how I work so you can decide if it's the right fit.</p>
+      <p>If you'd like to see examples of recent work or speak to past clients, I'm happy to provide references on request.</p>
     </div>
   </div>
 </section>
-{% endif %}
 
-<!-- 8. CALM CONVERSION -->
-{% if page.conversion %}
-<section class="conversion-section">
+<!-- Conversion Section -->
+<section class="section conversion-section">
   <div class="container">
     <div class="conversion-grid">
-      <div class="conversion-context">
-        <h2>{{ page.conversion.heading }}</h2>
-        <p>{{ page.conversion.text }}</p>
+      <div>
+        <h2>Ready to discuss your project?</h2>
+        <p>Whether you're planning a bathroom renovation, a kitchen splashback, or tiling in an apartment — I'm happy to talk through what's involved and answer your questions.</p>
       </div>
       <div class="conversion-actions">
-        <a href="{{ page.conversion.primary_cta_url | relative_url }}" class="btn btn-primary">
-          {{ page.conversion.primary_cta }}
-        </a>
-        <a href="{{ page.conversion.secondary_cta_url | relative_url }}" class="btn btn-secondary">
-          {{ page.conversion.secondary_cta }}
-        </a>
-        {% if page.conversion.note %}
-          <p class="conversion-note">{{ page.conversion.note }}</p>
-        {% endif %}
+        <a href="/contact/" class="btn btn-primary btn-lg">Request a Project Assessment</a>
+        <a href="/contact/#question" class="btn btn-secondary">Ask a Tiling Question</a>
+        <p class="conversion-note">No pressure. I respond within one business day.</p>
       </div>
     </div>
   </div>
 </section>
-{% endif %}
-
-<!-- Any additional content from the page body -->
-{{ content }}
