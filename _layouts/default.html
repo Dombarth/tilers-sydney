@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  {% include head.html %}
+</head>
+<body class="{% if page.body_class %}{{ page.body_class }}{% endif %}">
+  
+  {% include header.html %}
+  
+  <main id="main-content">
+    {{ content }}
+  </main>
+  
+  {% include footer.html %}
+  
+  <!-- Minimal JS for nav toggle -->
+  <script>
+    (function() {
+      var toggle = document.querySelector('.nav-toggle');
+      var menu = document.querySelector('.nav-list');
+      if (toggle && menu) {
+        toggle.addEventListener('click', function() {
+          var expanded = toggle.getAttribute('aria-expanded') === 'true';
+          toggle.setAttribute('aria-expanded', !expanded);
+          menu.classList.toggle('is-open');
+        });
+      }
+    })();
+  </script>
+  
+</body>
+</html>

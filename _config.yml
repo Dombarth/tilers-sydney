@@ -1,0 +1,45 @@
+# Harbour Tiling — Jekyll Configuration
+# Conservative, GitHub Pages / Netlify safe
+
+title: Harbour Tiling
+description: >-
+  Detail-led tiling for bathrooms, kitchens and apartments in Ryde NSW and nearby suburbs.
+url: "" # Set to production URL when deployed
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLINE_INSTRUCTIONS.md
+  - node_modules
+  - vendor
+
+# Collections (future use)
+# collections:
+#   projects:
+#     output: true
+
+# Plugins (minimal for compatibility)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

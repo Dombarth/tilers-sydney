@@ -1,0 +1,234 @@
+// ==========================================================================
+// COMPONENTS — Harbour Tiling
+// Buttons, cards, trust chips
+// ==========================================================================
+
+// ==========================================================================
+// BUTTONS
+// ==========================================================================
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: $space-3 $space-5;
+  font-family: $font-family-base;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-medium;
+  line-height: 1;
+  text-decoration: none;
+  border: 1px solid transparent;
+  border-radius: $border-radius-sm;
+  cursor: pointer;
+  transition: all $transition-fast;
+  
+  &:focus {
+    outline: 2px solid $color-bronze;
+    outline-offset: 2px;
+  }
+}
+
+// Primary button
+.btn-primary {
+  background: $color-charcoal;
+  color: $color-white;
+  border-color: $color-charcoal;
+  
+  &:hover {
+    background: $color-slate;
+    border-color: $color-slate;
+    color: $color-white;
+  }
+}
+
+// Secondary button
+.btn-secondary {
+  background: transparent;
+  color: $color-charcoal;
+  border-color: $color-charcoal;
+  
+  &:hover {
+    background: $color-charcoal;
+    color: $color-white;
+  }
+  
+  // Light variant for dark backgrounds
+  .conversion-section & {
+    color: $color-white;
+    border-color: $color-white;
+    
+    &:hover {
+      background: $color-white;
+      color: $color-charcoal;
+    }
+  }
+}
+
+// Outline button
+.btn-outline {
+  background: transparent;
+  color: $color-bronze-dark;
+  border-color: $color-bronze;
+  
+  &:hover {
+    background: $color-bronze;
+    color: $color-white;
+    border-color: $color-bronze;
+  }
+}
+
+// Large button
+.btn-lg {
+  padding: $space-4 $space-6;
+  font-size: $font-size-base;
+}
+
+// ==========================================================================
+// CARDS
+// ==========================================================================
+.card {
+  background: $color-white;
+  border: 1px solid $color-border;
+  border-radius: $border-radius;
+  padding: $space-5;
+  transition: box-shadow $transition-base;
+  
+  &:hover {
+    box-shadow: 0 4px 12px rgba($color-charcoal, 0.08);
+  }
+}
+
+.card-title {
+  font-size: $font-size-lg;
+  margin-bottom: $space-3;
+}
+
+.card-text {
+  font-size: $font-size-sm;
+  color: $color-slate;
+}
+
+// ==========================================================================
+// TRUST CHIPS (alternative to trust list)
+// ==========================================================================
+.trust-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-2;
+}
+
+.trust-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: $space-2;
+  padding: $space-2 $space-3;
+  background: $color-stone;
+  border-radius: $border-radius-sm;
+  font-size: $font-size-xs;
+  color: $color-slate;
+  
+  &::before {
+    content: '✓';
+    color: $color-bronze;
+    font-weight: $font-weight-semibold;
+  }
+}
+
+// ==========================================================================
+// TABLES (for comparison content later)
+// ==========================================================================
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: $space-5;
+  font-size: $font-size-sm;
+}
+
+th, td {
+  padding: $space-3 $space-4;
+  text-align: left;
+  border-bottom: 1px solid $color-border;
+}
+
+th {
+  font-weight: $font-weight-semibold;
+  background: $color-stone;
+}
+
+tr:hover td {
+  background: rgba($color-stone, 0.5);
+}
+
+// ==========================================================================
+// BLOCKQUOTE (for callouts, not testimonials)
+// ==========================================================================
+blockquote {
+  margin: $space-5 0;
+  padding: $space-4 $space-5;
+  background: $color-stone;
+  border-left: 3px solid $color-bronze;
+  font-size: $font-size-base;
+  color: $color-slate;
+  
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// ==========================================================================
+// FORM ELEMENTS (basic, for contact form later)
+// ==========================================================================
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea,
+select {
+  width: 100%;
+  padding: $space-3 $space-4;
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  color: $color-text;
+  background: $color-white;
+  border: 1px solid $color-border;
+  border-radius: $border-radius-sm;
+  transition: border-color $transition-fast;
+  
+  &:focus {
+    outline: none;
+    border-color: $color-bronze;
+  }
+  
+  &::placeholder {
+    color: $color-slate-light;
+  }
+}
+
+textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+label {
+  display: block;
+  margin-bottom: $space-2;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-medium;
+  color: $color-charcoal;
+}
+
+.form-group {
+  margin-bottom: $space-4;
+}
+
+// ==========================================================================
+// UTILITIES
+// ==========================================================================
+.text-center { text-align: center; }
+.text-muted { color: $color-slate-light; }
+.text-small { font-size: $font-size-sm; }
+
+.mt-0 { margin-top: 0; }
+.mb-0 { margin-bottom: 0; }
+.mt-4 { margin-top: $space-4; }
+.mb-4 { margin-bottom: $space-4; }
+.mt-6 { margin-top: $space-6; }
+.mb-6 { margin-bottom: $space-6; }

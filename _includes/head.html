@@ -1,0 +1,50 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ page.description | default: site.description | strip_html | truncate: 160 }}">
+
+<!-- Canonical -->
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<!-- Preconnect for performance -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Fonts: clean, architectural feel -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<!-- Stylesheet -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description | strip_html | truncate: 160 }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:locale" content="en_AU">
+
+<!-- JSON-LD Structured Data (LocalBusiness) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ site.data.site.entity.type }}",
+  "name": "{{ site.data.site.business.name }}",
+  "description": "{{ site.description }}",
+  "areaServed": {
+    "@type": "Place",
+    "name": "{{ site.data.site.service_area.primary }}"
+  },
+  "serviceArea": {
+    "@type": "GeoCircle",
+    "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "addressLocality": "Ryde",
+      "addressRegion": "NSW",
+      "addressCountry": "AU"
+    }
+  }
+}
+</script>
+
+{% seo %}

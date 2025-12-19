@@ -1,0 +1,40 @@
+# Harbour Tiling — Entity & Business Data
+# Centralised for consistency across all pages and structured data
+
+business:
+  name: "Harbour Tiling"
+  tagline: "Detail-led tiling for Ryde homes and apartments"
+  
+# Service area (primary)
+service_area:
+  primary: "Ryde NSW"
+  suburbs:
+    - Ryde
+    - West Ryde
+    - Eastwood
+    - Gladesville
+    - Putney
+    - Meadowbank
+    - North Ryde
+    - Macquarie Park
+  region: "Sydney, NSW"
+  
+# Contact (update when ready)
+contact:
+  email: "" # Add when ready
+  phone: "" # Add when ready
+  form_url: "" # Form embed or link
+  
+# Trust signals (factual only)
+credentials:
+  insured: true
+  insured_statement: "Fully insured for residential tiling work."
+  
+# Social (optional, add later)
+social:
+  instagram: ""
+  
+# Structured data hints (for JSON-LD)
+entity:
+  type: "LocalBusiness"
+  category: "Tiling Contractor"

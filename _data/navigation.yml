@@ -1,0 +1,29 @@
+# Main navigation
+# Simple, focused — no spam pages
+
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Tiling in Ryde"
+    url: "/tiling-in-ryde-nsw/"
+  - title: "Bathrooms"
+    url: "/bathroom-tiling/"
+  - title: "Kitchens"
+    url: "/kitchen-tiling/"
+  - title: "Apartments"
+    url: "/apartment-tiling/"
+  - title: "About"
+    url: "/about-harbour-tiling/"
+  - title: "How We Work"
+    url: "/how-we-work/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Footer links (subset)
+footer:
+  - title: "About"
+    url: "/about-harbour-tiling/"
+  - title: "How We Work"
+    url: "/how-we-work/"
+  - title: "Contact"
+    url: "/contact/"

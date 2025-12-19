@@ -1,0 +1,98 @@
+// ==========================================================================
+// DESIGN TOKENS — Harbour Tiling
+// Premium, architectural, calm
+// ==========================================================================
+
+// COLOURS
+// --------------------------------------------------------------------------
+// Primary: Charcoal / Slate
+$color-charcoal:      #2d2d2d;
+$color-slate:         #4a4a4a;
+$color-slate-light:   #6b6b6b;
+
+// Secondary: Warm off-white / stone
+$color-stone:         #f5f3f0;
+$color-stone-warm:    #ebe7e1;
+$color-white:         #ffffff;
+
+// Accent: Muted bronze / clay
+$color-bronze:        #a68b6a;
+$color-bronze-dark:   #8b7355;
+$color-clay:          #c4a77d;
+
+// Functional
+$color-text:          $color-charcoal;
+$color-text-muted:    $color-slate-light;
+$color-bg:            $color-white;
+$color-bg-alt:        $color-stone;
+$color-border:        rgba($color-charcoal, 0.12);
+
+// TYPOGRAPHY
+// --------------------------------------------------------------------------
+$font-family-base:    'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+$font-family-heading: $font-family-base;
+
+// Scale (mobile-first, rem-based)
+$font-size-base:      1rem;        // 16px
+$font-size-sm:        0.875rem;    // 14px
+$font-size-xs:        0.75rem;     // 12px
+$font-size-lg:        1.125rem;    // 18px
+$font-size-xl:        1.25rem;     // 20px
+$font-size-2xl:       1.5rem;      // 24px
+$font-size-3xl:       2rem;        // 32px
+$font-size-4xl:       2.5rem;      // 40px
+$font-size-5xl:       3rem;        // 48px
+
+// Weights
+$font-weight-normal:  400;
+$font-weight-medium:  500;
+$font-weight-semibold: 600;
+
+// Line heights
+$line-height-tight:   1.2;
+$line-height-base:    1.6;
+$line-height-relaxed: 1.75;
+
+// SPACING
+// --------------------------------------------------------------------------
+$space-1:   0.25rem;   // 4px
+$space-2:   0.5rem;    // 8px
+$space-3:   0.75rem;   // 12px
+$space-4:   1rem;      // 16px
+$space-5:   1.5rem;    // 24px
+$space-6:   2rem;      // 32px
+$space-8:   3rem;      // 48px
+$space-10:  4rem;      // 64px
+$space-12:  6rem;      // 96px
+$space-16:  8rem;      // 128px
+
+// LAYOUT
+// --------------------------------------------------------------------------
+$container-max:       1200px;
+$container-narrow:    720px;
+$container-padding:   $space-5;
+
+// BREAKPOINTS (mobile-first)
+// --------------------------------------------------------------------------
+$bp-sm:   480px;
+$bp-md:   768px;
+$bp-lg:   1024px;
+$bp-xl:   1280px;
+
+// Mixins for breakpoints
+@mixin media-sm { @media (min-width: $bp-sm) { @content; } }
+@mixin media-md { @media (min-width: $bp-md) { @content; } }
+@mixin media-lg { @media (min-width: $bp-lg) { @content; } }
+@mixin media-xl { @media (min-width: $bp-xl) { @content; } }
+
+// TRANSITIONS
+// --------------------------------------------------------------------------
+$transition-fast:   150ms ease;
+$transition-base:   250ms ease;
+$transition-slow:   400ms ease;
+
+// BORDERS
+// --------------------------------------------------------------------------
+$border-radius-sm:  4px;
+$border-radius:     8px;
+$border-radius-lg:  12px;

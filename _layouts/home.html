@@ -1,0 +1,140 @@
+---
+layout: default
+body_class: home
+---
+
+<!-- HOMEPAGE LAYOUT: Sectioned for authority + conversion -->
+
+<!-- 1. HERO -->
+<section class="hero">
+  <div class="container">
+    <h1 class="hero-title">{{ page.hero.title }}</h1>
+    <p class="hero-lead">{{ page.hero.lead }}</p>
+    
+    <div class="hero-cta">
+      <a href="{{ page.hero.primary_cta_url | relative_url }}" class="btn btn-primary">
+        {{ page.hero.primary_cta }}
+      </a>
+      <a href="{{ page.hero.secondary_cta_url | relative_url }}" class="btn btn-secondary">
+        {{ page.hero.secondary_cta }}
+      </a>
+    </div>
+    
+    {% if page.hero.microcopy %}
+      <p class="hero-microcopy">{{ page.hero.microcopy }}</p>
+    {% endif %}
+  </div>
+</section>
+
+<!-- 2. TRUST SIGNALS -->
+{% if page.trust_signals %}
+<section class="trust-signals">
+  <div class="container">
+    <ul class="trust-list">
+      {% for signal in page.trust_signals %}
+        <li class="trust-item">{{ signal }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}
+
+<!-- 3. WHY HARBOUR TILING -->
+{% if page.why_section %}
+<section class="why-section">
+  <div class="container">
+    <h2>{{ page.why_section.heading }}</h2>
+    <div class="why-content">
+      {{ page.why_section.content | markdownify }}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- 4. CORE SERVICES -->
+{% if page.services %}
+<section class="services-section">
+  <div class="container">
+    <h2>{{ page.services.heading | default: "What we do" }}</h2>
+    <div class="services-grid">
+      {% for service in page.services.items %}
+        <div class="service-card">
+          <h3>{{ service.title }}</h3>
+          <p>{{ service.description }}</p>
+          <a href="{{ service.url | relative_url }}" class="service-link">Learn more</a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- 5. RYDE AUTHORITY PREVIEW -->
+{% if page.ryde_preview %}
+<section class="ryde-preview">
+  <div class="container">
+    <h2>{{ page.ryde_preview.heading }}</h2>
+    <p>{{ page.ryde_preview.text }}</p>
+    <a href="{{ page.ryde_preview.link_url | relative_url }}" class="btn btn-outline">
+      {{ page.ryde_preview.link_text }}
+    </a>
+  </div>
+</section>
+{% endif %}
+
+<!-- 6. PROCESS -->
+{% if page.process %}
+<section class="process-section">
+  <div class="container">
+    <h2>{{ page.process.heading | default: "How it works" }}</h2>
+    <ol class="process-list">
+      {% for step in page.process.steps %}
+        <li class="process-step">
+          <span class="process-step-title">{{ step.title }}</span>
+          <span class="process-step-desc">{{ step.description }}</span>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+{% endif %}
+
+<!-- 7. PROOF (WITHOUT TESTIMONIALS) -->
+{% if page.proof %}
+<section class="proof-section">
+  <div class="container">
+    <h2>{{ page.proof.heading }}</h2>
+    <div class="proof-content">
+      {{ page.proof.content | markdownify }}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- 8. CALM CONVERSION -->
+{% if page.conversion %}
+<section class="conversion-section">
+  <div class="container">
+    <div class="conversion-grid">
+      <div class="conversion-context">
+        <h2>{{ page.conversion.heading }}</h2>
+        <p>{{ page.conversion.text }}</p>
+      </div>
+      <div class="conversion-actions">
+        <a href="{{ page.conversion.primary_cta_url | relative_url }}" class="btn btn-primary">
+          {{ page.conversion.primary_cta }}
+        </a>
+        <a href="{{ page.conversion.secondary_cta_url | relative_url }}" class="btn btn-secondary">
+          {{ page.conversion.secondary_cta }}
+        </a>
+        {% if page.conversion.note %}
+          <p class="conversion-note">{{ page.conversion.note }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- Any additional content from the page body -->
+{{ content }}
