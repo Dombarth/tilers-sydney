@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Tiling in Huntleys Cove"
 subtitle: "Bathroom, kitchen and apartment tiling in Huntleys Cove - prep-first, planned properly"
@@ -56,6 +56,6 @@ These are some of the issues that create expensive rework later:
 
 - <a href="/tiling-in-ryde-nsw/">Read: Tiling in Ryde NSW - planning guide</a>
 - <a href="/areas/ryde/">Ryde areas hub (all suburb guides)</a>
-- <a href="/bathroom-tiling/">Bathroom tiling (scope + what's involved)</a>
-- <a href="/kitchen-tiling/">Kitchen tiling (splashbacks, floors)</a>
-- <a href="/apartment-tiling/">Apartment tiling (strata & access)</a>
+- <a href="/bathroom-tiling-ryde/">Bathroom tiling (scope + what's involved)</a>
+- <a href="/kitchen-tiling-ryde/">Kitchen tiling (splashbacks, floors)</a>
+- <a href="/apartment-tiling-ryde/">Apartment tiling (strata & access)</a>

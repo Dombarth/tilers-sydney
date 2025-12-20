@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Tiling in Rydalmere"
 subtitle: "Bathroom, kitchen and apartment tiling in Rydalmere - planned properly and coordinated"
@@ -40,6 +40,6 @@ This page is designed to answer the practical questions that matter before you g
 ## Where to go next
 
 - <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW - planning guide</a>
-- <a href="/bathroom-tiling/">Bathroom tiling</a>
-- <a href="/kitchen-tiling/">Kitchen tiling</a>
-- <a href="/apartment-tiling/">Apartment tiling</a>
+- <a href="/bathroom-tiling-ryde/">Bathroom tiling</a>
+- <a href="/kitchen-tiling-ryde/">Kitchen tiling</a>
+- <a href="/apartment-tiling-ryde/">Apartment tiling</a>

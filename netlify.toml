@@ -1,0 +1,52 @@
+# Netlify configuration for Harbour Tiling
+# Includes redirects so old service URLs keep working after slug updates.
+
+[[redirects]]
+  from = "/bathroom-tiling"
+  to = "/bathroom-tiling-ryde/"
+  status = 301
+
+[[redirects]]
+  from = "/bathroom-tiling/"
+  to = "/bathroom-tiling-ryde/"
+  status = 301
+
+[[redirects]]
+  from = "/kitchen-tiling"
+  to = "/kitchen-tiling-ryde/"
+  status = 301
+
+[[redirects]]
+  from = "/kitchen-tiling/"
+  to = "/kitchen-tiling-ryde/"
+  status = 301
+
+[[redirects]]
+  from = "/apartment-tiling"
+  to = "/apartment-tiling-ryde/"
+  status = 301
+
+[[redirects]]
+  from = "/apartment-tiling/"
+  to = "/apartment-tiling-ryde/"
+  status = 301
+
+[[redirects]]
+  from = "/pool-tiling"
+  to = "/pool-tiling-ryde/"
+  status = 301
+
+[[redirects]]
+  from = "/pool-tiling/"
+  to = "/pool-tiling-ryde/"
+  status = 301
+
+[[redirects]]
+  from = "/outdoor-patio-tiling"
+  to = "/outdoor-patio-tiling-ryde/"
+  status = 301
+
+[[redirects]]
+  from = "/outdoor-patio-tiling/"
+  to = "/outdoor-patio-tiling-ryde/"
+  status = 301
