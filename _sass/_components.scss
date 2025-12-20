@@ -38,15 +38,15 @@
   }
 }
 
-// Primary button — Solid clay
+// Primary button — Brand blue (high-conversion)
 .btn-primary {
-  background: $color-ink;
+  background: $color-cta;
   color: $color-white;
-  border-color: $color-ink;
+  border-color: $color-cta;
   
   &:hover {
-    background: $color-charcoal;
-    border-color: $color-charcoal;
+    background: $color-cta-hover;
+    border-color: $color-cta-hover;
     color: $color-white;
     transform: translateY(-1px);
     box-shadow: $shadow-md;
@@ -93,16 +93,29 @@
   }
 }
 
-// Outline button — Accent
+// Outline button — Brand
 .btn-outline {
   background: transparent;
-  color: $color-clay;
-  border-color: $color-clay;
+  color: $color-brand;
+  border-color: $color-brand;
   
   &:hover {
-    background: $color-clay;
+    background: $color-brand;
     color: $color-white;
-    border-color: $color-clay;
+    border-color: $color-brand;
+  }
+}
+
+// Light button (top bar)
+.btn-light {
+  background: rgba($color-white, 0.14);
+  color: $color-white;
+  border-color: rgba($color-white, 0.3);
+
+  &:hover {
+    background: rgba($color-white, 0.22);
+    border-color: rgba($color-white, 0.5);
+    color: $color-white;
   }
 }
 
@@ -116,6 +129,7 @@
 .btn-sm {
   padding: $space-3 $space-4;
   font-size: $font-size-xs;
+  min-height: 40px;
 }
 
 // ==========================================================================
@@ -178,7 +192,7 @@
 .service-link {
   font-size: $font-size-sm;
   font-weight: $font-weight-medium;
-  color: $color-clay;
+  color: $color-brand;
   display: inline-flex;
   align-items: center;
   gap: $space-2;

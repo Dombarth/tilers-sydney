@@ -19,8 +19,13 @@ $color-charcoal:      #2d2d2d;      // Secondary headings
 $color-slate:         #5c5c5c;      // Body text, muted
 $color-slate-light:   #8a8a8a;      // Captions, helpers
 
-// Accent: Muted clay/terracotta
-$color-clay:          #a67c52;      // Primary accent
+// Brand accent (guide-inspired): Deep architectural blue
+$color-brand:         #0b5e82;      // Primary brand / CTA
+$color-brand-dark:    #084a66;      // Hover
+$color-brand-light:   #3d8fb3;      // Soft accent
+
+// Secondary accent: Muted clay/terracotta (warmth)
+$color-clay:          #a67c52;      // Secondary accent
 $color-clay-dark:     #8b6544;      // Accent hover
 $color-clay-light:    #c9a882;      // Accent soft
 
@@ -32,14 +37,20 @@ $color-night-soft:    #2f2d2a;      // Dark section cards
 $color-white:         #ffffff;
 
 // Functional mappings
-$color-text:          $color-ink;
+$color-text:           $color-ink;
 $color-text-secondary: $color-slate;
-$color-text-muted:    $color-slate-light;
-$color-bg:            $color-cream;
-$color-bg-alt:        $color-stone;
-$color-bg-contrast:   $color-stone-warm;
-$color-border:        $color-sand;
-$color-border-subtle: rgba($color-ink, 0.08);
+$color-text-muted:     $color-slate-light;
+$color-bg:             $color-cream;
+$color-bg-alt:         $color-stone;
+$color-bg-contrast:    $color-stone-warm;
+$color-border:         $color-sand;
+$color-border-subtle:  rgba($color-ink, 0.08);
+
+// Interactive mappings
+$color-link:           $color-brand;
+$color-link-hover:     $color-brand-dark;
+$color-cta:            $color-brand;
+$color-cta-hover:      $color-brand-dark;
 
 // TYPOGRAPHY — Architectural Hierarchy
 // --------------------------------------------------------------------------

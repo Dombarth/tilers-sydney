@@ -149,15 +149,15 @@ p {
 
 // Links
 a {
-  color: $color-clay;
+  color: $color-link;
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: color $transition-fast, border-color $transition-fast;
   
   &:hover,
   &:focus {
-    color: $color-clay-dark;
-    border-bottom-color: $color-clay-dark;
+    color: $color-link-hover;
+    border-bottom-color: $color-link-hover;
   }
 }
 
