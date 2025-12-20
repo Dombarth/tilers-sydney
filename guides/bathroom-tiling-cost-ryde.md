@@ -1,191 +1,251 @@
 ---
 layout: page
-title: "Bathroom tiling cost in Ryde"
-subtitle: "What drives price, what changes scope, and how to compare quotes"
-description: "A practical, people-first guide to bathroom tiling cost in Ryde NSW: what affects price, prep, waterproofing coordination, tile format, and how to compare quotes without getting caught by shortcuts."
+title: "Bathroom Tiling Cost in Ryde"
+subtitle: "What drives price, typical ranges, and how to compare quotes"
+description: "Bathroom tiling cost in Ryde NSW: detailed price ranges for labour, materials, preparation, and total project costs. What affects pricing and how to compare quotes."
 permalink: /bathroom-tiling-cost-ryde/
 faq:
+  - q: "How much does bathroom tiling cost in Ryde?"
+    a: "Bathroom tiling in Ryde typically costs $3,000-$8,000 for a standard bathroom, including tiling labour, materials, and basic preparation. Full renovations including demolition, waterproofing, and premium finishes can range from $8,000-$15,000+."
   - q: "Why do bathroom tiling quotes in Ryde vary so much?"
-    a: "Because the scope varies. The biggest differences are usually substrate condition and preparation, waterproofing coordination and cure time, tile format/detailing, and (for apartments) access logistics like lifts, parking and waste runs."
-  - q: "Is waterproofing included in a tiling quote?"
-    a: "Not always. In NSW, wet areas are waterproofed by a licensed waterproofer. A tiler typically coordinates sequencing, but you should confirm who the waterproofer is, what is included, and how long cure time is allowed before tiling starts."
-  - q: "Should I choose a cheaper quote if everything ‘looks the same’?"
-    a: "Only if the scope is genuinely the same. Compare what preparation is included, how waterproofing is handled (and cure time allowed), what grout/silicone detailing is included, and what happens if issues are found after demolition."
+    a: "The biggest variables are substrate condition (what's under the tiles), waterproofing requirements, tile format and complexity, and whether it's a house or apartment. Quotes also vary based on what preparation and finishing details are included."
+  - q: "What's the labour rate for bathroom tiling in Ryde?"
+    a: "Bathroom tiling labour in the Ryde area typically ranges from $65-$120 per square metre, depending on tile size, complexity, and whether walls or floors. Large-format tiles and complex layouts cost more per m²."
 ---
 
-## Quick answer (for planning)
+## Bathroom Tiling Price Ranges for Ryde
 
-Bathroom tiling cost in Ryde varies because **scope varies**. The biggest differences usually come from:
+### Total Project Cost Ranges (Labour + Materials)
 
-- **Substrate condition and preparation** (what’s under the tiles, how flat/stable it is)
-- **Waterproofing scope and curing time** (wet area compliance + correct sequencing)
-- **Tile format and detailing** (large format, niches, mitres, floor-to-ceiling)
-- **Apartment logistics** (lift bookings, parking, noise windows, waste runs)
+| Bathroom Type | Tiling Only | With Demo + Prep | Full Reno (incl. waterproofing) |
+|--------------|-------------|------------------|--------------------------------|
+| Small ensuite (4-6m²) | $2,000-$3,500 | $3,000-$5,000 | $5,500-$8,500 |
+| Standard bathroom (6-10m²) | $3,000-$5,500 | $4,500-$7,500 | $7,500-$12,000 |
+| Large/main bathroom (10-15m²) | $5,000-$8,500 | $7,000-$11,000 | $11,000-$16,000 |
+| Apartment bathroom | Add 10-20% | Add 15-25% | Add 15-25% |
 
-A quote that’s cheaper because it skips prep, compresses waterproofing cure time, or avoids documentation often becomes expensive later.
-
-If you want a realistic assessment, call <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a> and tell me whether it’s a **house/apartment**, the **age of the bathroom**, and your **tile size**.
-
----
-
-## What you’re really paying for
-
-Bathroom tiling isn’t only “lay tiles and grout”. You’re paying for a chain of steps that must be done in order.
-
-In Ryde, many bathrooms have been renovated once or twice already. That renovation history is often what changes the scope.
-
-### Step-by-step (the typical sequence)
-
-1. **Demolition and inspection** (what’s under the tiles)
-2. **Substrate preparation** (flattening, sheeting, repairs)
-3. **Waterproofing** (licensed waterproofer in NSW wet areas)
-4. **Cure time** (do not compress)
-5. **Tiling** (setout, cuts, levelling)
-6. **Grout and silicone** (correct junction detailing)
-7. **Handover** (care, documentation if applicable)
-
-The quote changes when any of these steps becomes more involved.
+*Prices are indicative for Ryde and nearby suburbs (2024). Tile cost additional if customer-supplied. Final price depends on specific conditions.*
 
 ---
 
-## The biggest cost drivers in Ryde bathrooms
+## Labour Rates (Ryde Area)
 
-### 1) Demolition + what’s underneath
+### Tiling Labour Per Square Metre
 
-A quote changes quickly if:
+| Tile Format | Wall Tiling | Floor Tiling | Notes |
+|------------|-------------|--------------|-------|
+| Standard tiles (300x300 to 450x450) | $55-$75/m² | $50-$70/m² | Most common, efficient installation |
+| Medium format (450x450 to 600x600) | $65-$85/m² | $60-$80/m² | Requires flatter substrate |
+| Large format (600x600 to 600x1200) | $80-$110/m² | $75-$100/m² | More handling, tighter tolerances |
+| Extra large (600x1200+) | $100-$130/m² | $95-$120/m² | Requires very flat substrate |
+| Mosaics/small format | $85-$120/m² | $80-$110/m² | More grout lines, more time |
 
-- existing tiles are hard to remove
-- the substrate is damaged or not flat
-- the bathroom has old adhesive beds that require grinding
-- there is water damage or movement (especially timber floors)
+### Additional Labour Charges
 
-**Why it matters:** tiles fail because the substrate fails.
-
-**People-first check:** ask *what the tiler plans to do if the substrate is not suitable after demo*. A good process plans for that scenario.
-
-### 2) Substrate preparation (flatness + stability)
-
-Large-format tiles and clean minimal finishes demand flatness. Prep can include:
-
-- grinding high spots
-- levelling compounds
-- crack isolation (where appropriate)
-- fibre cement sheeting on timber floors
-- decoupling membranes (where appropriate)
-
-If prep is not included (or is vague), you’re not comparing quotes fairly.
-
-### 3) Waterproofing scope + sequencing
-
-In NSW, wet areas are waterproofed by a licensed waterproofer.
-
-What changes cost:
-
-- whether waterproofing is required (most bathroom re-tiles: yes)
-- whether the existing membrane is unknown/compromised
-- whether the bathroom is being partially or fully stripped
-- cure time (often 24–72 hours depending on product and conditions)
-
-**Shortcut risk:** “we can tile the next day regardless” is one of the biggest red flags.
-
-If you want the detail, read: <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde</a>.
-
-### 4) Tile format and complexity
-
-Tile choice changes labour and prep, even if tile price stays the same.
-
-**Large-format tiles (e.g., 600x600 and up)** can require:
-
-- flatter walls/floors
-- more careful handling
-- tighter setout planning
-- more time cutting and aligning
-
-Complexity also increases with:
-
-- niches
-- floor-to-ceiling walls
-- feature walls and patterns
-- mitred edges (vs trims)
-- drains/falls that require precise setout
-
-### 5) Apartment logistics (Ryde reality)
-
-A big share of Ryde work is apartments (Ryde/West Ryde/Meadowbank/Macquarie Park).
-
-Costs can change due to:
-
-- lift bookings
-- parking/loading restrictions
-- noise windows (demo/cutting)
-- multiple waste runs
-
-This isn’t “extra for no reason” - it’s the real time it takes to do the job without causing building issues.
-
-Read: <a href="/apartment-tiling-ryde-strata/">Apartment tiling in Ryde (strata logistics)</a>.
+| Work Item | Typical Cost | Notes |
+|-----------|-------------|-------|
+| Shower niche (per niche) | $150-$300 | Depends on size and tile cuts |
+| Feature wall (additional) | $200-$400 | Pattern matching, layout planning |
+| Mitred edges (per linear metre) | $25-$40 | Premium finish vs trim profiles |
+| Hob/step tiling | $150-$250 | Additional cuts and waterproofing detail |
+| Bath surround | $300-$500 | Includes silicone and edge finishing |
 
 ---
 
-## Should you publish price ranges?
+## Preparation Costs
 
-I’m intentionally not publishing $/m² figures here because:
+### Demolition and Removal
 
-- bathrooms vary too much by prep and waterproofing scope
-- it invites apples-to-oranges comparisons
-- it encourages quote shopping on the wrong variables
+| Work Item | Typical Cost | Notes |
+|-----------|-------------|-------|
+| Tile removal (floor) | $25-$40/m² | Varies by adhesive type |
+| Tile removal (walls) | $30-$50/m² | Older tiles often harder to remove |
+| Adhesive/bed grinding | $20-$35/m² | Required if substrate damaged |
+| Waste disposal | $150-$350 | Depends on bathroom size and access |
+| Apartment waste runs | Add $100-$250 | Multiple trips to bins, lift logistics |
 
-Instead, use this guide to compare scope.
+### Substrate Preparation
 
-If you want a *ballpark*, I can talk you through it on the phone once you describe the substrate and scope.
+| Work Item | Typical Cost | Notes |
+|-----------|-------------|-------|
+| Levelling compound (floor) | $25-$45/m² | Depends on flatness required |
+| Wall flattening/rendering | $30-$55/m² | For large-format tile requirements |
+| Fibre cement sheeting (timber floors) | $40-$65/m² | Required for wet areas on timber |
+| Crack isolation membrane | $20-$35/m² | Over structural cracks |
+| Priming | $8-$15/m² | Standard prep |
 
 ---
 
-## How to compare quotes in a way that protects you
+## Waterproofing Costs
 
-### A quote comparison checklist
+In NSW, wet areas must be waterproofed by a licensed waterproofer. This is typically a separate cost:
+
+| Area | Typical Cost | Notes |
+|------|-------------|-------|
+| Shower floor and walls (to 1800mm) | $800-$1,500 | Standard requirement |
+| Full bathroom floor and wet walls | $1,200-$2,200 | Full bathroom waterproofing |
+| Balcony/outdoor (if applicable) | $60-$100/m² | Trafficable membrane |
+
+**Important:** Waterproofing must cure before tiling (24-72 hours depending on product). Quotes that compress this timeline risk failures.
+
+---
+
+## Materials Cost Guide
+
+### Grout and Adhesive
+
+| Material | Cost | Notes |
+|----------|------|-------|
+| Standard cement grout (per bathroom) | $80-$150 | Needs sealing in wet areas |
+| Epoxy grout (per bathroom) | $200-$400 | Waterproof, stain-resistant, no sealing needed |
+| Flexible tile adhesive (per bathroom) | $100-$200 | Standard wet area adhesive |
+| Premium adhesive (large format) | $150-$300 | Required for tiles 600x600+ |
+
+### Silicone and Finishing
+
+| Item | Cost | Notes |
+|------|------|-------|
+| Silicone (per bathroom) | $40-$80 | All internal corners and junctions |
+| Metal trim profiles (per linear metre) | $15-$25 | Standard edge finishing |
+| Premium trim profiles (per linear metre) | $25-$45 | Schluter or equivalent |
+
+---
+
+## What Drives Price Up
+
+### 1. Substrate Condition
+
+The biggest hidden cost. Old bathrooms (pre-2000) in Ryde often have:
+- **Damaged substrates**: $500-$1,500+ to repair
+- **Old adhesive beds**: $300-$600 to grind
+- **Timber floors needing sheeting**: $400-$700
+- **Unknown waterproofing**: $1,200-$2,200 to redo properly
+
+### 2. Tile Format and Complexity
+
+| Feature | Additional Cost |
+|---------|----------------|
+| Large-format tiles (vs standard) | +15-30% labour |
+| Floor-to-ceiling tiling | +$500-$1,200 |
+| Multiple tile patterns | +$300-$800 |
+| Niches (2-3 in shower) | +$300-$600 |
+| Mitred edges throughout | +$400-$900 |
+
+### 3. Apartment Logistics (Ryde Reality)
+
+Ryde has significant apartment density. Building logistics add real cost:
+
+| Factor | Additional Cost |
+|--------|----------------|
+| Lift bookings and coordination | +$100-$200 |
+| Limited parking/multiple trips | +$100-$300 |
+| Noise restriction compliance | +$200-$400 (extended timeline) |
+| Multiple waste runs | +$150-$300 |
+
+---
+
+## Example Bathroom Costs (Ryde)
+
+### Example 1: Standard Bathroom Retile (House)
+- **Bathroom**: 8m² (floor 4m², walls 12m²)
+- **Tiles**: 450x450mm porcelain
+- **Scope**: Demo, prep, waterproof, tile, grout, silicone
+
+| Item | Cost |
+|------|------|
+| Demolition and disposal | $600 |
+| Substrate preparation | $450 |
+| Waterproofing (licensed) | $1,400 |
+| Tiling labour | $1,800 |
+| Materials (grout, adhesive, silicone) | $350 |
+| **Total** | **$4,600** |
+
+*Tiles supplied by customer. Add $500-$1,500 for tiles if supplier pricing.*
+
+### Example 2: Large Format Bathroom (House)
+- **Bathroom**: 10m² (floor 5m², walls 16m²)
+- **Tiles**: 600x1200mm porcelain, floor-to-ceiling
+- **Features**: 2 niches, mitred edges
+
+| Item | Cost |
+|------|------|
+| Demolition and disposal | $750 |
+| Substrate preparation (extra flat) | $850 |
+| Waterproofing (licensed) | $1,600 |
+| Tiling labour (large format) | $3,200 |
+| Niches (2) | $400 |
+| Mitred edges | $450 |
+| Materials (epoxy grout, premium adhesive) | $550 |
+| **Total** | **$7,800** |
+
+### Example 3: Apartment Bathroom (Ryde/Macquarie Park)
+- **Bathroom**: 6m² (floor 3m², walls 10m²)
+- **Tiles**: 600x600mm porcelain
+- **Building**: High-rise with lift booking, noise restrictions
+
+| Item | Cost |
+|------|------|
+| Demolition and disposal | $650 |
+| Substrate preparation | $500 |
+| Waterproofing (licensed) | $1,300 |
+| Tiling labour | $1,600 |
+| Materials | $300 |
+| Apartment logistics (lift, waste, timing) | $350 |
+| **Total** | **$4,700** |
+
+---
+
+## How to Compare Quotes
+
+### Quote Comparison Checklist
 
 Ask each tiler:
 
-1. **What prep is included?** (grinding/levelling/sheeting)
-2. **Who is the licensed waterproofer and what’s the sequence?**
-3. **How much cure time is allowed before tiling?**
-4. **What grout is included?** (cement vs epoxy)
-5. **What silicone/junction detailing is included?**
-6. **Is setout/layout planning included?** (cuts, symmetry, focal points)
-7. **What happens if issues are found after demolition?**
+1. **What preparation is included?** (grinding, levelling, sheeting)
+2. **Who is the licensed waterproofer?** What's the sequence?
+3. **How much cure time is allowed?** (min 24-48 hours)
+4. **What grout type?** (cement vs epoxy)
+5. **Are niches/features priced separately?**
+6. **What happens if substrate is worse than expected?**
 
-If a quote can’t answer these clearly, the price alone doesn’t mean much.
+### Red Flags
 
-### What to avoid (common causes of rework)
-
-- vague prep (“prep as required” with no detail)
-- compressed timelines that ignore cure time
-- no clarity on waterproofing responsibility
-- grout used in corners instead of silicone
+- No mention of waterproofing coordination
+- "Prep as required" without detail
+- Cure time compressed to start tiling immediately
+- Significantly lower price without explanation
+- Grout used in corners (should be silicone)
 
 ---
 
-## Next steps (Ryde-specific)
+## Harbour Tiling provides bathroom tiling in Ryde
 
-- <a href="/areas/ryde/">Ryde areas hub - suburb guides</a>
-- <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW - planning guide</a>
-- <a href="/bathroom-tiling/">Bathroom tiling - what’s involved</a>
-- <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde</a>
+Harbour Tiling provides professional bathroom tiling services throughout Ryde NSW and nearby suburbs. We assess substrate condition before quoting, coordinate with licensed waterproofers to ensure proper membrane application and cure time, and provide detailed quotes that specify what's included. For bathroom projects in Ryde, West Ryde, Eastwood, North Ryde, Gladesville, Meadowbank, and surrounding areas, we focus on preparation that prevents long-term failures and transparent pricing that lets you compare quotes fairly.
 
 ---
 
-## Want a realistic assessment?
+## Related Guides
+
+- <a href="/bathroom-tiling-ryde/">Bathroom tiling in Ryde (scope + what's involved)</a>
+- <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde (sequence + cure time)</a>
+- <a href="/apartment-tiling-ryde-strata/">Apartment tiling in Ryde (strata logistics)</a>
+- <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
+
+---
+
+## Want a Realistic Quote?
 
 If you tell me:
 
-- house or apartment
-- age of bathroom / last renovation
-- tile size you’re considering
+- House or apartment
+- Bathroom size (approximate m² or dimensions)
+- Tile size you're considering
+- Age of existing bathroom
 
-…I can usually explain what will drive scope (and cost) before you commit.
+...I can provide a realistic assessment of what will affect your quote.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
   <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
-  <a href="/contact/" class="btn btn-secondary">Request a Project Assessment</a>
+  <a href="/contact/" class="btn btn-secondary">Request a Bathroom Tiling Quote</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a Ryde tiling question</a>
 </div>
