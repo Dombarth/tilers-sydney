@@ -1,6 +1,6 @@
 // ==========================================================================
 // LAYOUT — Harbour Tiling
-// Direction: QLH-inspired (big hero, high contrast, trade-site structure)
+// Fresh photo hero, modern sections
 // ==========================================================================
 
 .container {
@@ -14,16 +14,12 @@
   }
 }
 
-.container-narrow {
-  max-width: $container-narrow;
-}
-
 #main-content {
   min-height: 60vh;
 }
 
 // --------------------------------------------------------------------------
-// HEADER (logo + icons style)
+// HEADER
 // --------------------------------------------------------------------------
 
 .site-header {
@@ -31,7 +27,8 @@
   top: 0;
   z-index: 200;
   background: $color-white;
-  border-bottom: 1px solid $color-border;
+  border-bottom: 1px solid $color-border-light;
+  box-shadow: $shadow-sm;
 }
 
 .nav-band-inner {
@@ -43,11 +40,21 @@
 }
 
 .site-logo {
-  font-weight: $font-weight-bold;
-  letter-spacing: $letter-spacing-wide;
-  text-transform: uppercase;
-  color: $color-ink-2;
+  display: block;
   border: none;
+
+  img {
+    height: 48px;
+    width: auto;
+
+    @include media-md {
+      height: 56px;
+    }
+  }
+
+  &:hover {
+    opacity: 0.9;
+  }
 }
 
 .site-nav {
@@ -58,7 +65,7 @@
 .nav-toggle {
   width: 48px;
   height: 48px;
-  border-radius: 999px;
+  border-radius: $border-radius;
   border: 1px solid $color-border;
   background: $color-white;
   display: inline-flex;
@@ -68,6 +75,11 @@
   position: relative;
   z-index: 201;
   -webkit-tap-highlight-color: transparent;
+  transition: background $transition-fast;
+
+  &:hover {
+    background: $color-grey-50;
+  }
 
   @include media-lg {
     display: none;
@@ -77,7 +89,7 @@
 .nav-toggle-icon {
   width: 20px;
   height: 2px;
-  background: $color-ink-2;
+  background: $color-navy;
   position: relative;
 
   &::before,
@@ -87,7 +99,7 @@
     left: 0;
     width: 100%;
     height: 2px;
-    background: $color-ink-2;
+    background: $color-navy;
     transition: transform $transition-base;
   }
 
@@ -125,7 +137,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: $space-4;
+    gap: $space-5;
     position: static;
     box-shadow: none;
     border: none;
@@ -136,22 +148,27 @@
 .nav-item a:not(.btn) {
   display: block;
   padding: $space-3 0;
-  font-weight: $font-weight-semibold;
-  text-transform: uppercase;
-  letter-spacing: $letter-spacing-wide;
-  font-size: $font-size-xs;
-  color: $color-ink-2;
+  font-weight: $font-weight-medium;
+  font-size: $font-size-sm;
+  color: $color-grey-600;
+  transition: color $transition-fast;
 
   @include media-lg {
     padding: 0;
   }
+
+  &:hover,
+  &[aria-current="page"] {
+    color: $color-blue;
+  }
 }
 
 .nav-item-cta {
-  margin-top: $space-3;
+  margin-top: $space-4;
 
   @include media-lg {
     margin-top: 0;
+    margin-left: $space-3;
   }
 }
 
@@ -160,169 +177,253 @@
 // --------------------------------------------------------------------------
 
 .section {
-  padding: $space-8 0;
+  padding: $space-10 0;
 
   @include media-md {
-    padding: $space-10 0;
+    padding: $space-12 0;
+  }
+
+  @include media-lg {
+    padding: $space-16 0;
   }
 }
 
 .section-light { background: $color-bg; }
 .section-alt { background: $color-bg-alt; }
 
+.section-header {
+  margin-bottom: $space-8;
+
+  @include media-md {
+    margin-bottom: $space-10;
+  }
+}
+
+.section-subtitle {
+  margin-top: $space-3;
+  color: $color-text;
+  max-width: 600px;
+}
+
 // --------------------------------------------------------------------------
-// HERO (QLH-like: large, dark overlay)
+// HERO (Photo background)
 // --------------------------------------------------------------------------
 
 .hero {
   position: relative;
-  min-height: 56vh;
+  min-height: 70vh;
   display: flex;
-  align-items: flex-end;
-  padding: $space-10 0;
+  align-items: center;
+  padding: $space-12 0;
   color: $color-white;
-  background:
-    linear-gradient(180deg, rgba(0,0,0,0.55), rgba(0,0,0,0.65)),
-    radial-gradient(1000px 600px at 20% 25%, rgba($color-brand, 0.35), transparent 55%),
-    radial-gradient(800px 500px at 80% 55%, rgba($color-brand, 0.18), transparent 60%),
-    linear-gradient(180deg, $color-night, $color-night-2);
+  background-color: $color-navy;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  @include media-md {
+    min-height: 80vh;
+    padding: $space-16 0;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      135deg,
+      rgba($color-navy, 0.85) 0%,
+      rgba($color-navy, 0.6) 50%,
+      rgba($color-navy, 0.4) 100%
+    );
+  }
 }
 
 .hero-inner {
+  position: relative;
+  z-index: 1;
   width: 100%;
 }
 
 .hero-copy {
-  max-width: 860px;
+  max-width: 700px;
 }
 
 .hero-title {
   color: $color-white;
+  text-shadow: 0 2px 20px rgba(0,0,0,0.3);
 }
 
 .hero-lead {
-  margin-top: $space-3;
-  color: rgba($color-white, 0.9);
-  max-width: 760px;
+  margin-top: $space-4;
+  color: rgba($color-white, 0.95);
+  font-size: $font-size-lg;
+  line-height: $line-height-relaxed;
+
+  @include media-md {
+    font-size: $font-size-xl;
+  }
 }
 
 .hero-microcopy {
-  margin-top: $space-4;
+  margin-top: $space-5;
   font-size: $font-size-sm;
-  color: rgba($color-white, 0.75);
+  color: rgba($color-white, 0.8);
 }
 
-// Trust badges under hero (QLH style)
+// Trust strip under hero
 .trust-strip {
-  background: $color-bg-alt;
-  border-top: 1px solid $color-border;
-  border-bottom: 1px solid $color-border;
-  padding: $space-5 0;
+  background: $color-white;
+  border-bottom: 1px solid $color-border-light;
+  padding: $space-6 0;
 }
 
-// Services grid
+// --------------------------------------------------------------------------
+// SERVICE GRID
+// --------------------------------------------------------------------------
+
 .services-grid {
   display: grid;
   grid-template-columns: 1fr;
   gap: $space-5;
 
   @include media-md {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include media-lg {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
-.section-header {
-  display: flex;
-  flex-direction: column;
-  gap: $space-3;
-  margin-bottom: $space-6;
-}
+// --------------------------------------------------------------------------
+// PROCESS LIST
+// --------------------------------------------------------------------------
 
-.section-subtitle {
-  margin: 0;
-  max-width: 760px;
-}
-
-// Process list
 .process-list {
   list-style: none;
   padding: 0;
   margin: 0;
+  counter-reset: process;
 }
 
 .process-step {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: $space-2;
-  padding: $space-4 0;
-  border-bottom: 1px solid $color-border;
+  grid-template-columns: 48px 1fr;
+  gap: $space-4;
+  padding: $space-5 0;
+  border-bottom: 1px solid $color-border-light;
+  counter-increment: process;
 
-  @include media-md {
-    grid-template-columns: 260px 1fr;
-    gap: $space-5;
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &::before {
+    content: counter(process);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    background: $color-blue-soft;
+    color: $color-blue;
+    border-radius: 50%;
+    font-size: $font-size-lg;
+    font-weight: $font-weight-bold;
   }
 }
 
 .process-step-title {
-  font-weight: $font-weight-bold;
-  text-transform: uppercase;
-  letter-spacing: $letter-spacing-wide;
-  font-size: $font-size-sm;
-  color: $color-ink-2;
+  font-weight: $font-weight-semibold;
+  color: $color-navy;
+  margin-bottom: $space-1;
 }
 
 .process-step-desc {
-  color: $color-muted;
+  color: $color-text;
+  font-size: $font-size-sm;
 }
 
-// Conversion section
+// --------------------------------------------------------------------------
+// CONVERSION SECTION
+// --------------------------------------------------------------------------
+
 .conversion-section {
-  background: $color-night;
+  background: $color-navy;
   color: $color-white;
-}
+  padding: $space-12 0;
 
-.conversion-section h2 {
-  color: $color-white;
+  @include media-md {
+    padding: $space-16 0;
+  }
+
+  h2 {
+    color: $color-white;
+  }
+
+  p {
+    color: rgba($color-white, 0.9);
+  }
 }
 
 .conversion-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: $space-6;
+  gap: $space-8;
 
   @include media-md {
     grid-template-columns: 1fr 1fr;
     align-items: center;
+    gap: $space-12;
   }
 }
 
 .conversion-note {
-  color: rgba($color-white, 0.75);
+  font-size: $font-size-sm;
+  color: rgba($color-white, 0.7);
+  margin-top: $space-3;
 }
 
-// Footer
+// --------------------------------------------------------------------------
+// FOOTER
+// --------------------------------------------------------------------------
+
 .site-footer {
-  margin-top: $space-10;
-  padding: $space-10 0 $space-6;
-  background: $color-night;
+  margin-top: $space-12;
+  padding: $space-12 0 $space-8;
+  background: $color-navy;
   color: rgba($color-white, 0.8);
 }
 
 .footer-main {
   display: grid;
   grid-template-columns: 1fr;
-  gap: $space-6;
+  gap: $space-8;
 
   @include media-md {
     grid-template-columns: 2fr 1fr;
   }
 }
 
+.footer-entity {
+  .footer-logo {
+    height: 40px;
+    width: auto;
+    margin-bottom: $space-4;
+  }
+
+  p {
+    color: rgba($color-white, 0.7);
+    margin-bottom: $space-2;
+  }
+}
+
 .footer-brand {
   color: $color-white;
   font-weight: $font-weight-bold;
-  text-transform: uppercase;
-  letter-spacing: $letter-spacing-wide;
+  font-size: $font-size-xl;
+  margin-bottom: $space-4;
 }
 
 .footer-nav ul {
@@ -331,16 +432,68 @@
   margin: 0;
 }
 
-.footer-nav a {
-  color: rgba($color-white, 0.8);
+.footer-nav li {
+  margin-bottom: $space-2;
 }
 
-.footer-nav a:hover {
-  color: $color-white;
+.footer-nav a {
+  color: rgba($color-white, 0.7);
+  font-size: $font-size-sm;
+  transition: color $transition-fast;
+
+  &:hover {
+    color: $color-white;
+  }
 }
 
 .footer-bottom {
-  margin-top: $space-6;
-  padding-top: $space-4;
-  border-top: 1px solid rgba($color-white, 0.12);
+  margin-top: $space-8;
+  padding-top: $space-5;
+  border-top: 1px solid rgba($color-white, 0.1);
+}
+
+.copyright {
+  font-size: $font-size-sm;
+  color: rgba($color-white, 0.5);
+}
+
+// --------------------------------------------------------------------------
+// PAGE LAYOUT
+// --------------------------------------------------------------------------
+
+.page {
+  padding: $space-10 0;
+
+  @include media-md {
+    padding: $space-16 0;
+  }
+}
+
+.page-header {
+  margin-bottom: $space-8;
+
+  @include media-md {
+    margin-bottom: $space-10;
+  }
+
+  h1 {
+    margin-bottom: $space-4;
+  }
+}
+
+.page-subtitle {
+  color: $color-text;
+  font-size: $font-size-lg;
+
+  @include media-md {
+    font-size: $font-size-xl;
+  }
+}
+
+.page-content {
+  max-width: $container-narrow;
+
+  p, li {
+    line-height: $line-height-relaxed;
+  }
 }

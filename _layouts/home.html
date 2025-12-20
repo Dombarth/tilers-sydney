@@ -12,7 +12,7 @@ body_class: home
 {%- assign proof = page.proof -%}
 {%- assign conversion = page.conversion -%}
 
-<section class="hero">
+<section class="hero" style="background-image: url('{{ '/assets/img/hero-bathroom.jpg' | relative_url }}');">
   <div class="container hero-inner">
     <div class="hero-copy">
       <h1 class="hero-title">{{ hero.title }}</h1>
@@ -50,8 +50,10 @@ body_class: home
 <section class="section section-alt">
   <div class="container">
     <div class="section-header">
-      <h2 class="mb-0">{{ services.heading }}</h2>
-      <p class="section-subtitle">Bathrooms, kitchens, and apartment tiling — scoped clearly and planned properly.</p>
+      <div>
+        <h2 class="mb-0">{{ services.heading }}</h2>
+        <p class="section-subtitle">Bathrooms, kitchens, and apartment tiling — scoped clearly and planned properly.</p>
+      </div>
     </div>
 
     <div class="services-grid">
@@ -68,10 +70,10 @@ body_class: home
 
 <section class="section section-light">
   <div class="container">
-    <div class="container-narrow">
+    <div class="container-narrow text-center">
       <h2>{{ ryde.heading }}</h2>
       <p>{{ ryde.text }}</p>
-      <a href="{{ ryde.link_url | relative_url }}" class="btn btn-secondary">{{ ryde.link_text }}</a>
+      <a href="{{ ryde.link_url | relative_url }}" class="btn btn-outline">{{ ryde.link_text }}</a>
     </div>
   </div>
 </section>
@@ -83,8 +85,10 @@ body_class: home
       <ul class="process-list">
         {% for step in process.steps %}
           <li class="process-step">
-            <span class="process-step-title">{{ step.title }}</span>
-            <span class="process-step-desc">{{ step.description }}</span>
+            <div>
+              <span class="process-step-title">{{ step.title }}</span>
+              <span class="process-step-desc">{{ step.description }}</span>
+            </div>
           </li>
         {% endfor %}
       </ul>
@@ -101,12 +105,12 @@ body_class: home
   </div>
 </section>
 
-<section class="section conversion-section">
+<section class="conversion-section">
   <div class="container">
     <div class="conversion-grid">
       <div>
         <h2>{{ conversion.heading }}</h2>
-        <p class="text-white">{{ conversion.text }}</p>
+        <p>{{ conversion.text }}</p>
       </div>
       <div class="conversion-actions">
         <a href="{{ conversion.primary_cta_url | relative_url }}" class="btn btn-primary btn-lg">{{ conversion.primary_cta }}</a>

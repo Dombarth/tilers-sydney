@@ -1,6 +1,8 @@
 <header class="site-header" role="banner">
   <div class="container nav-band-inner">
-    <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.data.site.business.name }}</a>
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <img src="{{ '/assets/img/logo.svg' | relative_url }}" alt="{{ site.data.site.business.name }}" width="200" height="48">
+    </a>
 
     <nav class="site-nav" role="navigation" aria-label="Main navigation">
       <button class="nav-toggle"
@@ -19,7 +21,7 @@
           </li>
         {% endfor %}
         <li class="nav-item nav-item-cta">
-          <a href="/contact/" class="btn btn-primary btn-sm">Request a Project Assessment</a>
+          <a href="/contact/" class="btn btn-primary btn-sm">Get a Quote</a>
         </li>
       </ul>
     </nav>

@@ -1,0 +1,12 @@
+<?xml version=" 1.0\ encoding=\UTF-8\?>
+<svg xmlns=\http://www.w3.org/2000/svg\ viewBox=\0 0 720 120\ width=\720\ height=\120\ fill=\none\>
+ <g transform=\translate 0 20 \>
+ <rect x=\0\ y=\0\ width=\32\ height=\32\ rx=\4\ fill=\#0A2540\/>
+ <rect x=\40\ y=\0\ width=\32\ height=\32\ rx=\4\ fill=\#1DA1F2\/>
+ <rect x=\0\ y=\40\ width=\32\ height=\32\ rx=\4\ fill=\#1DA1F2\/>
+ <rect x=\40\ y=\40\ width=\32\ height=\32\ rx=\4\ fill=\#6EC1E4\/>
+ <path d=\M0 88 C20 80 52 80 72 88\ stroke=\#1DA1F2\ stroke-width=\6\ fill=\none\ stroke-linecap=\round\/>
+ </g>
+ <text x=\110\ y=\78\ font-family=\Inter Montserrat Arial sans-serif\ font-size=\56\ font-weight=\600\ fill=\#0A2540\>Harbour</text>
+ <text x=\360\ y=\78\ font-family=\Inter Montserrat Arial sans-serif\ font-size=\56\ font-weight=\500\ fill=\#1DA1F2\>Tiling</text>
+</svg>

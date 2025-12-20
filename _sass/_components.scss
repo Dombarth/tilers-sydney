@@ -1,6 +1,6 @@
 // ==========================================================================
 // COMPONENTS — Harbour Tiling
-// Direction: QLH-inspired (high-contrast, conversion-forward)
+// Fresh, high-appeal, conversion-focused
 // ==========================================================================
 
 // --------------------------------------------------------------------------
@@ -13,17 +13,16 @@
   justify-content: center;
   gap: $space-2;
   min-height: 48px;
-  padding: $space-4 $space-5;
+  padding: $space-4 $space-6;
   border-radius: $border-radius;
   border: 2px solid transparent;
   font-family: $font-family-base;
   font-size: $font-size-sm;
   font-weight: $font-weight-semibold;
-  text-transform: uppercase;
-  letter-spacing: $letter-spacing-wide;
+  text-decoration: none;
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
-  transition: transform $transition-fast, background $transition-fast, border-color $transition-fast, color $transition-fast, box-shadow $transition-fast;
+  transition: all $transition-base;
 
   &:active {
     transform: translateY(1px);
@@ -31,7 +30,7 @@
 
   &:focus {
     outline: none;
-    box-shadow: 0 0 0 3px rgba($color-brand, 0.25);
+    box-shadow: 0 0 0 3px $color-blue-soft;
   }
 }
 
@@ -45,70 +44,92 @@
     background: $color-cta-hover;
     border-color: $color-cta-hover;
     color: $color-white;
+    transform: translateY(-2px);
+    box-shadow: $shadow-lg;
   }
 }
 
 .btn-secondary {
   background: $color-white;
   border-color: $color-border;
-  color: $color-ink-2;
+  color: $color-navy;
 
   &:hover {
-    background: $color-bg-alt;
-    border-color: $color-border;
+    background: $color-grey-50;
+    border-color: $color-grey-300;
+    color: $color-navy;
   }
 }
 
 .btn-outline {
   background: transparent;
-  border-color: rgba($color-white, 0.45);
-  color: $color-white;
+  border-color: $color-blue;
+  color: $color-blue;
 
   &:hover {
-    background: rgba($color-white, 0.12);
-    border-color: rgba($color-white, 0.7);
+    background: $color-blue;
+    border-color: $color-blue;
     color: $color-white;
+  }
+
+  // On dark/image backgrounds
+  .hero &,
+  .conversion-section & {
+    border-color: $color-white;
+    color: $color-white;
+
+    &:hover {
+      background: $color-white;
+      color: $color-navy;
+    }
   }
 }
 
 .btn-lg {
-  padding: $space-5 $space-6;
-  font-size: $font-size-sm;
+  padding: $space-5 $space-8;
+  font-size: $font-size-base;
+  min-height: 56px;
 }
 
 .btn-sm {
   padding: $space-3 $space-4;
   min-height: 40px;
-  font-size: $font-size-xs;
+  font-size: $font-size-sm;
 }
 
 // --------------------------------------------------------------------------
-// CARDS / PANELS
+// CARDS
 // --------------------------------------------------------------------------
 
-.card,
-.panel {
+.card {
   background: $color-white;
-  border: 1px solid $color-border;
+  border: 1px solid $color-border-light;
   border-radius: $border-radius-lg;
-  box-shadow: $shadow-sm;
+  box-shadow: $shadow-card;
+  transition: transform $transition-base, box-shadow $transition-base;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: $shadow-md;
+  }
 }
 
 .service-card {
   background: $color-white;
-  border: 1px solid $color-border;
+  border: 1px solid $color-border-light;
   border-radius: $border-radius-lg;
   padding: $space-6;
-  box-shadow: $shadow-sm;
-  transition: transform $transition-fast, box-shadow $transition-fast;
+  box-shadow: $shadow-card;
+  transition: transform $transition-base, box-shadow $transition-base;
 
   &:hover {
-    transform: translateY(-2px);
+    transform: translateY(-4px);
     box-shadow: $shadow-md;
   }
 
   h3 {
     margin-top: 0;
+    color: $color-navy;
   }
 
   p {
@@ -121,38 +142,64 @@
   align-items: center;
   gap: $space-2;
   font-weight: $font-weight-semibold;
-  text-transform: uppercase;
-  letter-spacing: $letter-spacing-wide;
-  font-size: $font-size-xs;
-  color: $color-brand;
+  font-size: $font-size-sm;
+  color: $color-blue;
 
   &::after {
     content: '→';
+    transition: transform $transition-fast;
   }
 
   &:hover {
-    color: $color-brand-dark;
+    color: $color-link-hover;
+
+    &::after {
+      transform: translateX(4px);
+    }
   }
 }
 
-// Trust badges (simple)
+// --------------------------------------------------------------------------
+// TRUST BADGES
+// --------------------------------------------------------------------------
+
 .trust-badges {
   display: grid;
   grid-template-columns: 1fr;
   gap: $space-4;
 
-  @include media-md {
+  @include media-sm {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
 .trust-badge {
-  background: rgba($color-white, 0.92);
-  border: 1px solid rgba($color-white, 0.22);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: $space-3;
+  background: $color-white;
+  border: 1px solid $color-border;
   border-radius: $border-radius;
-  padding: $space-4;
-  text-align: center;
-  color: $color-ink-2;
+  padding: $space-4 $space-5;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-medium;
+  color: $color-navy;
+  box-shadow: $shadow-sm;
+
+  &::before {
+    content: '✓';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    background: $color-blue-soft;
+    color: $color-blue;
+    border-radius: 50%;
+    font-size: $font-size-xs;
+    font-weight: $font-weight-bold;
+  }
 }
 
 // --------------------------------------------------------------------------
@@ -168,6 +215,7 @@
   @include media-sm {
     flex-direction: row;
     flex-wrap: wrap;
+    gap: $space-4;
   }
 
   .btn {
@@ -179,17 +227,27 @@
   }
 }
 
+.conversion-actions {
+  display: flex;
+  flex-direction: column;
+  gap: $space-4;
+
+  @include media-md {
+    align-items: flex-start;
+  }
+}
+
 // --------------------------------------------------------------------------
 // FORMS
 // --------------------------------------------------------------------------
 
 .contact-form {
   width: 100%;
-  max-width: 720px;
+  max-width: 600px;
 }
 
 .form-group {
-  margin-bottom: $space-4;
+  margin-bottom: $space-5;
 }
 
 label {
@@ -197,7 +255,7 @@ label {
   margin-bottom: $space-2;
   font-size: $font-size-sm;
   font-weight: $font-weight-semibold;
-  color: $color-ink-2;
+  color: $color-navy;
 }
 
 input[type="text"],
@@ -209,25 +267,31 @@ textarea {
   border-radius: $border-radius;
   border: 1px solid $color-border;
   background: $color-white;
-  color: $color-ink-2;
-  font-size: 16px; // mobile
+  color: $color-text-dark;
+  font-size: 16px;
+  transition: border-color $transition-fast, box-shadow $transition-fast;
 
   &:focus {
     outline: none;
-    border-color: $color-brand;
-    box-shadow: 0 0 0 3px rgba($color-brand, 0.14);
+    border-color: $color-blue;
+    box-shadow: 0 0 0 3px $color-blue-soft;
+  }
+
+  &::placeholder {
+    color: $color-text-muted;
   }
 }
 
 textarea {
   min-height: 140px;
+  resize: vertical;
 }
 
 .form-helper {
   display: block;
   margin-top: $space-2;
   font-size: $font-size-xs;
-  color: $color-muted-2;
+  color: $color-text-muted;
 }
 
 // --------------------------------------------------------------------------
@@ -239,10 +303,8 @@ textarea {
   align-items: center;
   padding: $space-2 $space-4;
   border-radius: 999px;
-  background: rgba($color-white, 0.12);
-  border: 1px solid rgba($color-white, 0.18);
-  color: rgba($color-white, 0.9);
+  background: $color-blue-soft;
+  color: $color-blue;
   font-size: $font-size-xs;
-  text-transform: uppercase;
-  letter-spacing: $letter-spacing-wide;
+  font-weight: $font-weight-semibold;
 }
