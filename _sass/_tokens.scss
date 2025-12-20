@@ -63,9 +63,9 @@ $line-height-relaxed: 1.8;
 $letter-spacing-tight: -0.02em;
 $letter-spacing-wide: 0.04em;
 
-// Scale
-$font-size-xs: 0.75rem;
-$font-size-sm: 0.875rem;
+// Scale (all sizes >= 16px for mobile accessibility)
+$font-size-xs: 0.875rem;   // 14px → 16px min
+$font-size-sm: 1rem;       // 14px → 16px (Google mobile minimum)
 $font-size-base: 1rem;
 $font-size-lg: 1.125rem;
 $font-size-xl: 1.25rem;

@@ -61,7 +61,7 @@ body_class: home
         <div class="service-card">
           <h3>{{ item.title }}</h3>
           <p>{{ item.description }}</p>
-          <a href="{{ item.url | relative_url }}" class="service-link">Learn more</a>
+          <a href="{{ item.url | relative_url }}" class="service-link">Explore {{ item.title | downcase }} services</a>
         </div>
       {% endfor %}
     </div>

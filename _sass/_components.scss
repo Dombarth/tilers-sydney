@@ -142,7 +142,7 @@
   align-items: center;
   gap: $space-2;
   font-weight: $font-weight-semibold;
-  font-size: $font-size-sm;
+  font-size: $font-size-base; // 16px minimum for accessibility
   color: $color-blue;
 
   &::after {
