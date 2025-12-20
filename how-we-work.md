@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "How We Work"
-subtitle: "Our approach to tiling projects"
-description: "How Harbour Tiling approaches tiling work - preparation, sequencing, communication, and what to expect from start to finish."
+title: "How We Work | Professional Tiling Services Sydney"
+seo_title: "How We Work | Tiler Sydney | Harbour Tiling Process"
+subtitle: "Clear process — preparation, tiling, and quality finish"
+description: "How Harbour Tiling works - our approach to bathroom, kitchen, and floor tiling in Sydney. Preparation, clear communication, quality craftsmanship."
 permalink: /how-we-work/
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "About Harbour Tiling"
-subtitle: "Who we are and how we work"
-description: "About Harbour Tiling - a tiling business based in Ryde NSW, focused on preparation, quality, and clear communication."
+title: "About Us | Professional Tiler Sydney | Harbour Tiling"
+seo_title: "About Harbour Tiling | Trusted Tiler Sydney & Ryde NSW"
+subtitle: "Licensed tiler — bathroom, kitchen, and floor tiling specialists"
+description: "About Harbour Tiling - Sydney's trusted tiler based in Ryde NSW. Licensed for tiling and waterproofing. Quality craftsmanship, clear communication."
 permalink: /about-harbour-tiling/
 ---
 

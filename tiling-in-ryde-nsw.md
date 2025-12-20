@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Tiling in Ryde NSW"
-seo_title: "Tiling in Ryde NSW (planning guide)"
-subtitle: "What to know before you start a tiling project in Ryde"
-description: "Tiling in Ryde NSW: housing types, common pitfalls, apartment vs house differences, and what to check before you get quotes."
+title: "Tiling Services Ryde NSW | Local Tiler Sydney"
+seo_title: "Tiler Ryde NSW | Professional Tiling Services Sydney"
+subtitle: "Wall & floor tiling, bathroom renovations, waterproofing"
+description: "Professional tiling services in Ryde NSW and Sydney. Bathroom tiling, kitchen tiling, floor tiling, waterproofing. Licensed tiler with local expertise."
 permalink: /tiling-in-ryde-nsw/
 ---
 

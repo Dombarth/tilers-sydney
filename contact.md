@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Contact"
-subtitle: "Get in touch"
-description: "Contact Harbour Tiling to discuss a tiling project in Ryde NSW, ask a question, or request a project assessment."
+title: "Contact | Get a Tiling Quote Sydney | Harbour Tiling"
+seo_title: "Contact Tiler Sydney | Get a Free Quote | Harbour Tiling"
+subtitle: "Request a quote or ask a tiling question"
+description: "Contact Harbour Tiling - professional tiler in Sydney and Ryde NSW. Get a free quote for bathroom, kitchen, or floor tiling. Licensed and insured."
 permalink: /contact/
 ---
 

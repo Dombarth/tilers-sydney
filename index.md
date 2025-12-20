@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Harbour Tiling"
-description: "Detail-led tiling for bathrooms, kitchens and apartments in Ryde NSW and nearby suburbs. Preparation-first approach, clear process, calm service."
+title: "Professional Tiler Sydney | Bathroom & Kitchen Tiling Ryde"
+description: "Sydney's trusted tiler for bathroom tiling, kitchen tiling, wall & floor tiling and waterproofing in Ryde NSW and nearby suburbs. Licensed, insured, quality craftsmanship."
 permalink: /
 
 # =============================================================================
@@ -10,8 +10,8 @@ permalink: /
 
 # 1. HERO SECTION
 hero:
-  title: "Tiling that starts with preparation - so the finish lasts."
-  lead: "Bathrooms, kitchens, and apartment projects in Ryde NSW. Substrate checks, waterproofing coordination, and layout planning before the first tile goes on."
+  title: "Expert Tiler Sydney — Bathroom, Kitchen & Floor Tiling"
+  lead: "Professional tiling services in Ryde NSW and Sydney. Wall tiling, floor tiling, waterproofing, and bathroom renovations. Licensed and insured."
   primary_cta: "Request a Project Assessment"
   primary_cta_url: "/contact/"
   secondary_cta: "Ask a Tiling Question"

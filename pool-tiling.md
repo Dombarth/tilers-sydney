@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Pool Tiling in Ryde NSW"
-seo_title: "Pool Tiler in Ryde NSW (Waterline Tiles & Surrounds)"
-subtitle: "Outdoor pool tiling and waterline tiles in Ryde and nearby suburbs"
-description: "Pool tiling in Ryde NSW and nearby suburbs: waterline tiles, surrounds, movement joints, drainage, and tile selection for chlorine/salt pools and outdoor conditions."
+title: "Pool Tiler Sydney | Waterline & Pool Surround Tiling Ryde"
+seo_title: "Pool Tiler Sydney | Expert Pool Tiling Services Ryde NSW"
+subtitle: "Professional pool tiling — waterline, surrounds, outdoor durability"
+description: "Expert pool tiling services in Sydney and Ryde NSW. Waterline tiling, pool surrounds, slip-resistant surfaces. Licensed tiler for chlorine and salt pools."
 permalink: /pool-tiling-ryde/
 service_schema:
   name: "Pool tiling"
