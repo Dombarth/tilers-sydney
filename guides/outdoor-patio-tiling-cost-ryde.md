@@ -34,22 +34,29 @@ If you want a realistic assessment, call <a href="tel:{{ site.data.site.contact.
 
 ### Labour rates (Ryde area)
 
-| Component | Typical Range | Notes |
-|-----------|--------------|-------|
-| Tiling labour | $60-$90/m² | Standard porcelain, straightforward access |
-| Complex layouts | $80-$120/m² | Patterns, cuts, multiple tile sizes |
-| Substrate prep | $20-$50/m² | Levelling, crack repair, priming |
-| Movement joints | $15-$25/linear metre | Silicone-filled expansion joints |
-| Edge finishing | $20-$40/linear metre | Trim profiles or clean edge details |
+- **Tiling labour**: $60-$90/m² (standard porcelain, straightforward access)
+- **Complex layouts**: $80-$120/m² (patterns, cuts, multiple tile sizes)
+- **Substrate prep**: $20-$50/m² (levelling, crack repair, priming)
+- **Movement joints**: $15-$25/linear metre (silicone-filled expansion joints)
+- **Edge finishing**: $20-$40/linear metre (trim profiles or clean edge details)
 
 ### Total project cost ranges (Ryde)
 
-| Patio Size | Standard Install | With Prep Work |
-|------------|-----------------|----------------|
-| Small (under 10m²) | $1,500-$2,500 | $2,000-$3,500 |
-| Medium (10-25m²) | $2,500-$4,500 | $3,500-$6,000 |
-| Large (25-50m²) | $4,500-$7,500 | $6,000-$10,000 |
-| Extra large (50m²+) | $7,500+ | $10,000+ |
+**Small patio (under 10m²)**
+- Standard install: $1,500-$2,500
+- With prep work: $2,000-$3,500
+
+**Medium patio (10-25m²)**
+- Standard install: $2,500-$4,500
+- With prep work: $3,500-$6,000
+
+**Large patio (25-50m²)**
+- Standard install: $4,500-$7,500
+- With prep work: $6,000-$10,000
+
+**Extra large patio (50m²+)**
+- Standard install: $7,500+
+- With prep work: $10,000+
 
 *Tile cost additional if customer-supplied. These are indicative ranges; actual costs depend on specific conditions.*
 
@@ -101,20 +108,32 @@ Outdoor tiles must be:
 - **Low porosity**: Less than 3% water absorption for outdoor use
 - **Weather-suitable**: Frost-resistant if in exposed areas
 
-| Tile Type | Cost Range | Suitability |
-|-----------|-----------|-------------|
-| Budget porcelain | $25-$50/m² | Basic outdoor use |
-| Mid-range porcelain | $50-$100/m² | Good durability, more options |
-| Premium/large format | $100-$200/m² | Best durability, design options |
-| Natural stone | $80-$250/m² | Needs sealing, variable quality |
+**Budget porcelain**
+- Cost: $25-$50/m²
+- Basic outdoor use
+
+**Mid-range porcelain**
+- Cost: $50-$100/m²
+- Good durability, more options
+
+**Premium/large format**
+- Cost: $100-$200/m²
+- Best durability, design options
+
+**Natural stone**
+- Cost: $80-$250/m²
+- Needs sealing, variable quality
 
 ### 5) Coverage (covered vs exposed)
 
-| Patio Type | Additional Considerations |
-|------------|--------------------------|
-| Covered alfresco | Less weather exposure, but still needs proper falls at edges |
-| Partially covered | Transition zones need careful detailing |
-| Fully exposed | Maximum drainage, slip resistance, and movement joint requirements |
+**Covered alfresco**
+- Less weather exposure, but still needs proper falls at edges
+
+**Partially covered**
+- Transition zones need careful detailing
+
+**Fully exposed**
+- Maximum drainage, slip resistance, and movement joint requirements
 
 ---
 

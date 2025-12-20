@@ -45,12 +45,25 @@ These are labour + standard tile estimates. Premium tiles (glass mosaic, designe
 
 ### Tile selection for waterline
 
-| Tile Type | Cost Impact | Durability | Notes |
-|-----------|------------|------------|-------|
-| Standard ceramic | Lowest | Good | Most common, proven durability |
-| Porcelain | Medium | Excellent | Lower porosity, better for salt pools |
-| Glass mosaic | Highest | Excellent | Premium look, requires skilled installation |
-| Natural stone | High | Variable | Needs sealing, careful chemical exposure |
+**Standard ceramic**
+- Cost impact: Lowest
+- Durability: Good
+- Most common, proven durability
+
+**Porcelain**
+- Cost impact: Medium
+- Durability: Excellent
+- Lower porosity, better for salt pools
+
+**Glass mosaic**
+- Cost impact: Highest
+- Durability: Excellent
+- Premium look, requires skilled installation
+
+**Natural stone**
+- Cost impact: High
+- Durability: Variable
+- Needs sealing, careful chemical exposure
 
 ### Pool shell condition
 

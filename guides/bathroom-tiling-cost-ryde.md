@@ -15,14 +15,25 @@ faq:
 
 ## Bathroom Tiling Price Ranges for Ryde
 
-### Total Project Cost Ranges (Labour + Materials)
+### Small Ensuite (4-6m²)
+- **Tiling only**: $2,000-$3,500
+- **With demo + prep**: $3,000-$5,000
+- **Full renovation (incl. waterproofing)**: $5,500-$8,500
 
-| Bathroom Type | Tiling Only | With Demo + Prep | Full Reno (incl. waterproofing) |
-|--------------|-------------|------------------|--------------------------------|
-| Small ensuite (4-6m²) | $2,000-$3,500 | $3,000-$5,000 | $5,500-$8,500 |
-| Standard bathroom (6-10m²) | $3,000-$5,500 | $4,500-$7,500 | $7,500-$12,000 |
-| Large/main bathroom (10-15m²) | $5,000-$8,500 | $7,000-$11,000 | $11,000-$16,000 |
-| Apartment bathroom | Add 10-20% | Add 15-25% | Add 15-25% |
+### Standard Bathroom (6-10m²)
+- **Tiling only**: $3,000-$5,500
+- **With demo + prep**: $4,500-$7,500
+- **Full renovation (incl. waterproofing)**: $7,500-$12,000
+
+### Large/Main Bathroom (10-15m²)
+- **Tiling only**: $5,000-$8,500
+- **With demo + prep**: $7,000-$11,000
+- **Full renovation (incl. waterproofing)**: $11,000-$16,000
+
+### Apartment Bathroom
+- **Tiling only**: Add 10-20% to above
+- **With demo + prep**: Add 15-25% to above
+- **Full renovation**: Add 15-25% to above
 
 *Prices are indicative for Ryde and nearby suburbs (2024). Tile cost additional if customer-supplied. Final price depends on specific conditions.*
 
@@ -32,23 +43,38 @@ faq:
 
 ### Tiling Labour Per Square Metre
 
-| Tile Format | Wall Tiling | Floor Tiling | Notes |
-|------------|-------------|--------------|-------|
-| Standard tiles (300x300 to 450x450) | $55-$75/m² | $50-$70/m² | Most common, efficient installation |
-| Medium format (450x450 to 600x600) | $65-$85/m² | $60-$80/m² | Requires flatter substrate |
-| Large format (600x600 to 600x1200) | $80-$110/m² | $75-$100/m² | More handling, tighter tolerances |
-| Extra large (600x1200+) | $100-$130/m² | $95-$120/m² | Requires very flat substrate |
-| Mosaics/small format | $85-$120/m² | $80-$110/m² | More grout lines, more time |
+**Standard tiles (300x300 to 450x450)**
+- Wall tiling: $55-$75/m²
+- Floor tiling: $50-$70/m²
+- *Most common, efficient installation*
+
+**Medium format (450x450 to 600x600)**
+- Wall tiling: $65-$85/m²
+- Floor tiling: $60-$80/m²
+- *Requires flatter substrate*
+
+**Large format (600x600 to 600x1200)**
+- Wall tiling: $80-$110/m²
+- Floor tiling: $75-$100/m²
+- *More handling, tighter tolerances*
+
+**Extra large (600x1200+)**
+- Wall tiling: $100-$130/m²
+- Floor tiling: $95-$120/m²
+- *Requires very flat substrate*
+
+**Mosaics/small format**
+- Wall tiling: $85-$120/m²
+- Floor tiling: $80-$110/m²
+- *More grout lines, more time*
 
 ### Additional Labour Charges
 
-| Work Item | Typical Cost | Notes |
-|-----------|-------------|-------|
-| Shower niche (per niche) | $150-$300 | Depends on size and tile cuts |
-| Feature wall (additional) | $200-$400 | Pattern matching, layout planning |
-| Mitred edges (per linear metre) | $25-$40 | Premium finish vs trim profiles |
-| Hob/step tiling | $150-$250 | Additional cuts and waterproofing detail |
-| Bath surround | $300-$500 | Includes silicone and edge finishing |
+- **Shower niche**: $150-$300 per niche (depends on size and tile cuts)
+- **Feature wall**: $200-$400 additional (pattern matching, layout planning)
+- **Mitred edges**: $25-$40 per linear metre (premium finish vs trim profiles)
+- **Hob/step tiling**: $150-$250 (additional cuts and waterproofing detail)
+- **Bath surround**: $300-$500 (includes silicone and edge finishing)
 
 ---
 

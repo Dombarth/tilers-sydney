@@ -44,13 +44,25 @@ These are labour + materials estimates. Tile cost is additional if you're supply
 
 ### Tile type and format
 
-| Tile Type | Labour Impact | Notes |
-|-----------|--------------|-------|
-| Subway tiles (standard) | Lowest | Easy to handle, efficient installation |
-| Large-format tiles | Medium | Requires flatter walls, more careful handling |
-| Mosaics/small format | Higher | More grout lines, more time per m² |
-| Patterned/decorative | Higher | Layout planning critical, more waste |
-| Natural stone | Higher | Sealing, careful handling, matching |
+**Subway tiles (standard)**
+- Labour impact: Lowest
+- Easy to handle, efficient installation
+
+**Large-format tiles**
+- Labour impact: Medium
+- Requires flatter walls, more careful handling
+
+**Mosaics/small format**
+- Labour impact: Higher
+- More grout lines, more time per m²
+
+**Patterned/decorative**
+- Labour impact: Higher
+- Layout planning critical, more waste
+
+**Natural stone**
+- Labour impact: Higher
+- Sealing, careful handling, matching
 
 ### Cut complexity
 
