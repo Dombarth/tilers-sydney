@@ -20,6 +20,10 @@ faq:
 
 ## Quick answer (for planning)
 
+<p class="cost-guide-link" style="background: #f8f8f8; padding: 1rem; border-left: 4px solid #2a9d8f; margin: 1.5rem 0;">
+  <strong>Looking for pricing?</strong> See our <a href="/outdoor-patio-tiling-cost-ryde/">comprehensive outdoor patio tiling cost guide for Ryde</a> — covers labour rates, drainage requirements, and what affects quotes.
+</p>
+
 Outdoor patio tiling lasts when three things are handled correctly:
 
 1) **Tile selection** (outdoor-rated + slip resistance)

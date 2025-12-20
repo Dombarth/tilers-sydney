@@ -20,6 +20,10 @@ faq:
 
 ## Quick answer (for planning)
 
+<p class="cost-guide-link" style="background: #f8f8f8; padding: 1rem; border-left: 4px solid #2a9d8f; margin: 1.5rem 0;">
+  <strong>Looking for pricing?</strong> See our <a href="/pool-tiling-cost-ryde/">comprehensive pool tiling cost guide for Ryde</a> — covers waterline tiles, surrounds, and what affects quotes.
+</p>
+
 Pool tiling that lasts is mostly about **materials + preparation + movement**.
 
 In Ryde-area projects, the main things to get right are:

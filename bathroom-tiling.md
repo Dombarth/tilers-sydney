@@ -15,6 +15,10 @@ Bathroom tiling is one of the most common tiling jobs. It's not inherently compl
 
 This page explains what's involved in bathroom tiling, what affects quality and longevity, and how to think about the decisions you'll need to make.
 
+<p class="cost-guide-link" style="background: #f8f8f8; padding: 1rem; border-left: 4px solid #2a9d8f; margin: 1.5rem 0;">
+  <strong>Looking for pricing?</strong> See our <a href="/bathroom-tiling-cost-ryde/">comprehensive bathroom tiling cost guide for Ryde</a> — covers what drives price, typical ranges, and how to compare quotes.
+</p>
+
 ---
 
 ## Two kinds of bathroom tiling

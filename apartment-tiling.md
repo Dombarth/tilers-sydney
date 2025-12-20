@@ -17,6 +17,10 @@ That said, these aren't problems - they're just things to plan for. With the rig
 
 This page explains what's involved in apartment tiling - the logistics, the coordination, and what to think through before starting.
 
+<p class="cost-guide-link" style="background: #f8f8f8; padding: 1rem; border-left: 4px solid #2a9d8f; margin: 1.5rem 0;">
+  <strong>Looking for pricing?</strong> See our <a href="/bathroom-tiling-cost-ryde/">comprehensive bathroom tiling cost guide for Ryde</a> — covers what drives price in apartments including strata logistics, typical ranges, and how to compare quotes.
+</p>
+
 ---
 
 ## What makes apartment tiling different

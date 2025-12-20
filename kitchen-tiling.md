@@ -17,6 +17,10 @@ The key is planning early. Last-minute decisions about layout or timing can lead
 
 This page explains what's involved in kitchen tiling, what decisions you'll need to make, and what affects the result.
 
+<p class="cost-guide-link" style="background: #f8f8f8; padding: 1rem; border-left: 4px solid #2a9d8f; margin: 1.5rem 0;">
+  <strong>Looking for pricing?</strong> See our <a href="/kitchen-tiling-cost-ryde/">comprehensive kitchen tiling cost guide for Ryde</a> — covers splashback and floor pricing, what affects quotes, and how to compare.
+</p>
+
 ---
 
 ## Common kitchen tiling jobs
