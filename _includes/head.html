@@ -2,11 +2,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.data.site.business.name }}</title>
+  {%- assign seo_title = page.seo_title | default: page.title -%}
+  {%- if page.url == '/' -%}
+    {%- assign seo_title = site.data.site.business.name -%}
+  {%- endif -%}
+
+  <title>{% if seo_title %}{{ seo_title }} | {% endif %}{{ site.data.site.business.name }}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   
   <!-- Open Graph -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.data.site.business.name }}">
+  <meta property="og:title" content="{% if seo_title %}{{ seo_title }} | {% endif %}{{ site.data.site.business.name }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="en_AU">

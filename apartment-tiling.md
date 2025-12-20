@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Apartment Tiling"
-subtitle: "Tiling in units, apartments, and strata buildings"
-description: "Apartment tiling in Ryde NSW — access logistics, strata approvals, waterproofing coordination, and what's different about tiling in a shared building."
-permalink: /apartment-tiling/
+title: "Apartment tiling"
+seo_title: "Apartment tiler in Ryde NSW (strata access & wet areas)"
+subtitle: "Apartment tiling in Ryde: access, approvals, and sequencing"
+description: "Apartment tiling in Ryde NSW: access logistics, strata constraints, waterproofing coordination for wet areas, and planning that prevents delays."
+permalink: /apartment-tiling-ryde/
 service_schema:
   name: "Apartment tiling"
   serviceType: "Apartment tiling"

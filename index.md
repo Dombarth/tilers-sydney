@@ -45,13 +45,19 @@ services:
   items:
     - title: "Bathroom tiling"
       description: "Floors, walls, niches, and shower areas."
-      url: "/bathroom-tiling/"
+      url: "/bathroom-tiling-ryde/"
     - title: "Kitchen tiling"
       description: "Splashbacks, floors, and feature walls."
-      url: "/kitchen-tiling/"
+      url: "/kitchen-tiling-ryde/"
     - title: "Apartment tiling"
       description: "Units and apartments with strata access."
-      url: "/apartment-tiling/"
+      url: "/apartment-tiling-ryde/"
+    - title: "Pool tiling"
+      description: "Waterline tiles, surrounds, and outdoor durability."
+      url: "/pool-tiling-ryde/"
+    - title: "Outdoor patio tiling"
+      description: "Patios and alfresco areas: drainage and slip resistance."
+      url: "/outdoor-patio-tiling-ryde/"
 
 # 5. RYDE AUTHORITY PREVIEW
 ryde_preview:

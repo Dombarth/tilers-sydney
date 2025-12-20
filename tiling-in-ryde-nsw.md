@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Tiling in Ryde NSW"
+seo_title: "Tiling in Ryde NSW (planning guide)"
 subtitle: "What to know before you start a tiling project in Ryde"
-description: "An informational guide to tiling in Ryde NSW — housing types, common issues, apartment vs house differences, and what to consider before getting quotes."
+description: "Tiling in Ryde NSW: housing types, common pitfalls, apartment vs house differences, and what to check before you get quotes."
 permalink: /tiling-in-ryde-nsw/
 ---
 

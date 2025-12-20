@@ -16,9 +16,30 @@
 
       <ul class="nav-list" id="nav-list">
         {% for item in site.data.navigation.main %}
-          <li class="nav-item">
-            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
-          </li>
+          {% if item.children %}
+            <li class="nav-item nav-item-dropdown">
+              <button class="nav-dropdown-toggle" 
+                      type="button" 
+                      aria-expanded="false"
+                      aria-haspopup="true">
+                {{ item.title }}
+                <svg class="nav-dropdown-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+                  <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </button>
+              <ul class="nav-dropdown">
+                {% for child in item.children %}
+                  <li>
+                    <a href="{{ child.url | relative_url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <li class="nav-item">
+              <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+            </li>
+          {% endif %}
         {% endfor %}
         <li class="nav-item nav-item-cta">
           <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary btn-sm">Call {{ site.data.site.contact.phone_display }}</a>

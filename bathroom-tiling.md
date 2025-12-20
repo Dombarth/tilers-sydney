@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Bathroom Tiling"
-subtitle: "What's involved in tiling a bathroom properly"
-description: "Bathroom tiling in Ryde NSW — preparation, waterproofing, layout, and what separates work that lasts from work that doesn't."
-permalink: /bathroom-tiling/
+title: "Bathroom tiling"
+seo_title: "Bathroom tiler in Ryde NSW (waterproofing coordination & setout)"
+subtitle: "Bathroom tiling in Ryde: scope, sequencing, and what makes it last"
+description: "Bathroom tiling in Ryde NSW: preparation, waterproofing coordination, layout planning, and the decisions that affect longevity in real bathrooms."
+permalink: /bathroom-tiling-ryde/
 service_schema:
   name: "Bathroom tiling"
   serviceType: "Bathroom tiling"

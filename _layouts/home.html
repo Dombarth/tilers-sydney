@@ -12,7 +12,7 @@ body_class: home
 {%- assign proof = page.proof -%}
 {%- assign conversion = page.conversion -%}
 
-<section class="hero" style="background-image: url('{{ '/assets/img/hero-bathroom.jpg' | relative_url }}');">
+<section class="hero" style="background-image: url({{ '/assets/img/hero-bathroom.jpg' | relative_url }});">
   <div class="container hero-inner">
     <div class="hero-copy">
       <h1 class="hero-title">{{ hero.title }}</h1>

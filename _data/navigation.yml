@@ -1,19 +1,26 @@
 # Main navigation
-# Simple, focused — no spam pages
+# Streamlined with Services dropdown
 
 main:
   - title: "Home"
     url: "/"
+  - title: "Services"
+    url: "#"
+    children:
+      - title: "Bathroom tiling"
+        url: "/bathroom-tiling-ryde/"
+      - title: "Kitchen tiling"
+        url: "/kitchen-tiling-ryde/"
+      - title: "Apartment tiling"
+        url: "/apartment-tiling-ryde/"
+      - title: "Pool tiling"
+        url: "/pool-tiling-ryde/"
+      - title: "Outdoor patio tiling"
+        url: "/outdoor-patio-tiling-ryde/"
   - title: "Ryde Areas"
     url: "/areas/ryde/"
   - title: "Tiling in Ryde"
     url: "/tiling-in-ryde-nsw/"
-  - title: "Bathrooms"
-    url: "/bathroom-tiling/"
-  - title: "Kitchens"
-    url: "/kitchen-tiling/"
-  - title: "Apartments"
-    url: "/apartment-tiling/"
   - title: "About"
     url: "/about-harbour-tiling/"
   - title: "How We Work"
