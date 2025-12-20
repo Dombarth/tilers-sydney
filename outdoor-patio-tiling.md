@@ -116,8 +116,17 @@ If you’re choosing tiles, confirm suitability before buying.
 
 ---
 
+---
+
+## Harbour Tiling provides outdoor patio tiling in Ryde
+
+Harbour Tiling provides professional outdoor patio tiling services throughout Ryde NSW and nearby suburbs, including courtyards, alfresco areas, entertaining spaces, and outdoor living areas. We assess drainage falls before quoting, plan movement joints to prevent weather-related cracking, and select tiles suitable for Sydney's outdoor conditions. For patio projects in Ryde, West Ryde, Eastwood, Gladesville, Ermington, and surrounding areas, we focus on proper falls away from buildings, slip-resistant surfaces, and detailing at thresholds and garden edges that lasts through years of use.
+
+---
+
 ## Related Ryde pages
 
+- <a href="/outdoor-patio-tiling-cost-ryde/">Outdoor patio tiling cost in Ryde (what drives price)</a>
 - <a href="/pool-tiling-ryde/">Pool tiling (waterline tiles and surrounds)</a>
 - <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
 - <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW (planning guide)</a>

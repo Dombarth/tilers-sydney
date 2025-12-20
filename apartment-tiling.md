@@ -182,10 +182,19 @@ These questions help avoid surprises once the job is underway.
 
 ---
 
+---
+
+## Harbour Tiling provides apartment tiling in Ryde
+
+Harbour Tiling provides professional apartment tiling services throughout Ryde NSW and nearby suburbs, including bathroom retiles, laundry tiling, kitchen splashbacks, and balcony work in strata buildings. We understand the logistics of apartment work - lift bookings, noise restrictions, strata approvals, and waterproofing documentation requirements. For apartment projects in Ryde, West Ryde, Macquarie Park, Meadowbank, Rhodes, and surrounding high-density areas, we coordinate with licensed waterproofers, manage building access professionally, and ensure documentation is provided for strata records.
+
+---
+
 ## Related Ryde guides
 
 - <a href="/apartment-tiling-ryde-strata/">Apartment tiling in Ryde (strata logistics)</a>
 - <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde (sequence + cure time)</a>
+- <a href="/bathroom-tiling-cost-ryde/">Bathroom tiling cost in Ryde (what drives price)</a>
 - <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
 
 ## Ready to discuss your apartment project?

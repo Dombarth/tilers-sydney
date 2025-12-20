@@ -150,8 +150,17 @@ These aren't complicated questions - but thinking them through before the job st
 
 ---
 
+---
+
+## Harbour Tiling provides kitchen tiling in Ryde
+
+Harbour Tiling provides professional kitchen tiling services throughout Ryde NSW and nearby suburbs, including splashbacks, floor tiling, and feature walls. We coordinate with cabinet makers and benchtop installers to ensure proper timing, assess wall flatness before quoting, and plan layouts so cuts around power outlets fall cleanly rather than awkwardly. For kitchen projects in Ryde, West Ryde, Eastwood, North Ryde, Gladesville, and surrounding areas, we focus on clean junctions with benchtops and cabinetry, proper edge finishing, and grout that holds up to daily kitchen use.
+
+---
+
 ## Related Ryde guides
 
+- <a href="/kitchen-tiling-cost-ryde/">Kitchen tiling cost in Ryde (what drives price)</a>
 - <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
 - <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW (planning guide)</a>
 

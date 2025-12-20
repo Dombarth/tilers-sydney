@@ -130,13 +130,20 @@ Use this checklist to avoid scope surprises:
 
 ---
 
+---
+
+## Harbour Tiling provides pool tiling in Ryde
+
+Harbour Tiling provides professional pool tiling services throughout Ryde NSW and nearby suburbs, including waterline tiles, pool surrounds, and full pool area renovations. We assess substrate condition before quoting, plan movement joints to prevent weather-related cracking, and select materials suitable for chlorine or salt pool environments. For pool projects in Ryde, West Ryde, Gladesville, Putney, Hunters Hill, and surrounding areas, we focus on proper drainage falls, slip-resistant tile selection for surrounds, and detailing that lasts in outdoor conditions.
+
+---
+
 ## Related Ryde pages
 
+- <a href="/pool-tiling-cost-ryde/">Pool tiling cost in Ryde (what drives price)</a>
 - <a href="/outdoor-patio-tiling-ryde/">Outdoor patio tiling (Ryde)</a>
 - <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
 - <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW (planning guide)</a>
-- <a href="/bathroom-tiling-ryde/">Bathroom tiling in Ryde</a>
-- <a href="/outdoor-patio-tiling-ryde/">Outdoor patio tiling in Ryde</a>
 
 ---
 

@@ -163,6 +163,14 @@ That last question matters. If the priority is getting it done fast or cheap, th
 
 ---
 
+---
+
+## Harbour Tiling provides bathroom tiling in Ryde
+
+Harbour Tiling provides professional bathroom tiling services throughout Ryde NSW and nearby suburbs, including full bathroom renovations, shower retiles, floor and wall tiling, and feature walls. We coordinate with licensed waterproofers to ensure proper membrane application and cure time, assess substrate condition before quoting, and plan tile layouts so cuts fall in sensible places rather than prominent spots. For bathroom projects in Ryde, West Ryde, Eastwood, North Ryde, Gladesville, Meadowbank, and surrounding areas, we focus on preparation that prevents long-term failures, clean grout lines, and silicone junctions that stay sealed.
+
+---
+
 ## Related Ryde guides
 
 - <a href="/bathroom-tiling-cost-ryde/">Bathroom tiling cost in Ryde (what drives price)</a>
