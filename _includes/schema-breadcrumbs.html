@@ -1,0 +1,85 @@
+{%- comment -%}
+BreadcrumbList schema
+Goal: help Google/LLMs understand the hierarchy without inventing pages that don't exist.
+Rules:
+- Only output crumbs that match real URLs on the site.
+- Keep it minimal (Home → Ryde area tiling → Suburb) or (Home → Page).
+{%- endcomment -%}
+
+{%- assign home_url = '/' | absolute_url -%}
+{%- assign home_name = site.data.site.business.name -%}
+{%- assign ryde_hub_url = '/areas/ryde/' | absolute_url -%}
+{%- assign ryde_hub_name = 'Ryde area tiling' -%}
+
+{%- if page.url == '/' -%}
+  {%- comment -%}No breadcrumbs on homepage{%- endcomment -%}
+{%- elsif page.url == '/areas/ryde/' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": {{ home_name | jsonify }},
+      "item": {{ home_url | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ ryde_hub_name | jsonify }},
+      "item": {{ ryde_hub_url | jsonify }}
+    }
+  ]
+}
+</script>
+{%- elsif page.url contains '/areas/ryde/' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": {{ home_name | jsonify }},
+      "item": {{ home_url | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ ryde_hub_name | jsonify }},
+      "item": {{ ryde_hub_url | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ page.title | jsonify }},
+      "item": {{ page.url | absolute_url | jsonify }}
+    }
+  ]
+}
+</script>
+{%- else -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": {{ home_name | jsonify }},
+      "item": {{ home_url | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ page.title | jsonify }},
+      "item": {{ page.url | absolute_url | jsonify }}
+    }
+  ]
+}
+</script>
+{%- endif -%}

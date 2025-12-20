@@ -12,7 +12,7 @@ This page is here to help you make better decisions before you start - especiall
 
 ## Quick actions
 
-- **Call:** <a href="tel:{{{ site.data.site.contact.phone_tel }}">{{{ site.data.site.contact.phone_display }}</a>
+- **Call:** <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>
 - **Ask a question:** <a href="/contact/#question">Ask a tiling question</a>
 
 ---
@@ -45,6 +45,12 @@ These are some of the issues that create expensive rework later:
 - Rushing waterproofing cure times
 - Poor setout leading to thin slivers in visible areas
 - Selecting tiles not suited to wet areas or floors
+
+## Useful Ryde guides
+
+- [Bathroom tiling cost in Ryde (what drives price)](/bathroom-tiling-cost-ryde/)
+- [Waterproofing before tiling in Ryde (sequence + cure time)](/waterproofing-before-tiling-ryde/)
+- [Apartment tiling in Ryde (strata logistics)](/apartment-tiling-ryde-strata/)
 
 ## Where to go next
 

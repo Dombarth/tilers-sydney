@@ -4,6 +4,10 @@ title: "Apartment Tiling"
 subtitle: "Tiling in units, apartments, and strata buildings"
 description: "Apartment tiling in Ryde NSW — access logistics, strata approvals, waterproofing coordination, and what's different about tiling in a shared building."
 permalink: /apartment-tiling/
+service_schema:
+  name: "Apartment tiling"
+  serviceType: "Apartment tiling"
+  description: "Apartment tiling services in Ryde NSW and nearby suburbs: access logistics, strata constraints, coordination with licensed waterproofing for wet areas, and careful planning to reduce delays."
 ---
 
 Tiling in an apartment is different from tiling in a house. The work itself is similar, but the context changes everything: access, approvals, neighbours, noise restrictions, and the consequences if something goes wrong.
@@ -176,6 +180,12 @@ Total time depends on the scope, building access, and how much prep is needed. A
 These questions help avoid surprises once the job is underway.
 
 ---
+
+## Related Ryde guides
+
+- <a href="/apartment-tiling-ryde-strata/">Apartment tiling in Ryde (strata logistics)</a>
+- <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde (sequence + cure time)</a>
+- <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
 
 ## Ready to discuss your apartment project?
 

@@ -1,0 +1,44 @@
+{%- comment -%}
+Service schema
+Usage: add front matter:
+  service_schema:
+    name: "Bathroom tiling"
+    serviceType: "Bathroom tiling"
+Optional:
+  service_schema.description
+
+Only use on pages that explicitly describe the service.
+{%- endcomment -%}
+
+{%- if page.service_schema and page.service_schema.name and page.service_schema.serviceType -%}
+{%- assign b = site.data.site.business -%}
+{%- assign c = site.data.site.contact -%}
+{%- assign base = site.data.site.base_location -%}
+{%- assign area = site.data.site.service_area -%}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": {{ page.service_schema.name | jsonify }},
+  "serviceType": {{ page.service_schema.serviceType | jsonify }},
+  "description": {{ page.service_schema.description | default: page.description | default: site.description | jsonify }},
+  "provider": {
+    "@type": "HomeAndConstructionBusiness",
+    "name": {{ b.name | jsonify }},
+    "telephone": {{ c.phone_e164 | jsonify }},
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": {{ base.suburb | jsonify }},
+      "addressRegion": {{ base.state | jsonify }},
+      "addressCountry": {{ base.country | jsonify }}
+    }
+  },
+  "areaServed": [
+    {%- for s in area.suburbs -%}
+      {"@type":"AdministrativeArea","name":{{ s | append: ', NSW' | jsonify }}}{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+  ]
+}
+</script>
+{%- endif -%}

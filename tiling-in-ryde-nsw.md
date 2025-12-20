@@ -16,6 +16,12 @@ If you want suburb-specific context (apartments, access logistics, and what tend
 
 - <a href="/areas/ryde/">Ryde area tiling — suburb guides</a>
 
+### Useful Ryde planning guides
+
+- <a href="/bathroom-tiling-cost-ryde/">Bathroom tiling cost in Ryde (what drives price)</a>
+- <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde (sequence + cure time)</a>
+- <a href="/apartment-tiling-ryde-strata/">Apartment tiling in Ryde (strata logistics)</a>
+
 ---
 
 ## Why Ryde is different

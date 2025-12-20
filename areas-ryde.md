@@ -38,6 +38,12 @@ If you’re still in the planning stage, start here:
 
 - <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW — what to know before you start</a>
 
+## Planning guides (Ryde-specific)
+
+- <a href="/bathroom-tiling-cost-ryde/">Bathroom tiling cost in Ryde (what drives price)</a>
+- <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde (sequence + cure time)</a>
+- <a href="/apartment-tiling-ryde-strata/">Apartment tiling in Ryde (strata logistics)</a>
+
 ## Services (so you can jump to the right scope)
 
 - <a href="/bathroom-tiling/">Bathroom tiling</a>

@@ -4,6 +4,10 @@ title: "Kitchen Tiling"
 subtitle: "Splashbacks, floors, and feature walls"
 description: "Kitchen tiling in Ryde NSW — splashback installation, floor tiling, layout planning, and coordination with cabinetry and benchtops."
 permalink: /kitchen-tiling/
+service_schema:
+  name: "Kitchen tiling"
+  serviceType: "Kitchen tiling"
+  description: "Kitchen tiling services in Ryde NSW and nearby suburbs: splashbacks, floor tiling, feature walls, clean junctions, and layout planning coordinated with cabinetry and benchtops."
 ---
 
 Kitchen tiling is often simpler than bathroom work. Most kitchen tiling involves splashbacks, floors, or feature walls — and in many cases, no waterproofing is required. The focus is on layout, finish quality, and how the tiles meet other surfaces.
@@ -144,6 +148,11 @@ For a standard splashback, this typically takes 1–2 days. Floor tiling takes l
 These aren't complicated questions — but thinking them through before the job starts avoids surprises.
 
 ---
+
+## Related Ryde guides
+
+- <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
+- <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW (planning guide)</a>
 
 ## Ready to discuss your kitchen project?
 

@@ -4,6 +4,10 @@ title: "Bathroom Tiling"
 subtitle: "What's involved in tiling a bathroom properly"
 description: "Bathroom tiling in Ryde NSW — preparation, waterproofing, layout, and what separates work that lasts from work that doesn't."
 permalink: /bathroom-tiling/
+service_schema:
+  name: "Bathroom tiling"
+  serviceType: "Bathroom tiling"
+  description: "Bathroom tiling services in Ryde NSW and nearby suburbs: substrate preparation, layout planning, coordination with licensed waterproofing, tiling, grouting and finishing."
 ---
 
 Bathroom tiling is one of the most common tiling jobs. It's not inherently complicated — but problems do occur when shortcuts are taken during preparation or waterproofing. Water, humidity, and daily use put steady stress on tiles, grout, and the membrane underneath, so the work needs to be done properly from the start.
@@ -157,6 +161,12 @@ A standard bathroom typically takes 3–5 days, depending on prep requirements a
 That last question matters. If the priority is getting it done fast or cheap, the preparation and coordination that makes tiling last often gets compressed. It's worth being honest about what you're optimising for.
 
 ---
+
+## Related Ryde guides
+
+- <a href="/bathroom-tiling-cost-ryde/">Bathroom tiling cost in Ryde (what drives price)</a>
+- <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde (sequence + cure time)</a>
+- <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
 
 ## Ready to discuss your bathroom project?
 

@@ -35,6 +35,16 @@ service_area:
     - Gladesville
     - Tennyson Point
     - Huntleys Cove
+
+    # Nearby ring (high-value only; avoid thin doorway pages)
+    - Rhodes
+    - Epping
+    - Concord
+    - North Strathfield
+    - Homebush
+    - Lidcombe
+    - Rydalmere
+    - Silverwater
   region: "Sydney, NSW"
 
 # Contact
