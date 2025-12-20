@@ -7,7 +7,8 @@
               type="button"
               aria-expanded="false" 
               aria-controls="nav-list" 
-              aria-label="Open menu">
+              aria-label="Open menu"
+              id="nav-toggle">
         <span class="nav-toggle-icon" aria-hidden="true"></span>
       </button>
       
@@ -26,32 +27,51 @@
 </header>
 
 <script>
-(function() {
-  'use strict';
+document.addEventListener('DOMContentLoaded', function() {
+  var toggle = document.getElementById('nav-toggle');
+  var navList = document.getElementById('nav-list');
   
-  var toggle = document.querySelector('.nav-toggle');
-  var navList = document.querySelector('.nav-list');
-  
-  if (!toggle || !navList) return;
-  
-  // Toggle menu
-  function toggleMenu() {
-    var isOpen = navList.classList.toggle('is-open');
-    toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
-    toggle.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
-    toggle.classList.toggle('is-active', isOpen);
+  if (!toggle || !navList) {
+    console.log('Nav elements not found');
+    return;
   }
   
-  // Close menu
+  function toggleMenu(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    
+    var isOpen = navList.classList.contains('is-open');
+    
+    if (isOpen) {
+      navList.classList.remove('is-open');
+      toggle.classList.remove('is-active');
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.setAttribute('aria-label', 'Open menu');
+    } else {
+      navList.classList.add('is-open');
+      toggle.classList.add('is-active');
+      toggle.setAttribute('aria-expanded', 'true');
+      toggle.setAttribute('aria-label', 'Close menu');
+    }
+  }
+  
   function closeMenu() {
     navList.classList.remove('is-open');
+    toggle.classList.remove('is-active');
     toggle.setAttribute('aria-expanded', 'false');
     toggle.setAttribute('aria-label', 'Open menu');
-    toggle.classList.remove('is-active');
   }
   
-  // Toggle on click
+  // Handle click/touch on toggle button
   toggle.addEventListener('click', toggleMenu);
+  
+  // Close when clicking nav links
+  var navLinks = navList.querySelectorAll('a');
+  for (var i = 0; i < navLinks.length; i++) {
+    navLinks[i].addEventListener('click', function() {
+      closeMenu();
+    });
+  }
   
   // Close on Escape key
   document.addEventListener('keydown', function(e) {
@@ -61,37 +81,11 @@
     }
   });
   
-  // Close when clicking nav links (for same-page navigation)
-  navList.addEventListener('click', function(e) {
-    if (e.target.tagName === 'A') {
+  // Close on window resize to desktop
+  window.addEventListener('resize', function() {
+    if (window.innerWidth >= 1024) {
       closeMenu();
     }
   });
-  
-  // Close on resize if window becomes wide enough for desktop nav
-  var mediaQuery = window.matchMedia('(min-width: 1024px)');
-  function handleResize(e) {
-    if (e.matches) {
-      closeMenu();
-    }
-  }
-  mediaQuery.addListener(handleResize);
-  
-  // Support keyboard navigation within menu
-  navList.addEventListener('keydown', function(e) {
-    var focusable = navList.querySelectorAll('a, button');
-    var first = focusable[0];
-    var last = focusable[focusable.length - 1];
-    
-    if (e.key === 'Tab') {
-      if (e.shiftKey && document.activeElement === first) {
-        e.preventDefault();
-        toggle.focus();
-      } else if (!e.shiftKey && document.activeElement === last) {
-        e.preventDefault();
-        toggle.focus();
-      }
-    }
-  });
-})();
+});
 </script>
