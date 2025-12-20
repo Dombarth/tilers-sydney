@@ -2,12 +2,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.data.site.name }}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.site.description }}{% endif %}">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.data.site.business.name }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   
   <!-- Open Graph -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.data.site.name }}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.site.description }}{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.data.site.business.name }}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="en_AU">
   
@@ -24,4 +24,6 @@
   
   <!-- Canonical -->
   <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  {% include schema-localbusiness.html %}
 </head>

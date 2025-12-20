@@ -4,6 +4,8 @@
 main:
   - title: "Home"
     url: "/"
+  - title: "Ryde Areas"
+    url: "/areas/ryde/"
   - title: "Tiling in Ryde"
     url: "/tiling-in-ryde-nsw/"
   - title: "Bathrooms"

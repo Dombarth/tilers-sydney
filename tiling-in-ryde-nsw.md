@@ -12,6 +12,10 @@ That mix of old and new — often on the same street — means the assumptions t
 
 This page explains what's different about tiling in Ryde — not to sell you anything, but to help you understand what questions to ask and what to look out for.
 
+If you want suburb-specific context (apartments, access logistics, and what tends to change from job to job), use the **Ryde areas hub**:
+
+- <a href="/areas/ryde/">Ryde area tiling — suburb guides</a>
+
 ---
 
 ## Why Ryde is different

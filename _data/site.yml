@@ -4,36 +4,56 @@
 business:
   name: "Harbour Tiling"
   tagline: "Detail-led tiling for Ryde homes and apartments"
-  
+
+# Base locality signal (no street address)
+base_location:
+  suburb: "West Ryde"
+  region: "Sydney"
+  state: "NSW"
+  country: "AU"
+
 # Service area (primary)
 service_area:
   primary: "Ryde NSW"
+  # Ryde LGA core suburbs + immediate surrounds (people-first: only publish area pages that add value)
   suburbs:
+    # Ryde LGA
     - Ryde
     - West Ryde
-    - Eastwood
-    - Gladesville
-    - Putney
-    - Meadowbank
     - North Ryde
+    - East Ryde
     - Macquarie Park
+    - Marsfield
+    - Eastwood
+    - Denistone
+    - Denistone East
+    - Denistone West
+    - Meadowbank
+    - Melrose Park
+    - Ermington
+    - Putney
+    - Gladesville
+    - Tennyson Point
+    - Huntleys Cove
   region: "Sydney, NSW"
-  
-# Contact (update when ready)
+
+# Contact
 contact:
   email: "" # Add when ready
-  phone: "" # Add when ready
+  phone_display: "0416 260 086"
+  phone_e164: "+61416260086"
+  phone_tel: "0416260086"
   form_url: "" # Form embed or link
-  
+
 # Trust signals (factual only)
 credentials:
   insured: true
   insured_statement: "Fully insured for residential tiling work."
-  
+
 # Social (optional, add later)
 social:
   instagram: ""
-  
+
 # Structured data hints (for JSON-LD)
 entity:
   type: "LocalBusiness"

@@ -2,9 +2,10 @@
   <div class="container">
     <div class="footer-main">
       <div class="footer-entity">
-        <p class="footer-brand">{{ site.data.site.name }}</p>
-        <p>{{ site.data.site.tagline }}</p>
-        <p>Serving {{ site.data.site.location }}</p>
+        <p class="footer-brand">{{ site.data.site.business.name }}</p>
+        <p>{{ site.data.site.business.tagline }}</p>
+        <p>Based in {{ site.data.site.base_location.suburb }}, servicing {{ site.data.site.service_area.primary }} and nearby suburbs.</p>
+        <p><a href="tel:{{ site.data.site.contact.phone_tel }}">Call {{ site.data.site.contact.phone_display }}</a></p>
         <p class="footer-credential">Fully insured · Licensed waterproofer coordination</p>
       </div>
       
@@ -18,7 +19,7 @@
     </div>
     
     <div class="footer-bottom">
-      <p class="copyright">&copy; {{ 'now' | date: '%Y' }} {{ site.data.site.name }}. All rights reserved.</p>
+      <p class="copyright">&copy; {{ 'now' | date: '%Y' }} {{ site.data.site.business.name }}. All rights reserved.</p>
     </div>
   </div>
 </footer>

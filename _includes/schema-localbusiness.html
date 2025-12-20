@@ -1,0 +1,31 @@
+{%- comment -%}
+LocalBusiness schema — Harbour Tiling
+No street address: suburb + region only (West Ryde base)
+Keep aligned with visible content (SpamBrain-safe)
+{%- endcomment -%}
+
+{%- assign b = site.data.site.business -%}
+{%- assign c = site.data.site.contact -%}
+{%- assign base = site.data.site.base_location -%}
+{%- assign area = site.data.site.service_area -%}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "name": "{{ b.name }}",
+  "description": "{{ site.description }}",
+  "areaServed": [
+    {%- for s in area.suburbs -%}
+      {"@type":"AdministrativeArea","name":"{{ s }}, NSW"}{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+  ],
+  "telephone": "{{ c.phone_e164 }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ base.suburb }}",
+    "addressRegion": "{{ base.state }}",
+    "addressCountry": "{{ base.country }}"
+  }
+}
+</script>

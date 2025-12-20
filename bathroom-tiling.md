@@ -163,8 +163,9 @@ That last question matters. If the priority is getting it done fast or cheap, th
 If you're planning a bathroom renovation in Ryde or nearby suburbs, I'm happy to talk through what's involved — whether you're early in the planning stage or ready to get quotes.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="/contact/" class="btn btn-primary">Request a Project Assessment</a>
-  <a href="/contact/#question" class="btn btn-secondary">Ask a Tiling Question</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="/contact/" class="btn btn-secondary">Request a Project Assessment</a>
+  <a href="/contact/#question" class="btn btn-outline">Ask a Tiling Question</a>
 </div>
 
 No pressure, no obligation. I typically respond within one business day.
