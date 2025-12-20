@@ -3,11 +3,6 @@ layout: default
 body_class: home
 ---
 
-{%- comment -%}
-Homepage Layout — Conversion-first
-Uses structured front matter in index.md (no content changes)
-{%- endcomment -%}
-
 {%- assign hero = page.hero -%}
 {%- assign trust = page.trust_signals -%}
 {%- assign why = page.why_section -%}
@@ -17,18 +12,15 @@ Uses structured front matter in index.md (no content changes)
 {%- assign proof = page.proof -%}
 {%- assign conversion = page.conversion -%}
 
-<!-- Hero (image-style overlay without images) -->
-<section class="hero hero-impact">
-  <div class="hero-overlay"></div>
+<section class="hero">
   <div class="container hero-inner">
     <div class="hero-copy">
-      <p class="badge badge-clay">{{ site.data.site.business.tagline }}</p>
       <h1 class="hero-title">{{ hero.title }}</h1>
-      <p class="hero-lead">{{ hero.lead }}</p>
+      <p class="lead hero-lead">{{ hero.lead }}</p>
 
-      <div class="hero-cta">
+      <div class="cta-actions">
         <a href="{{ hero.primary_cta_url | relative_url }}" class="btn btn-primary btn-lg">{{ hero.primary_cta }}</a>
-        <a href="{{ hero.secondary_cta_url | relative_url }}" class="btn btn-secondary btn-lg">{{ hero.secondary_cta }}</a>
+        <a href="{{ hero.secondary_cta_url | relative_url }}" class="btn btn-outline btn-lg">{{ hero.secondary_cta }}</a>
       </div>
 
       <p class="hero-microcopy">{{ hero.microcopy }}</p>
@@ -36,18 +28,16 @@ Uses structured front matter in index.md (no content changes)
   </div>
 </section>
 
-<!-- Trust strip -->
 <section class="trust-strip">
   <div class="container">
-    <div class="trust-chips">
-      {% for item in trust %}
-        <span class="trust-chip">{{ item }}</span>
+    <div class="trust-badges">
+      {% for item in trust limit:3 %}
+        <div class="trust-badge">{{ item }}</div>
       {% endfor %}
     </div>
   </div>
 </section>
 
-<!-- Why section -->
 <section class="section section-light">
   <div class="container">
     <div class="container-narrow">
@@ -57,8 +47,7 @@ Uses structured front matter in index.md (no content changes)
   </div>
 </section>
 
-<!-- Services -->
-<section class="section section-stone">
+<section class="section section-alt">
   <div class="container">
     <div class="section-header">
       <h2 class="mb-0">{{ services.heading }}</h2>
@@ -70,26 +59,24 @@ Uses structured front matter in index.md (no content changes)
         <div class="service-card">
           <h3>{{ item.title }}</h3>
           <p>{{ item.description }}</p>
-          <a href="{{ item.url | relative_url }}" class="service-link">View service</a>
+          <a href="{{ item.url | relative_url }}" class="service-link">Learn more</a>
         </div>
       {% endfor %}
     </div>
   </div>
 </section>
 
-<!-- Ryde preview -->
-<section class="section section-warm">
+<section class="section section-light">
   <div class="container">
     <div class="container-narrow">
       <h2>{{ ryde.heading }}</h2>
       <p>{{ ryde.text }}</p>
-      <a href="{{ ryde.link_url | relative_url }}" class="btn btn-outline">{{ ryde.link_text }}</a>
+      <a href="{{ ryde.link_url | relative_url }}" class="btn btn-secondary">{{ ryde.link_text }}</a>
     </div>
   </div>
 </section>
 
-<!-- Process -->
-<section class="section section-light">
+<section class="section section-alt">
   <div class="container">
     <div class="container-narrow">
       <h2>{{ process.heading }}</h2>
@@ -105,8 +92,7 @@ Uses structured front matter in index.md (no content changes)
   </div>
 </section>
 
-<!-- Proof -->
-<section class="section section-stone">
+<section class="section section-light">
   <div class="container">
     <div class="container-narrow">
       <h2>{{ proof.heading }}</h2>
@@ -115,17 +101,16 @@ Uses structured front matter in index.md (no content changes)
   </div>
 </section>
 
-<!-- Conversion -->
 <section class="section conversion-section">
   <div class="container">
     <div class="conversion-grid">
       <div>
         <h2>{{ conversion.heading }}</h2>
-        <p>{{ conversion.text }}</p>
+        <p class="text-white">{{ conversion.text }}</p>
       </div>
       <div class="conversion-actions">
         <a href="{{ conversion.primary_cta_url | relative_url }}" class="btn btn-primary btn-lg">{{ conversion.primary_cta }}</a>
-        <a href="{{ conversion.secondary_cta_url | relative_url }}" class="btn btn-secondary">{{ conversion.secondary_cta }}</a>
+        <a href="{{ conversion.secondary_cta_url | relative_url }}" class="btn btn-outline">{{ conversion.secondary_cta }}</a>
         <p class="conversion-note">{{ conversion.note }}</p>
       </div>
     </div>

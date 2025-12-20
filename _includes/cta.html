@@ -1,36 +1,23 @@
-<!-- Reusable CTA block
-     Usage: {% include cta.html 
-              heading="Ready to discuss your project?" 
-              primary_text="Request a Project Assessment"
-              primary_url="/contact/"
-              secondary_text="Ask a Tiling Question"
-              secondary_url="/contact/#question"
-              context="If you're planning, renovating, or comparing options — no pressure."
-            %}
--->
-
-<section class="cta-block">
+<!-- Reusable CTA block (content remains controlled by includes) -->
+<section class="section conversion-section">
   <div class="container">
-    {% if include.heading %}
-      <h2 class="cta-heading">{{ include.heading }}</h2>
-    {% endif %}
-    
-    {% if include.context %}
-      <p class="cta-context">{{ include.context }}</p>
-    {% endif %}
-    
-    <div class="cta-actions">
-      {% if include.primary_text and include.primary_url %}
-        <a href="{{ include.primary_url | relative_url }}" class="btn btn-primary">
-          {{ include.primary_text }}
-        </a>
-      {% endif %}
-      
-      {% if include.secondary_text and include.secondary_url %}
-        <a href="{{ include.secondary_url | relative_url }}" class="btn btn-secondary">
-          {{ include.secondary_text }}
-        </a>
-      {% endif %}
+    <div class="conversion-grid">
+      <div>
+        {% if include.heading %}
+          <h2>{{ include.heading }}</h2>
+        {% endif %}
+        {% if include.context %}
+          <p class="text-white">{{ include.context }}</p>
+        {% endif %}
+      </div>
+      <div class="conversion-actions">
+        {% if include.primary_text and include.primary_url %}
+          <a href="{{ include.primary_url | relative_url }}" class="btn btn-primary btn-lg">{{ include.primary_text }}</a>
+        {% endif %}
+        {% if include.secondary_text and include.secondary_url %}
+          <a href="{{ include.secondary_url | relative_url }}" class="btn btn-outline">{{ include.secondary_text }}</a>
+        {% endif %}
+      </div>
     </div>
   </div>
 </section>

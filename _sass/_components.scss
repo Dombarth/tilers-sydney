@@ -1,458 +1,248 @@
 // ==========================================================================
 // COMPONENTS — Harbour Tiling
-// Warm Architectural Direction
-// Tactile, deliberate, premium
+// Direction: QLH-inspired (high-contrast, conversion-forward)
 // ==========================================================================
 
-// ==========================================================================
-// BUTTONS — Warm, substantial, mobile-friendly
-// ==========================================================================
+// --------------------------------------------------------------------------
+// BUTTONS
+// --------------------------------------------------------------------------
+
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  gap: $space-2;
+  min-height: 48px;
   padding: $space-4 $space-5;
+  border-radius: $border-radius;
+  border: 2px solid transparent;
   font-family: $font-family-base;
   font-size: $font-size-sm;
-  font-weight: $font-weight-medium;
-  line-height: 1;
-  text-decoration: none;
-  border: 2px solid transparent;
-  border-radius: $border-radius;
+  font-weight: $font-weight-semibold;
+  text-transform: uppercase;
+  letter-spacing: $letter-spacing-wide;
   cursor: pointer;
-  transition: all $transition-base;
-  min-height: 48px; // Touch-friendly minimum
   -webkit-tap-highlight-color: transparent;
-  
-  @include media-md {
-    padding: $space-4 $space-6;
+  transition: transform $transition-fast, background $transition-fast, border-color $transition-fast, color $transition-fast, box-shadow $transition-fast;
+
+  &:active {
+    transform: translateY(1px);
   }
-  
+
   &:focus {
     outline: none;
-    box-shadow: 0 0 0 3px rgba($color-clay, 0.25);
-  }
-  
-  &:active {
-    transform: scale(0.98);
+    box-shadow: 0 0 0 3px rgba($color-brand, 0.25);
   }
 }
 
-// Primary button — Brand blue (high-conversion)
 .btn-primary {
   background: $color-cta;
-  color: $color-white;
   border-color: $color-cta;
-  box-shadow: 0 12px 28px rgba($color-brand, 0.28);
-  
+  color: $color-white;
+  box-shadow: $shadow-md;
+
   &:hover {
     background: $color-cta-hover;
     border-color: $color-cta-hover;
     color: $color-white;
-    transform: translateY(-1px);
-    box-shadow: $shadow-md;
-  }
-  
-  // On dark backgrounds
-  .section-dark &,
-  .conversion-section & {
-    background: $color-white;
-    color: $color-ink;
-    border-color: $color-white;
-    
-    &:hover {
-      background: $color-stone;
-      border-color: $color-stone;
-      color: $color-ink;
-    }
   }
 }
 
-// Secondary button — Outlined
 .btn-secondary {
-  background: transparent;
-  color: $color-ink;
-  border-color: $color-sand;
-  
+  background: $color-white;
+  border-color: $color-border;
+  color: $color-ink-2;
+
   &:hover {
-    background: $color-stone;
-    border-color: $color-sand;
-    color: $color-ink;
-  }
-  
-  // On dark backgrounds
-  .section-dark &,
-  .conversion-section & {
-    color: $color-white;
-    border-color: rgba($color-white, 0.3);
-    
-    &:hover {
-      background: rgba($color-white, 0.1);
-      border-color: rgba($color-white, 0.5);
-      color: $color-white;
-    }
+    background: $color-bg-alt;
+    border-color: $color-border;
   }
 }
 
-// Outline button — Brand
 .btn-outline {
   background: transparent;
-  color: $color-brand;
-  border-color: $color-brand;
-  
-  &:hover {
-    background: $color-brand;
-    color: $color-white;
-    border-color: $color-brand;
-  }
-}
-
-// Light button (top bar)
-.btn-light {
-  background: rgba($color-white, 0.14);
+  border-color: rgba($color-white, 0.45);
   color: $color-white;
-  border-color: rgba($color-white, 0.3);
 
   &:hover {
-    background: rgba($color-white, 0.22);
-    border-color: rgba($color-white, 0.5);
+    background: rgba($color-white, 0.12);
+    border-color: rgba($color-white, 0.7);
     color: $color-white;
   }
 }
 
-// Large button
 .btn-lg {
-  padding: $space-5 $space-8;
-  font-size: $font-size-base;
+  padding: $space-5 $space-6;
+  font-size: $font-size-sm;
 }
 
-// Small button
 .btn-sm {
   padding: $space-3 $space-4;
-  font-size: $font-size-xs;
   min-height: 40px;
+  font-size: $font-size-xs;
 }
 
-// ==========================================================================
-// CARDS — Tactile, warm shadows
-// ==========================================================================
-.card {
+// --------------------------------------------------------------------------
+// CARDS / PANELS
+// --------------------------------------------------------------------------
+
+.card,
+.panel {
   background: $color-white;
-  border: 1px solid $color-border-subtle;
+  border: 1px solid $color-border;
   border-radius: $border-radius-lg;
-  padding: $space-6;
-  box-shadow: $shadow-card;
-  transition: transform $transition-base, box-shadow $transition-base;
-  
-  &:hover {
-    transform: translateY(-2px);
-    box-shadow: $shadow-card-hover;
-  }
+  box-shadow: $shadow-sm;
 }
 
-.card-title {
-  font-size: $font-size-lg;
-  font-weight: $font-weight-semibold;
-  margin-bottom: $space-3;
-  color: $color-ink;
-}
-
-.card-text {
-  font-size: $font-size-sm;
-  color: $color-slate;
-  line-height: $line-height-base;
-}
-
-// Service cards
 .service-card {
   background: $color-white;
-  padding: $space-6;
+  border: 1px solid $color-border;
   border-radius: $border-radius-lg;
-  border: 1px solid $color-border-subtle;
-  box-shadow: $shadow-card;
-  transition: transform $transition-base, box-shadow $transition-base;
-  
+  padding: $space-6;
+  box-shadow: $shadow-sm;
+  transition: transform $transition-fast, box-shadow $transition-fast;
+
   &:hover {
-    transform: translateY(-3px);
-    box-shadow: $shadow-card-hover;
+    transform: translateY(-2px);
+    box-shadow: $shadow-md;
   }
-  
+
   h3 {
-    font-size: $font-size-lg;
-    margin-bottom: $space-3;
     margin-top: 0;
   }
-  
+
   p {
-    font-size: $font-size-sm;
-    color: $color-slate;
-    margin-bottom: $space-5;
+    margin-bottom: $space-4;
   }
 }
 
 .service-link {
-  font-size: $font-size-sm;
-  font-weight: $font-weight-medium;
-  color: $color-brand;
   display: inline-flex;
   align-items: center;
   gap: $space-2;
-  
-  &::after {
-    content: '→';
-    transition: transform $transition-fast;
-  }
-  
-  &:hover::after {
-    transform: translateX(3px);
-  }
-}
-
-// ==========================================================================
-// TRUST CHIPS
-// ==========================================================================
-.trust-chips {
-  display: flex;
-  flex-wrap: wrap;
-  gap: $space-3;
-}
-
-.trust-chip {
-  display: inline-flex;
-  align-items: center;
-  gap: $space-2;
-  padding: $space-2 $space-4;
-  background: $color-stone;
-  border-radius: $border-radius;
-  font-size: $font-size-xs;
-  font-weight: $font-weight-medium;
-  color: $color-slate;
-  
-  &::before {
-    content: '';
-    width: 5px;
-    height: 5px;
-    background: $color-clay;
-    border-radius: 50%;
-  }
-}
-
-// ==========================================================================
-// TABLES — Clean, architectural
-// ==========================================================================
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: $space-6 0;
-  font-size: $font-size-sm;
-}
-
-th, td {
-  padding: $space-4;
-  text-align: left;
-  border-bottom: 1px solid $color-border;
-}
-
-th {
   font-weight: $font-weight-semibold;
-  background: $color-stone;
-  color: $color-ink;
-  font-size: $font-size-xs;
   text-transform: uppercase;
   letter-spacing: $letter-spacing-wide;
-}
+  font-size: $font-size-xs;
+  color: $color-brand;
 
-tr:hover td {
-  background: rgba($color-stone, 0.5);
-}
+  &::after {
+    content: '→';
+  }
 
-// ==========================================================================
-// BLOCKQUOTE — Callouts
-// ==========================================================================
-blockquote {
-  margin: $space-8 0;
-  padding: $space-6;
-  background: $color-stone;
-  border-left: 3px solid $color-clay;
-  border-radius: 0 $border-radius $border-radius 0;
-  
-  p {
-    font-size: $font-size-base;
-    color: $color-slate;
-    margin: 0;
+  &:hover {
+    color: $color-brand-dark;
   }
 }
 
-// ==========================================================================
-// FORMS — Mobile-first, warm, inviting
-// ==========================================================================
+// Trust badges (simple)
+.trust-badges {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: $space-4;
+
+  @include media-md {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.trust-badge {
+  background: rgba($color-white, 0.92);
+  border: 1px solid rgba($color-white, 0.22);
+  border-radius: $border-radius;
+  padding: $space-4;
+  text-align: center;
+  color: $color-ink-2;
+}
+
+// --------------------------------------------------------------------------
+// CTA ACTIONS
+// --------------------------------------------------------------------------
+
+.cta-actions {
+  display: flex;
+  flex-direction: column;
+  gap: $space-3;
+  margin-top: $space-5;
+
+  @include media-sm {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .btn {
+    width: 100%;
+
+    @include media-sm {
+      width: auto;
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// FORMS
+// --------------------------------------------------------------------------
+
+.contact-form {
+  width: 100%;
+  max-width: 720px;
+}
+
 .form-group {
   margin-bottom: $space-4;
-  
-  @include media-md {
-    margin-bottom: $space-5;
-  }
 }
 
 label {
   display: block;
   margin-bottom: $space-2;
   font-size: $font-size-sm;
-  font-weight: $font-weight-medium;
-  color: $color-ink;
+  font-weight: $font-weight-semibold;
+  color: $color-ink-2;
 }
 
 input[type="text"],
 input[type="email"],
 input[type="tel"],
-textarea,
-select {
+textarea {
   width: 100%;
   padding: $space-4;
-  font-family: $font-family-base;
-  font-size: 16px; // Prevents iOS zoom on focus
-  color: $color-text;
-  background: $color-white;
-  border: 1px solid $color-border;
   border-radius: $border-radius;
-  transition: border-color $transition-fast, box-shadow $transition-fast;
-  -webkit-appearance: none; // Remove iOS styling
-  appearance: none;
-  
-  @include media-md {
-    font-size: $font-size-base;
-  }
-  
+  border: 1px solid $color-border;
+  background: $color-white;
+  color: $color-ink-2;
+  font-size: 16px; // mobile
+
   &:focus {
     outline: none;
-    border-color: $color-clay;
-    box-shadow: 0 0 0 3px rgba($color-clay, 0.1);
-  }
-  
-  &::placeholder {
-    color: $color-slate-light;
+    border-color: $color-brand;
+    box-shadow: 0 0 0 3px rgba($color-brand, 0.14);
   }
 }
 
 textarea {
-  min-height: 120px;
-  resize: vertical;
-  line-height: $line-height-base;
-  
-  @include media-md {
-    min-height: 140px;
-  }
+  min-height: 140px;
 }
 
 .form-helper {
   display: block;
   margin-top: $space-2;
   font-size: $font-size-xs;
-  color: $color-slate-light;
-  line-height: $line-height-base;
+  color: $color-muted-2;
 }
 
-// Contact form styling
-.contact-form {
-  width: 100%;
-  
-  @include media-md {
-    max-width: 500px;
-  }
-  
-  .btn {
-    width: 100%;
-    margin-top: $space-4;
-    
-    @include media-sm {
-      width: auto;
-    }
-  }
-}
+// --------------------------------------------------------------------------
+// BADGE
+// --------------------------------------------------------------------------
 
-// ==========================================================================
-// CTA ACTIONS — Mobile-first, full-width on small screens
-// ==========================================================================
-.cta-actions {
-  display: flex;
-  flex-direction: column;
-  gap: $space-3;
-  margin-top: $space-5;
-  
-  @include media-sm {
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: $space-4;
-    margin-top: $space-6;
-  }
-  
-  .btn {
-    width: 100%;
-    
-    @include media-sm {
-      width: auto;
-    }
-  }
-}
-
-// ==========================================================================
-// DIVIDERS
-// ==========================================================================
-.divider {
-  height: 1px;
-  background: $color-border;
-  margin: $space-10 0;
-}
-
-.divider-subtle {
-  height: 1px;
-  background: $color-border-subtle;
-  margin: $space-8 0;
-}
-
-// ==========================================================================
-// BADGES / LABELS
-// ==========================================================================
 .badge {
   display: inline-flex;
   align-items: center;
-  padding: $space-1 $space-3;
+  padding: $space-2 $space-4;
+  border-radius: 999px;
+  background: rgba($color-white, 0.12);
+  border: 1px solid rgba($color-white, 0.18);
+  color: rgba($color-white, 0.9);
   font-size: $font-size-xs;
-  font-weight: $font-weight-medium;
   text-transform: uppercase;
   letter-spacing: $letter-spacing-wide;
-  border-radius: $border-radius-sm;
-  background: $color-stone;
-  color: $color-slate;
-}
-
-.badge-clay {
-  background: rgba($color-clay, 0.1);
-  color: $color-clay-dark;
-}
-
-// ==========================================================================
-// ICONS / DECORATIVE
-// ==========================================================================
-.icon-dot {
-  width: 6px;
-  height: 6px;
-  background: $color-clay;
-  border-radius: 50%;
-  display: inline-block;
-}
-
-// ==========================================================================
-// PAGE-SPECIFIC ADJUSTMENTS
-// ==========================================================================
-
-// Home page body class
-.home {
-  // Hero gets extra dramatic sizing
-  .hero-title {
-    @include media-lg {
-      font-size: $font-size-6xl;
-      line-height: 1.05;
-    }
-  }
 }

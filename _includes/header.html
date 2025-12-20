@@ -1,58 +1,27 @@
-{%- assign phone = site.data.site.contact.phone | default: '' -%}
-{%- assign email = site.data.site.contact.email | default: '' -%}
-
 <header class="site-header" role="banner">
-  <!-- Top bar: contact + primary CTA -->
-  <div class="topbar">
-    <div class="container topbar-inner">
-      <div class="topbar-contact">
-        {%- if phone != '' -%}
-          <a class="topbar-link" href="tel:{{ phone | replace: ' ', '' }}">
-            <span class="topbar-label">Phone</span>
-            <span class="topbar-value">{{ phone }}</span>
-          </a>
-        {%- endif -%}
+  <div class="container nav-band-inner">
+    <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.data.site.business.name }}</a>
 
-        {%- if email != '' -%}
-          <a class="topbar-link" href="mailto:{{ email }}">
-            <span class="topbar-label">Email</span>
-            <span class="topbar-value">{{ email }}</span>
-          </a>
-        {%- endif -%}
-      </div>
+    <nav class="site-nav" role="navigation" aria-label="Main navigation">
+      <button class="nav-toggle"
+              type="button"
+              aria-expanded="false"
+              aria-controls="nav-list"
+              aria-label="Open menu"
+              id="nav-toggle">
+        <span class="nav-toggle-icon" aria-hidden="true"></span>
+      </button>
 
-      <div class="topbar-actions">
-        <a href="/contact/" class="btn btn-light btn-sm">Request a Project Assessment</a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Main nav band -->
-  <div class="nav-band">
-    <div class="container nav-band-inner">
-      <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.data.site.business.name }}</a>
-
-      <nav class="site-nav" role="navigation" aria-label="Main navigation">
-        <button class="nav-toggle"
-                type="button"
-                aria-expanded="false"
-                aria-controls="nav-list"
-                aria-label="Open menu"
-                id="nav-toggle">
-          <span class="nav-toggle-icon" aria-hidden="true"></span>
-        </button>
-
-        <ul class="nav-list" id="nav-list">
-          {% for item in site.data.navigation.main %}
-            <li class="nav-item">
-              <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
-            </li>
-          {% endfor %}
-          <li class="nav-item nav-item-cta">
-            <a href="/contact/" class="btn btn-primary btn-sm">Enquire</a>
+      <ul class="nav-list" id="nav-list">
+        {% for item in site.data.navigation.main %}
+          <li class="nav-item">
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
           </li>
-        </ul>
-      </nav>
-    </div>
+        {% endfor %}
+        <li class="nav-item nav-item-cta">
+          <a href="/contact/" class="btn btn-primary btn-sm">Request a Project Assessment</a>
+        </li>
+      </ul>
+    </nav>
   </div>
 </header>
