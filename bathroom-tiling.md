@@ -73,7 +73,7 @@ Higher-end work isn't about using expensive tiles - it's about the level of plan
 
 ### Waterproofing
 
-In NSW, wet areas must be waterproofed by a licensed waterproofer before tiling. The tiler doesn't apply the membrane, but the two trades need to coordinate:
+In NSW, wet areas must be waterproofed by a licensed waterproofer before tiling. Harbour Tiling holds a builders licence and is licensed to perform waterproofing, so we handle both waterproofing and tiling in-house:
 
 - The substrate must be ready before waterproofing
 - The membrane must cure fully before tiling (usually 24–72 hours depending on product and conditions)
@@ -171,7 +171,7 @@ That last question matters. If the priority is getting it done fast or cheap, th
 
 ## Harbour Tiling provides bathroom tiling in Ryde
 
-Harbour Tiling provides professional bathroom tiling services throughout Ryde NSW and nearby suburbs, including full bathroom renovations, shower retiles, floor and wall tiling, and feature walls. We coordinate with licensed waterproofers to ensure proper membrane application and cure time, assess substrate condition before quoting, and plan tile layouts so cuts fall in sensible places rather than prominent spots. For bathroom projects in Ryde, West Ryde, Eastwood, North Ryde, Gladesville, Meadowbank, and surrounding areas, we focus on preparation that prevents long-term failures, clean grout lines, and silicone junctions that stay sealed.
+Harbour Tiling provides professional bathroom tiling services throughout Ryde NSW and nearby suburbs, including full bathroom renovations, shower retiles, floor and wall tiling, and feature walls. We hold a builders licence and are licensed waterproofers, so we handle both waterproofing and tiling in-house with proper membrane application and cure time. We assess substrate condition before quoting, and plan tile layouts so cuts fall in sensible places rather than prominent spots. For bathroom projects in Ryde, West Ryde, Eastwood, North Ryde, Gladesville, Meadowbank, and surrounding areas, we focus on preparation that prevents long-term failures, clean grout lines, and silicone junctions that stay sealed.
 
 ---
 

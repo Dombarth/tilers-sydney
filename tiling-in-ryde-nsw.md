@@ -145,7 +145,7 @@ Not all tiling decisions are about looks. Some affect how long the work lasts - 
 
 ### Waterproofing
 
-In NSW, wet areas must be waterproofed by a licensed waterproofer. The tiler doesn't apply the membrane - but they need to coordinate with the waterproofer and wait for proper curing before tiling.
+In NSW, wet areas must be waterproofed by a licensed waterproofer. Harbour Tiling holds a builders licence and is licensed to perform waterproofing, so we handle both waterproofing and tiling in-house, ensuring proper membrane application and curing before tiling begins.
 
 Rushing this step is one of the most common causes of long-term failure.
 

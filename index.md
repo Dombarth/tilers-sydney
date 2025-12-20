@@ -33,7 +33,7 @@ why_section:
     Before quoting, I work through a set of questions about your space:
 
     - **What's under the existing surface?** - Concrete, timber, old tiles, render? Each has different prep requirements. I check this first because it changes the scope.
-    - **Does the waterproofing need to be redone?** - In wet areas, I coordinate with a licensed waterproofer. If the membrane is compromised, tiling over it is a waste of money.
+    - **Does the waterproofing need to be redone?** - In wet areas, we handle waterproofing in-house (we hold a builders licence and are licensed waterproofers). If the membrane is compromised, tiling over it is a waste of money.
     - **Where should cuts fall?** - I plan the layout so small slivers and awkward cuts don't end up in visible spots. This takes time upfront but changes how the room feels.
     - **Is the tile suitable for the application?** - Some tiles aren't rated for floors, showers, or outdoor use. I'll flag this before you buy.
 

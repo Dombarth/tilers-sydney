@@ -10,7 +10,7 @@ faq:
   - q: "How long should waterproofing cure before tiling?"
     a: "It depends on the membrane system and site conditions, but cure time is often quoted around 24–72 hours. The key is that cure time should not be compressed just to meet a schedule."
   - q: "Who does waterproofing in NSW wet areas?"
-    a: "Wet area waterproofing is completed by a licensed waterproofer. The tiler coordinates sequencing and protects the membrane during tiling, but the membrane itself is applied by the waterproofer."
+    a: "Wet area waterproofing must be completed by a licensed waterproofer. Harbour Tiling holds a builders licence and is licensed to perform waterproofing, so we handle both waterproofing and tiling in-house."
 ---
 
 ## Quick answer (for planning)
@@ -45,8 +45,8 @@ This page is about doing the job in a way that holds up under real use.
 
 ## Who is responsible for what (clear roles)
 
-### The licensed waterproofer
-In NSW, wet area waterproofing is completed by a licensed waterproofer. Requirements and standards commonly reference the NCC and Australian Standards such as **AS 3740 (Waterproofing of domestic wet areas)**.
+### Licensed waterproofing
+In NSW, wet area waterproofing must be completed by a licensed waterproofer. Harbour Tiling holds a builders licence and is licensed to perform waterproofing, so we handle both in-house. Requirements and standards commonly reference the NCC and Australian Standards such as **AS 3740 (Waterproofing of domestic wet areas)**.
 
 They typically:
 
@@ -153,7 +153,7 @@ Waterproofing is critical, but if the substrate moves or isn’t flat/stable, th
 
 Use this checklist to keep the scope clear and avoid misunderstandings:
 
-1) **Who is the licensed waterproofer?**
+1) **Is waterproofing included?** (Harbour Tiling is licensed for waterproofing)
 2) **What cure time is allowed before tiling starts?**
 3) **What prep is included before waterproofing?** (levelling/sheeting/repairs)
 4) **What happens if substrate damage is found after demo?**

@@ -78,7 +78,7 @@ faq:
 
 ## Waterproofing Costs
 
-In NSW, wet areas must be waterproofed by a licensed waterproofer. This is typically a separate cost:
+In NSW, wet areas must be waterproofed by a licensed waterproofer. Harbour Tiling holds a builders licence and is licensed to perform waterproofing, so we include this in our quotes:
 
 | Area | Typical Cost | Notes |
 |------|-------------|-------|
@@ -202,7 +202,7 @@ Ryde has significant apartment density. Building logistics add real cost:
 Ask each tiler:
 
 1. **What preparation is included?** (grinding, levelling, sheeting)
-2. **Who is the licensed waterproofer?** What's the sequence?
+2. **Is waterproofing included?** (Harbour Tiling is licensed for waterproofing)
 3. **How much cure time is allowed?** (min 24-48 hours)
 4. **What grout type?** (cement vs epoxy)
 5. **Are niches/features priced separately?**
@@ -220,7 +220,7 @@ Ask each tiler:
 
 ## Harbour Tiling provides bathroom tiling in Ryde
 
-Harbour Tiling provides professional bathroom tiling services throughout Ryde NSW and nearby suburbs. We assess substrate condition before quoting, coordinate with licensed waterproofers to ensure proper membrane application and cure time, and provide detailed quotes that specify what's included. For bathroom projects in Ryde, West Ryde, Eastwood, North Ryde, Gladesville, Meadowbank, and surrounding areas, we focus on preparation that prevents long-term failures and transparent pricing that lets you compare quotes fairly.
+Harbour Tiling provides professional bathroom tiling services throughout Ryde NSW and nearby suburbs. We hold a builders licence and are licensed waterproofers, so we handle both waterproofing and tiling in-house with proper membrane application and cure time. We assess substrate condition before quoting, and provide detailed quotes that specify what's included. For bathroom projects in Ryde, West Ryde, Eastwood, North Ryde, Gladesville, Meadowbank, and surrounding areas, we focus on preparation that prevents long-term failures and transparent pricing that lets you compare quotes fairly.
 
 ---
 

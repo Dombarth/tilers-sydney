@@ -72,10 +72,10 @@ If waterproofing fails in a house, the damage is contained to your property. In 
 
 ### What's required
 
-In NSW, wet areas must be waterproofed by a licensed waterproofer. The process is the same as in a house:
+In NSW, wet areas must be waterproofed by a licensed waterproofer. Harbour Tiling holds a builders licence and is licensed to perform waterproofing, so we handle both in-house:
 
 1. Substrate prepared and inspected
-2. Membrane applied by licensed waterproofer
+2. Membrane applied (we are licensed waterproofers)
 3. Membrane allowed to cure fully (1–3 days depending on product)
 4. Tiling proceeds once waterproofing is confirmed
 
@@ -126,7 +126,7 @@ The most common apartment tiling job. Usually involves:
 
 - Removing existing tiles, adhesive, and often waterproofing
 - Substrate inspection and repair
-- New waterproofing (by licensed waterproofer)
+- New waterproofing (we are licensed waterproofers)
 - Tiling floors, walls, and any niches
 - Grouting, silicone, and finishing
 
@@ -164,7 +164,7 @@ Most apartment tiling jobs take 4–10 days depending on scope, access, and curi
 1. **Access and setup** - Lift booking, floor protection in common areas if required, materials delivered
 2. **Demolition** - Existing tiles removed, debris disposed of (may require multiple trips to bins)
 3. **Substrate prep** - Inspection, repairs, levelling as needed
-4. **Waterproofing** - Applied by licensed waterproofer, then cured (allow 1–3 days)
+4. **Waterproofing** - Applied by our licensed waterproofers, then cured (allow 1–3 days)
 5. **Tiling** - Floors and walls tiled, layout planned to minimise waste and awkward cuts
 6. **Grouting and finishing** - Grout applied, silicone at junctions, final clean
 7. **Handover** - Walkthrough, care instructions, any required documentation provided
@@ -190,7 +190,7 @@ These questions help avoid surprises once the job is underway.
 
 ## Harbour Tiling provides apartment tiling in Ryde
 
-Harbour Tiling provides professional apartment tiling services throughout Ryde NSW and nearby suburbs, including bathroom retiles, laundry tiling, kitchen splashbacks, and balcony work in strata buildings. We understand the logistics of apartment work - lift bookings, noise restrictions, strata approvals, and waterproofing documentation requirements. For apartment projects in Ryde, West Ryde, Macquarie Park, Meadowbank, Rhodes, and surrounding high-density areas, we coordinate with licensed waterproofers, manage building access professionally, and ensure documentation is provided for strata records.
+Harbour Tiling provides professional apartment tiling services throughout Ryde NSW and nearby suburbs, including bathroom retiles, laundry tiling, kitchen splashbacks, and balcony work in strata buildings. We hold a builders licence and are licensed waterproofers, so we handle both waterproofing and tiling in-house. We understand the logistics of apartment work - lift bookings, noise restrictions, strata approvals, and waterproofing documentation requirements. For apartment projects in Ryde, West Ryde, Macquarie Park, Meadowbank, Rhodes, and surrounding high-density areas, we manage building access professionally and ensure all waterproofing documentation is provided for strata records.
 
 ---
 

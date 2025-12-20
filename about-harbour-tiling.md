@@ -48,7 +48,7 @@ If you're not sure whether your location is within my usual range, feel free to 
 ## Credentials
 
 - Fully insured for residential tiling work
-- Coordinating with licensed waterproofers for wet area work
+- Licensed waterproofing for wet area work (we hold a builders licence)
 
 ---
 

@@ -51,7 +51,7 @@ A typical quote covers:
 
 What's usually *not* included:
 
-- Waterproofing (done by a licensed waterproofer)
+- Waterproofing (we hold a builders licence and are licensed waterproofers, so this is included in wet area quotes)
 - Demolition of existing tiles (sometimes included, sometimes quoted separately)
 - Substrate repairs beyond minor prep
 - Tiles and consumables you're supplying
@@ -70,7 +70,7 @@ Tiling is often one step in a larger project - especially for bathroom or kitche
 For wet areas, the typical sequence is:
 
 1. Demolition and substrate prep
-2. Waterproofing (by licensed waterproofer)
+2. Waterproofing (we are licensed waterproofers)
 3. Waterproofing curing (1–3 days)
 4. Tiling
 5. Grouting and finishing
@@ -141,7 +141,7 @@ I don't disappear once the job is done. If something comes up, let me know.
 
 To be clear about boundaries:
 
-- I don't apply waterproofing (that requires a separate licence in NSW)
+- We hold a builders licence and are licensed waterproofers for wet area work
 - I don't do structural work or major carpentry
 - I don't project-manage full renovations
 - I don't rush jobs to meet unrealistic deadlines

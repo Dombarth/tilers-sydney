@@ -119,7 +119,7 @@ This doesn’t mean you should panic - it means you should plan properly and doc
 Key principles:
 
 - substrate must be stable before waterproofing
-- waterproofing must be done by a licensed waterproofer
+- waterproofing must be done by a licensed waterproofer (Harbour Tiling holds a builders licence and is licensed)
 - cure time must be respected
 - corners/junctions are finished with silicone (movement is normal)
 
