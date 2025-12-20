@@ -1,12 +1,12 @@
----
+﻿---
 layout: page
 title: "How We Work"
 subtitle: "Our approach to tiling projects"
-description: "How Harbour Tiling approaches tiling work — preparation, sequencing, communication, and what to expect from start to finish."
+description: "How Harbour Tiling approaches tiling work - preparation, sequencing, communication, and what to expect from start to finish."
 permalink: /how-we-work/
 ---
 
-This page explains how I approach tiling projects — the standards I work to, how I communicate, and what you can expect at each stage. It's here so you know what to expect before we start working together.
+This page explains how I approach tiling projects - the standards I work to, how I communicate, and what you can expect at each stage. It's here so you know what to expect before we start working together.
 
 ---
 
@@ -24,14 +24,14 @@ Most of what makes tiling last happens before the first tile goes on. That's whe
 
 ## Preparation comes first
 
-Good tiling starts with preparation — not with tiles.
+Good tiling starts with preparation - not with tiles.
 
 Before any tiling begins, I check:
 
-- **Substrate condition** — Is the surface flat, stable, and ready? Does it need levelling, sheeting, or priming?
-- **Waterproofing status** — For wet areas, is the membrane in place and cured? If not, who's coordinating that?
-- **Tile suitability** — Are the tiles rated for the intended use? Are there any handling or installation requirements?
-- **Layout and setout** — Where will cuts fall? Are tiles centred on focal points? Do grout lines align where they should?
+- **Substrate condition** - Is the surface flat, stable, and ready? Does it need levelling, sheeting, or priming?
+- **Waterproofing status** - For wet areas, is the membrane in place and cured? If not, who's coordinating that?
+- **Tile suitability** - Are the tiles rated for the intended use? Are there any handling or installation requirements?
+- **Layout and setout** - Where will cuts fall? Are tiles centred on focal points? Do grout lines align where they should?
 
 These decisions affect how the job is quoted, scheduled, and executed. I'd rather identify issues upfront than discover them mid-job.
 
@@ -39,7 +39,7 @@ These decisions affect how the job is quoted, scheduled, and executed. I'd rathe
 
 ## Clear scope and quoting
 
-I aim to be clear about what's included in a quote — and what's not.
+I aim to be clear about what's included in a quote - and what's not.
 
 A typical quote covers:
 
@@ -59,13 +59,13 @@ What's usually *not* included:
 
 If something's unclear, I'll explain it. If the scope changes during the job, I'll flag it before proceeding.
 
-The goal is no surprises — for either of us.
+The goal is no surprises - for either of us.
 
 ---
 
 ## Sequencing and coordination
 
-Tiling is often one step in a larger project — especially for bathroom or kitchen renovations. The timing matters.
+Tiling is often one step in a larger project - especially for bathroom or kitchen renovations. The timing matters.
 
 For wet areas, the typical sequence is:
 
@@ -103,11 +103,11 @@ I don't disappear mid-job or leave things unexplained.
 
 These are the standards I hold myself to during a job:
 
-- **Clean as I go** — Dust and debris are managed throughout, not just at the end
-- **Protect adjacent areas** — Drop sheets, edge protection, and care around finished surfaces
-- **Respectful behaviour** — Quiet when needed, mindful of neighbours, no loud music or unnecessary disruption
-- **Tools and materials organised** — Work area stays orderly, not chaotic
-- **Site left tidy** — At the end of each day and at the end of the job
+- **Clean as I go** - Dust and debris are managed throughout, not just at the end
+- **Protect adjacent areas** - Drop sheets, edge protection, and care around finished surfaces
+- **Respectful behaviour** - Quiet when needed, mindful of neighbours, no loud music or unnecessary disruption
+- **Tools and materials organised** - Work area stays orderly, not chaotic
+- **Site left tidy** - At the end of each day and at the end of the job
 
 ---
 
@@ -115,11 +115,11 @@ These are the standards I hold myself to during a job:
 
 Before a job is handed over, I check:
 
-- **Flatness and level** — Especially on floors and large-format tiles
-- **Grout consistency** — Even depth, clean lines, no voids
-- **Silicone junctions** — Clean lines at corners and transitions
-- **Lippage** — Tile-to-tile alignment within acceptable tolerances
-- **Cleanup** — Grout haze removed, surfaces wiped down
+- **Flatness and level** - Especially on floors and large-format tiles
+- **Grout consistency** - Even depth, clean lines, no voids
+- **Silicone junctions** - Clean lines at corners and transitions
+- **Lippage** - Tile-to-tile alignment within acceptable tolerances
+- **Cleanup** - Grout haze removed, surfaces wiped down
 
 If something's not right, I'd rather fix it before you notice than after.
 

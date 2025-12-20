@@ -142,7 +142,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: $space-5;
+    gap: $space-6;
     position: static;
     box-shadow: none;
     border: none;
@@ -173,7 +173,11 @@
 
   @include media-lg {
     margin-top: 0;
-    margin-left: $space-3;
+    margin-left: $space-4;
+  }
+
+  .btn {
+    white-space: nowrap;
   }
 }
 

@@ -4,7 +4,7 @@
 title: Harbour Tiling
 description: >-
   Detail-led tiling for bathrooms, kitchens and apartments in Ryde NSW and nearby suburbs.
-url: "" # Set to production URL when deployed
+url: "https://harbour-tiling-preview.netlify.app" # Production URL for canonical tags
 baseurl: ""
 
 # Build settings

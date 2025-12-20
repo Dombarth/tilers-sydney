@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Tiling in Homebush"
 subtitle: "Bathroom, kitchen and apartment tiling in Homebush - planned properly and coordinated"
@@ -28,7 +28,7 @@ This page is designed to answer the practical questions that matter before you g
 ## Local notes (what usually matters in Homebush)
 
 - Higher density means access and noise rules can dominate the plan (lift bookings, protection, working hours).
-- If you are comparing quotes, check what preparation is actually included â€” that is where pricing diverges.
+- If you are comparing quotes, check what preparation is actually included - that is where pricing diverges.
 - For bathrooms, confirm the waterproofing provider and cure time before locking a start date.
 
 ## Useful Ryde guides

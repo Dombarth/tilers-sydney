@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Apartment tiling in Ryde (strata logistics)"
 subtitle: "Access, lift bookings, noise windows, and how to keep a job smooth"
@@ -22,7 +22,7 @@ Apartment tiling in Ryde goes smoothly when you plan four things early:
 3) **Noise windows** (when demo/cutting is allowed)
 4) **Wet area sequencing** (prep → licensed waterproofing → cure time → tiling)
 
-Most apartment delays aren’t tiling problems — they’re **logistics problems**.
+Most apartment delays aren’t tiling problems - they’re **logistics problems**.
 
 If you want a quick sanity check on your building’s likely workflow, call <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>.
 
@@ -61,7 +61,7 @@ Practical impact:
 
 Even small bathrooms require tools, materials, and waste runs.
 
-If street parking is limited or loading is controlled, it’s not “minor” — it affects the day’s productivity.
+If street parking is limited or loading is controlled, it’s not “minor” - it affects the day’s productivity.
 
 ### 3) Noise windows (demo and cutting)
 
@@ -114,7 +114,7 @@ In an apartment, waterproofing failures can cause:
 - involvement of strata insurance
 - more complex remediation
 
-This doesn’t mean you should panic — it means you should plan properly and document what matters.
+This doesn’t mean you should panic - it means you should plan properly and document what matters.
 
 Key principles:
 

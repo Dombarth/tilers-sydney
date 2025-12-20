@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Pool tiling"
 seo_title: "Pool tiling in Ryde NSW (waterline tiles & surrounds)"
@@ -35,7 +35,7 @@ If you want a practical assessment, call <a href="tel:{{ site.data.site.contact.
 
 ## Pool tiling in Ryde: what’s different locally
 
-Ryde and nearby suburbs have a mix of older homes and newer builds. The pool itself might be concrete, fibreglass, or rendered/masonry — and each behaves differently.
+Ryde and nearby suburbs have a mix of older homes and newer builds. The pool itself might be concrete, fibreglass, or rendered/masonry - and each behaves differently.
 
 The two Ryde-specific realities that often affect pool tiling work:
 

@@ -1,15 +1,15 @@
----
+﻿---
 layout: page
 title: "Ryde area tiling"
 seo_title: "Tiler in Ryde NSW (suburb guides & planning)"
-subtitle: "Ryde district tiling coverage — suburb guides and what changes job-to-job"
+subtitle: "Ryde district tiling coverage - suburb guides and what changes job-to-job"
 description: "Tiler in Ryde NSW: suburb guides for Ryde and nearby areas, apartment logistics, and what to check before you get tiling quotes."
 permalink: /areas/ryde/
 ---
 
 From **West Ryde**, Harbour Tiling services the Ryde district and nearby suburbs.
 
-This page exists to help you find **the most relevant local information** for your suburb (apartment access, building type, waterproofing risks, and what to ask before you start). It’s not a directory and it’s not a list of random pages — each suburb page is written to answer practical questions people actually have.
+This page exists to help you find **the most relevant local information** for your suburb (apartment access, building type, waterproofing risks, and what to ask before you start). It’s not a directory and it’s not a list of random pages - each suburb page is written to answer practical questions people actually have.
 
 ## Quick actions
 
@@ -37,7 +37,7 @@ This page exists to help you find **the most relevant local information** for yo
 
 If you’re still in the planning stage, start here:
 
-- <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW — what to know before you start</a>
+- <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW - what to know before you start</a>
 
 ## Planning guides (Ryde-specific)
 

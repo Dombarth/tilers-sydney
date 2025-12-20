@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Apartment tiling"
 seo_title: "Apartment tiler in Ryde NSW (strata access & wet areas)"
@@ -13,9 +13,9 @@ service_schema:
 
 Tiling in an apartment is different from tiling in a house. The work itself is similar, but the context changes everything: access, approvals, neighbours, noise restrictions, and the consequences if something goes wrong.
 
-That said, these aren't problems — they're just things to plan for. With the right preparation, apartment tiling goes smoothly.
+That said, these aren't problems - they're just things to plan for. With the right preparation, apartment tiling goes smoothly.
 
-This page explains what's involved in apartment tiling — the logistics, the coordination, and what to think through before starting.
+This page explains what's involved in apartment tiling - the logistics, the coordination, and what to think through before starting.
 
 ---
 
@@ -25,11 +25,11 @@ This page explains what's involved in apartment tiling — the logistics, the co
 
 Getting materials and tools into an apartment takes planning:
 
-- **Lift bookings** — Most buildings require trades to book lifts in advance
-- **Loading dock and parking** — Vehicle access may be restricted; multiple trips may be needed
-- **Deliveries** — Tile deliveries may need to be coordinated with building management
+- **Lift bookings** - Most buildings require trades to book lifts in advance
+- **Loading dock and parking** - Vehicle access may be restricted; multiple trips may be needed
+- **Deliveries** - Tile deliveries may need to be coordinated with building management
 
-For larger jobs, this adds time to the schedule — not because the tiling takes longer, but because getting in and out does.
+For larger jobs, this adds time to the schedule - not because the tiling takes longer, but because getting in and out does.
 
 ### Working hours and noise
 
@@ -39,7 +39,7 @@ Most strata buildings have by-laws that restrict noisy work:
 - Demolition and cutting are often the noisiest stages
 - Some buildings require notice to neighbours or strata management
 
-If the job involves significant demolition, the noise and dust need to be managed carefully — both for your neighbours and for common areas.
+If the job involves significant demolition, the noise and dust need to be managed carefully - both for your neighbours and for common areas.
 
 ### Strata approvals
 
@@ -55,7 +55,7 @@ Approval requirements vary by building. It's worth checking with your strata man
 
 ## Waterproofing in apartments
 
-Waterproofing is important in any bathroom — but in an apartment, the stakes are higher. The principles are the same as in a house; what's different is that the impact of problems is broader.
+Waterproofing is important in any bathroom - but in an apartment, the stakes are higher. The principles are the same as in a house; what's different is that the impact of problems is broader.
 
 ### Why it matters more
 
@@ -75,7 +75,7 @@ In NSW, wet areas must be waterproofed by a licensed waterproofer. The process i
 3. Membrane allowed to cure fully (1–3 days depending on product)
 4. Tiling proceeds once waterproofing is confirmed
 
-What's different in apartments is that documentation matters more. Many strata committees require waterproofing certificates before approving wet area work — and if problems occur later, having that documentation protects everyone.
+What's different in apartments is that documentation matters more. Many strata committees require waterproofing certificates before approving wet area work - and if problems occur later, having that documentation protects everyone.
 
 ### Pre-existing waterproofing
 
@@ -85,7 +85,7 @@ If you're retiling an existing apartment bathroom, the current waterproofing may
 - Is there documentation of the original waterproofing?
 - Are there signs of past water damage (stains, odours, soft spots)?
 
-If the membrane is compromised or undocumented, it usually makes sense to remove the existing tiles and re-waterproof properly — rather than tiling over an unknown situation.
+If the membrane is compromised or undocumented, it usually makes sense to remove the existing tiles and re-waterproof properly - rather than tiling over an unknown situation.
 
 ---
 
@@ -104,13 +104,13 @@ Before work starts, it helps to have a clear understanding of:
 
 ### Trade coordination
 
-In apartments, sequencing with other trades matters more. Plumbers, electricians, waterproofers, and tilers often need to work in a specific order — and delays in one trade can affect the others.
+In apartments, sequencing with other trades matters more. Plumbers, electricians, waterproofers, and tilers often need to work in a specific order - and delays in one trade can affect the others.
 
-If you're managing the renovation yourself, this coordination falls on you. If you're working with a builder or project manager, they handle it — but it's still worth understanding the sequence.
+If you're managing the renovation yourself, this coordination falls on you. If you're working with a builder or project manager, they handle it - but it's still worth understanding the sequence.
 
 ### Insurance and liability
 
-Most strata buildings require contractors to have public liability insurance. If you're hiring a tiler directly, it's worth confirming they have appropriate cover — especially for wet area work.
+Most strata buildings require contractors to have public liability insurance. If you're hiring a tiler directly, it's worth confirming they have appropriate cover - especially for wet area work.
 
 ---
 
@@ -130,7 +130,7 @@ Timeline: 4–7 days depending on demolition, prep, and curing times.
 
 ### Laundry tiling
 
-Laundries are also wet areas in NSW and require waterproofing. The scope is usually smaller than a bathroom, but the same principles apply — substrate, membrane, curing, then tiling.
+Laundries are also wet areas in NSW and require waterproofing. The scope is usually smaller than a bathroom, but the same principles apply - substrate, membrane, curing, then tiling.
 
 ### Balcony or terrace tiling
 
@@ -145,7 +145,7 @@ Balcony tiling can be more complex than indoor work because of weather exposure 
 
 ### Kitchen splashback
 
-A simpler job — usually no waterproofing required, shorter timeline. The main considerations are:
+A simpler job - usually no waterproofing required, shorter timeline. The main considerations are:
 
 - Access behind the stovetop and sink
 - Clean junctions with benchtops and cabinetry
@@ -157,13 +157,13 @@ Most apartment tiling jobs take 4–10 days depending on scope, access, and curi
 
 ## What to expect during an apartment tiling job
 
-1. **Access and setup** — Lift booking, floor protection in common areas if required, materials delivered
-2. **Demolition** — Existing tiles removed, debris disposed of (may require multiple trips to bins)
-3. **Substrate prep** — Inspection, repairs, levelling as needed
-4. **Waterproofing** — Applied by licensed waterproofer, then cured (allow 1–3 days)
-5. **Tiling** — Floors and walls tiled, layout planned to minimise waste and awkward cuts
-6. **Grouting and finishing** — Grout applied, silicone at junctions, final clean
-7. **Handover** — Walkthrough, care instructions, any required documentation provided
+1. **Access and setup** - Lift booking, floor protection in common areas if required, materials delivered
+2. **Demolition** - Existing tiles removed, debris disposed of (may require multiple trips to bins)
+3. **Substrate prep** - Inspection, repairs, levelling as needed
+4. **Waterproofing** - Applied by licensed waterproofer, then cured (allow 1–3 days)
+5. **Tiling** - Floors and walls tiled, layout planned to minimise waste and awkward cuts
+6. **Grouting and finishing** - Grout applied, silicone at junctions, final clean
+7. **Handover** - Walkthrough, care instructions, any required documentation provided
 
 Total time depends on the scope, building access, and how much prep is needed. A straightforward bathroom might take 5–7 days; a larger or more complex job takes longer.
 
@@ -190,7 +190,7 @@ These questions help avoid surprises once the job is underway.
 
 ## Ready to discuss your apartment project?
 
-If you're planning tiling work in an apartment, unit, or strata building in Ryde or nearby suburbs, I'm happy to talk through what's involved — including access, approvals, and coordination.
+If you're planning tiling work in an apartment, unit, or strata building in Ryde or nearby suburbs, I'm happy to talk through what's involved - including access, approvals, and coordination.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
   <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
@@ -200,6 +200,6 @@ If you're planning tiling work in an apartment, unit, or strata building in Ryde
 
 No pressure, no obligation. I typically respond within one business day.
 
-If your building has specific requirements or restrictions, let me know — I'll factor those into how we plan the job.
+If your building has specific requirements or restrictions, let me know - I'll factor those into how we plan the job.
 
 I won't start work until access, approvals, and scope are clear. That protects both of us.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Bathroom tiling cost in Ryde"
 subtitle: "What drives price, what changes scope, and how to compare quotes"
@@ -120,7 +120,7 @@ Costs can change due to:
 - noise windows (demo/cutting)
 - multiple waste runs
 
-This isn’t “extra for no reason” — it’s the real time it takes to do the job without causing building issues.
+This isn’t “extra for no reason” - it’s the real time it takes to do the job without causing building issues.
 
 Read: <a href="/apartment-tiling-ryde-strata/">Apartment tiling in Ryde (strata logistics)</a>.
 
@@ -167,9 +167,9 @@ If a quote can’t answer these clearly, the price alone doesn’t mean much.
 
 ## Next steps (Ryde-specific)
 
-- <a href="/areas/ryde/">Ryde areas hub — suburb guides</a>
-- <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW — planning guide</a>
-- <a href="/bathroom-tiling/">Bathroom tiling — what’s involved</a>
+- <a href="/areas/ryde/">Ryde areas hub - suburb guides</a>
+- <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW - planning guide</a>
+- <a href="/bathroom-tiling/">Bathroom tiling - what’s involved</a>
 - <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde</a>
 
 ---

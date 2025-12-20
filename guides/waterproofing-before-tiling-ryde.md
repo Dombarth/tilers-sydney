@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Waterproofing before tiling in Ryde"
 subtitle: "Sequence, cure time, documentation, and the shortcuts that cause failures"
@@ -101,7 +101,7 @@ Important practical point: waterproofing success is mostly about **detailing** (
 
 Cure time depends on product and site conditions. It’s often quoted as **24–72 hours** depending on the system.
 
-The problem in real renovations isn’t that people don’t know cure time exists—it’s that schedules try to compress it.
+The problem in real renovations isn’t that people don’t know cure time exists-it’s that schedules try to compress it.
 
 If cure time is compressed, you’re taking risk that won’t show until later.
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Contact"
 subtitle: "Get in touch"
@@ -44,13 +44,13 @@ Use this form to tell me about your project. I'll get back to you within one bus
   <button type="submit" class="btn btn-primary">Send request</button>
 </form>
 
-No pressure, no obligation. If you're not sure what to include, just share what you know — we can figure out the rest together.
+No pressure, no obligation. If you're not sure what to include, just share what you know - we can figure out the rest together.
 
 ---
 
 <h2 id="question">Ask a tiling question</h2>
 
-If you have a question about tiling — whether it's about your project, materials, timing, or anything else — feel free to ask. You don't need to be ready to book anything.
+If you have a question about tiling - whether it's about your project, materials, timing, or anything else - feel free to ask. You don't need to be ready to book anything.
 
 <form class="contact-form" action="#" method="POST">
   <div class="form-group">
@@ -71,7 +71,7 @@ If you have a question about tiling — whether it's about your project, materia
   <button type="submit" class="btn btn-secondary">Send question</button>
 </form>
 
-I'll respond within one business day. Questions are welcome — no commitment required.
+I'll respond within one business day. Questions are welcome - no commitment required.
 
 ---
 
