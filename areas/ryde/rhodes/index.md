@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Rhodes"
 subtitle: "Bathroom, kitchen and apartment tiling in Rhodes - planned properly and coordinated"

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in North Strathfield"
 subtitle: "Bathroom, kitchen and apartment tiling in North Strathfield - planned properly and coordinated"

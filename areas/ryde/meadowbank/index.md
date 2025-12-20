@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Meadowbank"
 subtitle: "Bathroom, kitchen and apartment tiling in Meadowbank - prep-first, planned properly"

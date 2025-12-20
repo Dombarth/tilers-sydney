@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Macquarie Park"
 subtitle: "Bathroom, kitchen and apartment tiling in Macquarie Park - prep-first, planned properly"

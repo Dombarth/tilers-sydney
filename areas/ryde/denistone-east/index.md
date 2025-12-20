@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Denistone East"
 subtitle: "Bathroom, kitchen and apartment tiling in Denistone East - prep-first, planned properly"

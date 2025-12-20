@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Ryde NSW"
 seo_title: "Tiling in Ryde NSW (planning guide)"

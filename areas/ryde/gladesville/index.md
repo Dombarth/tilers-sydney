@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Gladesville"
 subtitle: "Bathroom, kitchen and apartment tiling in Gladesville - prep-first, planned properly"

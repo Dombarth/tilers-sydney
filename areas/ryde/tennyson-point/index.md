@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Tennyson Point"
 subtitle: "Bathroom, kitchen and apartment tiling in Tennyson Point - prep-first, planned properly"

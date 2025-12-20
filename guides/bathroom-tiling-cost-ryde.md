@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Bathroom tiling cost in Ryde"
 subtitle: "What drives price, what changes scope, and how to compare quotes"

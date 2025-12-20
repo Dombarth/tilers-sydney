@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in North Ryde"
 subtitle: "Bathroom, kitchen and apartment tiling in North Ryde - prep-first, planned properly"

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Lidcombe"
 subtitle: "Bathroom, kitchen and apartment tiling in Lidcombe - planned properly and coordinated"

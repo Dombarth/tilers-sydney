@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Eastwood"
 subtitle: "Bathroom, kitchen and apartment tiling in Eastwood - prep-first, planned properly"

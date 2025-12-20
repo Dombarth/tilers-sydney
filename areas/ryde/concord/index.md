@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Concord"
 subtitle: "Bathroom, kitchen and apartment tiling in Concord - planned properly and coordinated"

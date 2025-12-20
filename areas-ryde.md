@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Ryde area tiling"
 seo_title: "Tiler in Ryde NSW (suburb guides & planning)"

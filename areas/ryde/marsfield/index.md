@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Marsfield"
 subtitle: "Bathroom, kitchen and apartment tiling in Marsfield - prep-first, planned properly"

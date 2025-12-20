@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Putney"
 subtitle: "Bathroom, kitchen and apartment tiling in Putney - prep-first, planned properly"

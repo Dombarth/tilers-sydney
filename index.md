@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 title: "Harbour Tiling"
 description: "Detail-led tiling for bathrooms, kitchens and apartments in Ryde NSW and nearby suburbs. Preparation-first approach, clear process, calm service."

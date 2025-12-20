@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Pool tiling"
 seo_title: "Pool tiling in Ryde NSW (waterline tiles & surrounds)"

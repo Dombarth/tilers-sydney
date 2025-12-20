@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in East Ryde"
 subtitle: "Bathroom, kitchen and apartment tiling in East Ryde - prep-first, planned properly"

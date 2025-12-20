@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Huntleys Cove"
 subtitle: "Bathroom, kitchen and apartment tiling in Huntleys Cove - prep-first, planned properly"

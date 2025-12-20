@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Ermington"
 subtitle: "Bathroom, kitchen and apartment tiling in Ermington - prep-first, planned properly"

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Bathroom tiling"
 seo_title: "Bathroom tiler in Ryde NSW (waterproofing coordination & setout)"

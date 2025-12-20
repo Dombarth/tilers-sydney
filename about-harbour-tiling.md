@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "About Harbour Tiling"
 subtitle: "Who we are and how we work"

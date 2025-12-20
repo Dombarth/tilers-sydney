@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Silverwater"
 subtitle: "Bathroom, kitchen and apartment tiling in Silverwater - planned properly and coordinated"

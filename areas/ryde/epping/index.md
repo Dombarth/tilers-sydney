@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Epping"
 subtitle: "Bathroom, kitchen and apartment tiling in Epping - planned properly and coordinated"

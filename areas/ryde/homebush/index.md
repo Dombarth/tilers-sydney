@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Homebush"
 subtitle: "Bathroom, kitchen and apartment tiling in Homebush - planned properly and coordinated"

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "How We Work"
 subtitle: "Our approach to tiling projects"

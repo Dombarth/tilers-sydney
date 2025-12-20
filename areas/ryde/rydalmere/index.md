@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiling in Rydalmere"
 subtitle: "Bathroom, kitchen and apartment tiling in Rydalmere - planned properly and coordinated"
