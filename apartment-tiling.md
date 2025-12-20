@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Apartment tiling"
-seo_title: "Apartment tiler in Ryde NSW (strata access & wet areas)"
+title: "Apartment Tiling in Ryde NSW"
+seo_title: "Apartment Tiler in Ryde NSW (Strata Access & Wet Areas)"
 subtitle: "Apartment tiling in Ryde: access, approvals, and sequencing"
 description: "Apartment tiling in Ryde NSW: access logistics, strata constraints, waterproofing coordination for wet areas, and planning that prevents delays."
 permalink: /apartment-tiling-ryde/

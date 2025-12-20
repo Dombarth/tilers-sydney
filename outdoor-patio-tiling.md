@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Outdoor patio tiling"
-seo_title: "Outdoor patio tiling in Ryde NSW (alfresco & courtyards)"
+title: "Outdoor Patio Tiling in Ryde NSW"
+seo_title: "Outdoor Patio Tiler in Ryde NSW (Alfresco & Courtyards)"
 subtitle: "Outdoor patio and alfresco tiling in Ryde and nearby suburbs"
 description: "Outdoor patio tiling in Ryde NSW: slip resistance, drainage, movement joints, and tile selection for Sydney outdoor conditions (patios, courtyards and alfresco areas)."
 permalink: /outdoor-patio-tiling-ryde/

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Bathroom tiling"
-seo_title: "Bathroom tiler in Ryde NSW (waterproofing coordination & setout)"
+title: "Bathroom Tiling in Ryde NSW"
+seo_title: "Bathroom Tiler in Ryde NSW (Waterproofing Coordination & Setout)"
 subtitle: "Bathroom tiling in Ryde: scope, sequencing, and what makes it last"
 description: "Bathroom tiling in Ryde NSW: preparation, waterproofing coordination, layout planning, and the decisions that affect longevity in real bathrooms."
 permalink: /bathroom-tiling-ryde/
