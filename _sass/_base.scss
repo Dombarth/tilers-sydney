@@ -191,3 +191,134 @@ hr {
   white-space: nowrap;
   border: 0;
 }
+
+// --------------------------------------------------------------------------
+// RESPONSIVE TABLES
+// --------------------------------------------------------------------------
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: $space-6;
+  font-size: $font-size-base;
+}
+
+th, td {
+  padding: $space-3 $space-4;
+  text-align: left;
+  border-bottom: 1px solid $color-border;
+  vertical-align: top;
+}
+
+th {
+  background: $color-grey-50;
+  font-weight: $font-weight-semibold;
+  color: $color-navy;
+}
+
+// Mobile responsive tables - card-style stacking
+@media screen and (max-width: 767px) {
+  // Make tables scrollable when they can't stack nicely
+  .table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  table {
+    font-size: 0.875rem;
+    
+    // Stack tables with 2-3 columns on mobile
+    &, thead, tbody, th, td, tr {
+      display: block;
+    }
+    
+    thead {
+      display: none;
+    }
+    
+    tr {
+      margin-bottom: 1rem;
+      padding: 0.75rem;
+      border: 1px solid $color-border;
+      border-radius: 8px;
+      background: $color-white;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    
+    td {
+      border: none;
+      padding: 0.5rem 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      
+      &:not(:last-child) {
+        border-bottom: 1px solid $color-grey-100;
+        padding-bottom: 0.75rem;
+        margin-bottom: 0.5rem;
+      }
+      
+      // First cell becomes the card title
+      &:first-child {
+        font-weight: $font-weight-semibold;
+        color: $color-navy;
+        font-size: 1rem;
+        display: block;
+        padding-bottom: 0.75rem;
+        border-bottom: 2px solid $color-blue;
+        margin-bottom: 0.5rem;
+      }
+    }
+  }
+}
+
+// Alternative: Simple two-column layout for pricing tables
+.price-table {
+  @media screen and (max-width: 767px) {
+    display: block;
+    
+    thead {
+      display: none;
+    }
+    
+    tbody {
+      display: block;
+    }
+    
+    tr {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 1rem;
+      margin-bottom: 0.75rem;
+      background: $color-grey-50;
+      border-radius: 8px;
+      border-left: 4px solid $color-blue;
+    }
+    
+    td {
+      border: none;
+      padding: 0.25rem 0;
+      
+      &:first-child {
+        width: 100%;
+        font-weight: $font-weight-semibold;
+        color: $color-navy;
+        margin-bottom: 0.25rem;
+      }
+      
+      &:not(:first-child) {
+        width: 50%;
+        font-size: 0.875rem;
+        color: $color-text;
+        
+        &::before {
+          display: block;
+          font-size: 0.75rem;
+          color: $color-text-muted;
+          text-transform: uppercase;
+          letter-spacing: 0.5px;
+        }
+      }
+    }
+  }
+}
