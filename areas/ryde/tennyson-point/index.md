@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Tennyson Point | Bathroom & Floor Tiling Tennyson Point NSW"
+title: "Tiler Tennyson Point | Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Tennyson Point - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Tennyson Point NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/tennyson-point/

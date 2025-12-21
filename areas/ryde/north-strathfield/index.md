@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler North Strathfield | Bathroom & Floor Tiling North Strathfield NSW"
+title: "Tiler North Strathfield | Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in North Strathfield - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in North Strathfield NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/north-strathfield/

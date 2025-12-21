@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Eastwood | Bathroom & Floor Tiling Eastwood NSW"
+title: "Tiler Eastwood | Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Eastwood - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Eastwood NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/eastwood/

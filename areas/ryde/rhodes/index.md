@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Rhodes | Bathroom & Floor Tiling Rhodes NSW"
+title: "Tiler Rhodes | Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Rhodes - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Rhodes NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/rhodes/

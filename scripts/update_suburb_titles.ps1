@@ -42,8 +42,8 @@ foreach ($dir in $suburbDirs) {
             default { $suburbSlug -replace '-', ' ' -replace '\b(\w)', { $_.Groups[1].Value.ToUpper() } }
         }
         
-        # New title format: "Tiler [Suburb] | Bathroom & Floor Tiling NSW"
-        $newTitle = "Tiler $suburbName | Bathroom & Floor Tiling $suburbName NSW"
+        # New title format: "Tiler [Suburb] | Bathroom & Floor Tiling NSW" (suburb only once)
+        $newTitle = "Tiler $suburbName | Bathroom & Floor Tiling NSW"
         
         # New subtitle format: "Professional tiling services in [Suburb] - bathrooms, kitchens, waterproofing"
         $newSubtitle = "Professional tiling services in $suburbName - bathrooms, kitchens, waterproofing"
@@ -51,7 +51,8 @@ foreach ($dir in $suburbDirs) {
         # New description format
         $newDescription = "Expert tiler in $suburbName NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
         
-        # Replace title
+        # Replace title (matches both old and new formats)
+        $content = $content -replace 'title: "Tiler [^"]+"', "title: `"$newTitle`""
         $content = $content -replace 'title: "Tiling in [^"]+"', "title: `"$newTitle`""
         
         # Replace subtitle

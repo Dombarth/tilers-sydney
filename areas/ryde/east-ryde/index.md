@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler East Ryde | Bathroom & Floor Tiling East Ryde NSW"
+title: "Tiler East Ryde | Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in East Ryde - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in East Ryde NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/east-ryde/

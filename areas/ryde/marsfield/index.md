@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Marsfield | Bathroom & Floor Tiling Marsfield NSW"
+title: "Tiler Marsfield | Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Marsfield - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Marsfield NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/marsfield/

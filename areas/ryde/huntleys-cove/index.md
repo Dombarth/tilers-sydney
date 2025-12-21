@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Huntleys Cove | Bathroom & Floor Tiling Huntleys Cove NSW"
+title: "Tiler Huntleys Cove | Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Huntleys Cove - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Huntleys Cove NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/huntleys-cove/

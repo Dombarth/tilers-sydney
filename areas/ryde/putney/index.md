@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Putney | Bathroom & Floor Tiling Putney NSW"
+title: "Tiler Putney | Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Putney - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Putney NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/putney/

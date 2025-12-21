@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Epping | Bathroom & Floor Tiling Epping NSW"
+title: "Tiler Epping | Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Epping - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Epping NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/epping/
