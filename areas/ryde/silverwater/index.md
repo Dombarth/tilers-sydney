@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Silverwater | Bathroom & Floor Tiling NSW"
+title: "Tiler Silverwater: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Silverwater - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Silverwater NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/silverwater/

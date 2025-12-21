@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Homebush | Bathroom & Floor Tiling NSW"
+title: "Tiler Homebush: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Homebush - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Homebush NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/homebush/

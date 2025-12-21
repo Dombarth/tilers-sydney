@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Tiling Services Ryde NSW | Local Tiler Sydney"
-seo_title: "Tiler Ryde NSW | Professional Tiling Services Sydney"
+title: "Tiling Services Ryde NSW: Local Tiler Sydney"
+seo_title: "Tiler Ryde NSW: Professional Tiling Services Sydney"
 subtitle: "Wall & floor tiling, bathroom renovations, waterproofing"
 description: "Professional tiling services in Ryde NSW and Sydney. Bathroom tiling, kitchen tiling, floor tiling, waterproofing. Licensed tiler with local expertise."
 permalink: /tiling-in-ryde-nsw/

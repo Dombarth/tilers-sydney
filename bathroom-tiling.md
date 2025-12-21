@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Bathroom Tiler Sydney | Expert Bathroom Tiling Ryde NSW"
-seo_title: "Bathroom Tiler Sydney | Expert Bathroom Tiling Services Ryde"
+title: "Bathroom Tiler Sydney: Expert Bathroom Tiling Ryde NSW"
+seo_title: "Bathroom Tiler Sydney: Expert Bathroom Tiling Services Ryde"
 subtitle: "Professional bathroom tiling with waterproofing — Ryde and Sydney"
 description: "Expert bathroom tiling services in Sydney and Ryde NSW. Wall tiling, floor tiling, shower tiling, waterproofing. Licensed tiler with quality craftsmanship."
 permalink: /bathroom-tiling-ryde/

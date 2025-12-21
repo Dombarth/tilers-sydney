@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Macquarie Park | Bathroom & Floor Tiling NSW"
+title: "Tiler Macquarie Park: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Macquarie Park - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Macquarie Park NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/macquarie-park/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Meadowbank | Bathroom & Floor Tiling NSW"
+title: "Tiler Meadowbank: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Meadowbank - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Meadowbank NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/meadowbank/

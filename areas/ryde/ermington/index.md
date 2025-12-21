@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Ermington | Bathroom & Floor Tiling NSW"
+title: "Tiler Ermington: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Ermington - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Ermington NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/ermington/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler West Ryde | Bathroom & Floor Tiling NSW"
+title: "Tiler West Ryde: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in West Ryde - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in West Ryde NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/west-ryde/

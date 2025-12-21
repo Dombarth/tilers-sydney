@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Denistone | Bathroom & Floor Tiling NSW"
+title: "Tiler Denistone: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Denistone - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Denistone NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/denistone/

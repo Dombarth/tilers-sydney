@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Concord | Bathroom & Floor Tiling NSW"
+title: "Tiler Concord: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Concord - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Concord NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/concord/

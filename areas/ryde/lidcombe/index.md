@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tiler Lidcombe | Bathroom & Floor Tiling NSW"
+title: "Tiler Lidcombe: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Lidcombe - bathrooms, kitchens, waterproofing"
 description: "Expert tiler in Lidcombe NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/lidcombe/
