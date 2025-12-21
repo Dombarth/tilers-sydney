@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler Rhodes | Bathroom & Floor Tiling Rhodes NSW"
 subtitle: "Professional tiling services in Rhodes - bathrooms, kitchens, waterproofing"

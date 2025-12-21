@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler Lidcombe | Bathroom & Floor Tiling Lidcombe NSW"
 subtitle: "Professional tiling services in Lidcombe - bathrooms, kitchens, waterproofing"

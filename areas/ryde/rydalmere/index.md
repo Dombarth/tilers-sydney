@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler Rydalmere | Bathroom & Floor Tiling Rydalmere NSW"
 subtitle: "Professional tiling services in Rydalmere - bathrooms, kitchens, waterproofing"
