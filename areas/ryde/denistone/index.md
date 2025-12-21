@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Denistone"
-subtitle: "Bathroom, kitchen and apartment tiling in Denistone - prep-first, planned properly"
-description: "Harbour Tiling services Denistone from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler Denistone | Bathroom & Floor Tiling Denistone NSW"
+subtitle: "Professional tiling services in Denistone - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Denistone NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/denistone/
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Silverwater"
-subtitle: "Bathroom, kitchen and apartment tiling in Silverwater - planned properly and coordinated"
-description: "Harbour Tiling services Silverwater from a West Ryde base. Practical tiling planning: access logistics, waterproofing sequencing, substrate checks, and layout planning."
+title: "Tiler Silverwater | Bathroom & Floor Tiling Silverwater NSW"
+subtitle: "Professional tiling services in Silverwater - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Silverwater NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/silverwater/
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Lidcombe"
-subtitle: "Bathroom, kitchen and apartment tiling in Lidcombe - planned properly and coordinated"
-description: "Harbour Tiling services Lidcombe from a West Ryde base. Practical tiling planning: access logistics, waterproofing sequencing, substrate checks, and layout planning."
+title: "Tiler Lidcombe | Bathroom & Floor Tiling Lidcombe NSW"
+subtitle: "Professional tiling services in Lidcombe - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Lidcombe NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/lidcombe/
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Tennyson Point"
-subtitle: "Bathroom, kitchen and apartment tiling in Tennyson Point - prep-first, planned properly"
-description: "Harbour Tiling services Tennyson Point from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler Tennyson Point | Bathroom & Floor Tiling Tennyson Point NSW"
+subtitle: "Professional tiling services in Tennyson Point - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Tennyson Point NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/tennyson-point/
 ---
 

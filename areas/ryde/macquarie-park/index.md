@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Macquarie Park"
-subtitle: "Bathroom, kitchen and apartment tiling in Macquarie Park - prep-first, planned properly"
-description: "Harbour Tiling services Macquarie Park from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler Macquarie Park | Bathroom & Floor Tiling Macquarie Park NSW"
+subtitle: "Professional tiling services in Macquarie Park - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Macquarie Park NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/macquarie-park/
 ---
 

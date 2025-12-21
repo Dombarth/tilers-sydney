@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in North Ryde"
-subtitle: "Bathroom, kitchen and apartment tiling in North Ryde - prep-first, planned properly"
-description: "Harbour Tiling services North Ryde from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler North Ryde | Bathroom & Floor Tiling North Ryde NSW"
+subtitle: "Professional tiling services in North Ryde - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in North Ryde NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/north-ryde/
 ---
 

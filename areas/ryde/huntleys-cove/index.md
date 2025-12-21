@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Huntleys Cove"
-subtitle: "Bathroom, kitchen and apartment tiling in Huntleys Cove - prep-first, planned properly"
-description: "Harbour Tiling services Huntleys Cove from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler Huntleys Cove | Bathroom & Floor Tiling Huntleys Cove NSW"
+subtitle: "Professional tiling services in Huntleys Cove - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Huntleys Cove NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/huntleys-cove/
 ---
 

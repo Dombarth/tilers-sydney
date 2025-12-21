@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Concord"
-subtitle: "Bathroom, kitchen and apartment tiling in Concord - planned properly and coordinated"
-description: "Harbour Tiling services Concord from a West Ryde base. Practical tiling planning: access logistics, waterproofing sequencing, substrate checks, and layout planning."
+title: "Tiler Concord | Bathroom & Floor Tiling Concord NSW"
+subtitle: "Professional tiling services in Concord - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Concord NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/concord/
 ---
 

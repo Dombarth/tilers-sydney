@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in North Strathfield"
-subtitle: "Bathroom, kitchen and apartment tiling in North Strathfield - planned properly and coordinated"
-description: "Harbour Tiling services North Strathfield from a West Ryde base. Practical tiling planning: access logistics, waterproofing sequencing, substrate checks, and layout planning."
+title: "Tiler North Strathfield | Bathroom & Floor Tiling North Strathfield NSW"
+subtitle: "Professional tiling services in North Strathfield - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in North Strathfield NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/north-strathfield/
 ---
 

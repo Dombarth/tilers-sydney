@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Putney"
-subtitle: "Bathroom, kitchen and apartment tiling in Putney - prep-first, planned properly"
-description: "Harbour Tiling services Putney from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler Putney | Bathroom & Floor Tiling Putney NSW"
+subtitle: "Professional tiling services in Putney - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Putney NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/putney/
 ---
 

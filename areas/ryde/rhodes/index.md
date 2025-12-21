@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Rhodes"
-subtitle: "Bathroom, kitchen and apartment tiling in Rhodes - planned properly and coordinated"
-description: "Harbour Tiling services Rhodes from a West Ryde base. Practical tiling planning: access logistics, waterproofing sequencing, substrate checks, and layout planning."
+title: "Tiler Rhodes | Bathroom & Floor Tiling Rhodes NSW"
+subtitle: "Professional tiling services in Rhodes - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Rhodes NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/rhodes/
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in East Ryde"
-subtitle: "Bathroom, kitchen and apartment tiling in East Ryde - prep-first, planned properly"
-description: "Harbour Tiling services East Ryde from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler East Ryde | Bathroom & Floor Tiling East Ryde NSW"
+subtitle: "Professional tiling services in East Ryde - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in East Ryde NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/east-ryde/
 ---
 

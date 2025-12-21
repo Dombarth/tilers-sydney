@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Gladesville"
-subtitle: "Bathroom, kitchen and apartment tiling in Gladesville - prep-first, planned properly"
-description: "Harbour Tiling services Gladesville from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler Gladesville | Bathroom & Floor Tiling Gladesville NSW"
+subtitle: "Professional tiling services in Gladesville - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Gladesville NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/gladesville/
 ---
 

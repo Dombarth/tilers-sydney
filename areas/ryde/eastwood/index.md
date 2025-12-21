@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Eastwood"
-subtitle: "Bathroom, kitchen and apartment tiling in Eastwood - prep-first, planned properly"
-description: "Harbour Tiling services Eastwood from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler Eastwood | Bathroom & Floor Tiling Eastwood NSW"
+subtitle: "Professional tiling services in Eastwood - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Eastwood NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/eastwood/
 ---
 

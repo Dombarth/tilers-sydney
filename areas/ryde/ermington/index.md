@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Ermington"
-subtitle: "Bathroom, kitchen and apartment tiling in Ermington - prep-first, planned properly"
-description: "Harbour Tiling services Ermington from a West Ryde base. What to consider before getting quotes: building type, waterproofing, access logistics, and layout planning."
+title: "Tiler Ermington | Bathroom & Floor Tiling Ermington NSW"
+subtitle: "Professional tiling services in Ermington - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Ermington NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/ermington/
 ---
 

@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Rydalmere"
-subtitle: "Bathroom, kitchen and apartment tiling in Rydalmere - planned properly and coordinated"
-description: "Harbour Tiling services Rydalmere from a West Ryde base. Practical tiling planning: access logistics, waterproofing sequencing, substrate checks, and layout planning."
+title: "Tiler Rydalmere | Bathroom & Floor Tiling Rydalmere NSW"
+subtitle: "Professional tiling services in Rydalmere - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Rydalmere NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/rydalmere/
 ---
 

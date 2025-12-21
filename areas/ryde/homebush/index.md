@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
-title: "Tiling in Homebush"
-subtitle: "Bathroom, kitchen and apartment tiling in Homebush - planned properly and coordinated"
-description: "Harbour Tiling services Homebush from a West Ryde base. Practical tiling planning: access logistics, waterproofing sequencing, substrate checks, and layout planning."
+title: "Tiler Homebush | Bathroom & Floor Tiling Homebush NSW"
+subtitle: "Professional tiling services in Homebush - bathrooms, kitchens, waterproofing"
+description: "Expert tiler in Homebush NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/homebush/
 ---
 
