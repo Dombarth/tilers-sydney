@@ -1,6 +1,13 @@
 # Netlify configuration for Harbour Tiling
 # Includes redirects so old service URLs keep working after slug updates.
 
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  JEKYLL_ENV = "production"
+
 [[redirects]]
   from = "/bathroom-tiling"
   to = "/bathroom-tiling-ryde/"
