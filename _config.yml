@@ -25,6 +25,10 @@ exclude:
   - CLINE_INSTRUCTIONS.md
   - node_modules
   - vendor
+  - scripts
+  - "*.ps1"
+  - seo_audit.csv
+  - "*.jpg"
 
 # Collections (future use)
 # collections:
