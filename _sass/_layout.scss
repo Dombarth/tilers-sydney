@@ -562,6 +562,25 @@
   color: rgba($color-white, 0.5);
 }
 
+.footer-legal {
+  margin-top: $space-3;
+  font-size: $font-size-sm;
+
+  a {
+    color: rgba($color-white, 0.5);
+    transition: color $transition-fast;
+
+    &:hover {
+      color: $color-white;
+    }
+  }
+
+  .separator {
+    margin: 0 $space-2;
+    color: rgba($color-white, 0.3);
+  }
+}
+
 // --------------------------------------------------------------------------
 // PAGE LAYOUT
 // --------------------------------------------------------------------------
