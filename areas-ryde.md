@@ -47,8 +47,8 @@ If you’re still in the planning stage, start here:
 
 ## Services (so you can jump to the right scope)
 
-- <a href="/bathroom-tiling/">Bathroom tiling</a>
-- <a href="/kitchen-tiling/">Kitchen tiling</a>
-- <a href="/apartment-tiling/">Apartment tiling</a>
+- <a href="/bathroom-tiling-ryde/">Bathroom tiling</a>
+- <a href="/kitchen-tiling-ryde/">Kitchen tiling</a>
+- <a href="/apartment-tiling-ryde/">Apartment tiling</a>
 - <a href="/pool-tiling-ryde/">Pool tiling</a>
 - <a href="/outdoor-patio-tiling-ryde/">Outdoor patio tiling</a>

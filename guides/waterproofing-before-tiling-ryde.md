@@ -178,7 +178,7 @@ If strata logistics apply, read: <a href="/apartment-tiling-ryde-strata/">Apartm
 
 ## Related pages (to keep planning simple)
 
-- <a href="/bathroom-tiling/">Bathroom tiling (what’s involved)</a>
+- <a href="/bathroom-tiling-ryde/">Bathroom tiling (what's involved)</a>
 - <a href="/bathroom-tiling-cost-ryde/">Bathroom tiling cost in Ryde (what drives price)</a>
 - <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
 - <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW (planning guide)</a>

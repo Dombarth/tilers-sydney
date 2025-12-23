@@ -176,7 +176,7 @@ Cure time is where people try to “save a day”. In wet areas, that day is not
 
 ## Related Ryde pages
 
-- <a href="/apartment-tiling/">Apartment tiling (overview)</a>
+- <a href="/apartment-tiling-ryde/">Apartment tiling (overview)</a>
 - <a href="/bathroom-tiling-cost-ryde/">Bathroom tiling cost in Ryde (what drives price)</a>
 - <a href="/waterproofing-before-tiling-ryde/">Waterproofing before tiling in Ryde</a>
 - <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
