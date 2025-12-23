@@ -17,6 +17,11 @@ sass:
   sass_dir: _sass
   style: compressed
 
+# Include in build (explicit for subdirectories with pages)
+include:
+  - guides
+  - areas
+
 # Exclude from build
 exclude:
   - Gemfile
