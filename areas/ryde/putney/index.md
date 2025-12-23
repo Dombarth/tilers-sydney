@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Tiler Putney: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Putney - bathrooms, kitchens, waterproofing"
@@ -12,7 +12,7 @@ This page is here to help you make better decisions before you start - especiall
 
 ## Quick actions
 
-- **Call:** <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>
+- **Call Nicolai:** <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>
 - **Ask a question:** <a href="/contact/#question">Ask a tiling question</a>
 
 ---

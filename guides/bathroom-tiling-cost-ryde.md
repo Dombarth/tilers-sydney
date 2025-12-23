@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Bathroom Tiling Cost in Ryde"
 subtitle: "What drives price, typical ranges, and how to compare quotes"
@@ -271,7 +271,7 @@ If you tell me:
 ...I can provide a realistic assessment of what will affect your quote.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
   <a href="/contact/" class="btn btn-secondary">Request a Bathroom Tiling Quote</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a Ryde tiling question</a>
 </div>

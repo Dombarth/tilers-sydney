@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Outdoor Tiler Sydney: Patio & Alfresco Tiling Ryde NSW"
 seo_title: "Outdoor Tiler Sydney: Expert Patio Tiling Services Ryde"
@@ -32,7 +32,7 @@ Outdoor patio tiling lasts when three things are handled correctly:
 
 In Ryde and nearby suburbs, most failures come from **water sitting where it shouldn’t** or **movement not being detailed**.
 
-If you want a practical assessment, call <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>.
+If you want a practical assessment, call Nicolai on <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>.
 
 ---
 
@@ -148,7 +148,7 @@ If you tell me:
 …I can usually explain what will drive scope before you commit.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
   <a href="/contact/" class="btn btn-secondary">Request a Project Assessment</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a tiling question</a>
 </div>

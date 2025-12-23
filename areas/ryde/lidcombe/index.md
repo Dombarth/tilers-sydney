@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Tiler Lidcombe: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Lidcombe - bathrooms, kitchens, waterproofing"
@@ -12,7 +12,7 @@ This page is designed to answer the practical questions that matter before you g
 
 ## Quick actions
 
-- **Call:** <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>
+- **Call Nicolai:** <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>
 - **Ryde areas hub:** <a href="/areas/ryde/">All suburb guides</a>
 
 ---

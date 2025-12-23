@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Kitchen Tiler Sydney: Splashback & Floor Tiling Ryde NSW"
 seo_title: "Kitchen Tiler Sydney: Expert Kitchen Tiling Services Ryde"
@@ -173,7 +173,7 @@ Harbour Tiling provides professional kitchen tiling services throughout Ryde NSW
 If you're planning a splashback, floor, or feature wall in Ryde or nearby suburbs, I'm happy to talk through what's involved - including layout, timing, and coordination with other trades.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
   <a href="/contact/" class="btn btn-secondary">Request a Project Assessment</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a Tiling Question</a>
 </div>

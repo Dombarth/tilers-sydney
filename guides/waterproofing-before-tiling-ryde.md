@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Waterproofing before tiling in Ryde"
 subtitle: "Sequence, cure time, documentation, and the shortcuts that cause failures"
@@ -25,7 +25,7 @@ If you’re tiling a bathroom/laundry in Ryde, the job goes well when the sequen
 
 Most failures come from **skipping prep**, **rushing cure time**, or **treating waterproofing as “just paint it on”**.
 
-If you want a quick sanity check on your situation, call <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>.
+If you want a quick sanity check on your situation, call Nicolai on <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>.
 
 ---
 
@@ -196,7 +196,7 @@ If you describe:
 …I can tell you what usually drives scope *before* you commit.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
   <a href="/contact/" class="btn btn-secondary">Request a Project Assessment</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a Ryde tiling question</a>
 </div>

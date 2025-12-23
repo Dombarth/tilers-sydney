@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Pool Tiling Cost in Ryde"
 subtitle: "What drives waterline and pool surround tiling prices in Ryde"
@@ -26,7 +26,7 @@ Pool tiling cost in Ryde depends on:
 
 Pool tiling is more demanding than indoor work due to chemical exposure, weather, and movement requirements.
 
-If you want a realistic assessment, call <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a> and describe your pool type and what needs tiling.
+If you want a realistic assessment, call Nicolai on <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a> and describe your pool type and what needs tiling.
 
 ---
 
@@ -211,7 +211,7 @@ If you tell me:
 ...I can explain what will drive scope and cost before you commit.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
   <a href="/contact/" class="btn btn-secondary">Request a Pool Tiling Quote</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a Ryde tiling question</a>
 </div>

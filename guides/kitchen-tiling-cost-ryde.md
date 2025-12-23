@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Kitchen Tiling Cost in Ryde"
 subtitle: "What drives splashback and floor tiling prices in Ryde kitchens"
@@ -25,7 +25,7 @@ Kitchen tiling cost in Ryde varies based on:
 
 A simple splashback is one of the more straightforward tiling jobs. Floor tiling and complex layouts cost more.
 
-If you want a realistic assessment, call <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a> and describe your kitchen layout and tile choice.
+If you want a realistic assessment, call Nicolai on <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a> and describe your kitchen layout and tile choice.
 
 ---
 
@@ -204,7 +204,7 @@ If you tell me:
 ...I can explain what will drive scope and cost before you commit.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
   <a href="/contact/" class="btn btn-secondary">Request a Kitchen Tiling Quote</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a Ryde tiling question</a>
 </div>

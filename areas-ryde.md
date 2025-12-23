@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Ryde area tiling"
 seo_title: "Tiler in Ryde NSW (suburb guides & planning)"
@@ -13,7 +13,7 @@ This page exists to help you find **the most relevant local information** for yo
 
 ## Quick actions
 
-- **Call:** <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>
+- **Call Nicolai:** <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>
 - **Ask a question:** <a href="/contact/#question">Ask a tiling question</a>
 
 ---

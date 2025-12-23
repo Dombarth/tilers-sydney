@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Outdoor Patio Tiling Cost in Ryde"
 subtitle: "What drives alfresco and courtyard tiling prices in Ryde"
@@ -26,7 +26,7 @@ Outdoor patio tiling cost in Ryde depends on:
 
 Outdoor tiling requires more planning than indoor work. The prep and detailing are what make it last.
 
-If you want a realistic assessment, call <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a> and describe your patio size and current condition.
+If you want a realistic assessment, call Nicolai on <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a> and describe your patio size and current condition.
 
 ---
 
@@ -212,7 +212,7 @@ If you tell me:
 ...I can explain what will drive scope and cost before you commit.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
   <a href="/contact/" class="btn btn-secondary">Request a Patio Tiling Quote</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a Ryde tiling question</a>
 </div>

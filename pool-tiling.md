@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Pool Tiler Sydney: Waterline & Pool Surround Tiling Ryde"
 seo_title: "Pool Tiler Sydney: Expert Pool Tiling Services Ryde NSW"
@@ -33,7 +33,7 @@ In Ryde-area projects, the main things to get right are:
 - **Movement joints** and edge detailing (so expansion/contraction doesn’t crack tiles)
 - **Drainage and falls** around the pool (so water doesn’t sit and undermine the install)
 
-If you want a practical assessment, call <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>.
+If you want a practical assessment, call Nicolai on <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>.
 
 ---
 
@@ -162,7 +162,7 @@ If you tell me:
 …I can tell you what usually drives scope before you commit.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
   <a href="/contact/" class="btn btn-secondary">Request a Project Assessment</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a tiling question</a>
 </div>

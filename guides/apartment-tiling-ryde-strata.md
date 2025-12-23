@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Apartment tiling in Ryde (strata logistics)"
 subtitle: "Access, lift bookings, noise windows, and how to keep a job smooth"
@@ -24,7 +24,7 @@ Apartment tiling in Ryde goes smoothly when you plan four things early:
 
 Most apartment delays aren’t tiling problems - they’re **logistics problems**.
 
-If you want a quick sanity check on your building’s likely workflow, call <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>.
+If you want a quick sanity check on your building’s likely workflow, call Nicolai on <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>.
 
 ---
 
@@ -195,7 +195,7 @@ If you tell me:
 …I can tell you what will likely drive the schedule before you commit.
 
 <div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call {{ site.data.site.contact.phone_display }}</a>
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
   <a href="/contact/" class="btn btn-secondary">Request a Project Assessment</a>
   <a href="/contact/#question" class="btn btn-outline">Ask a Ryde tiling question</a>
 </div>
