@@ -10,7 +10,7 @@ permalink: /
 
 # 1. HERO SECTION
 hero:
-  title: "Expert Tiler Sydney — Bathroom, Kitchen & Floor Tiling"
+  title: "Tiler Sydney: Bathroom, Kitchen & Floor Tiling"
   lead: "Professional tiling services in Ryde NSW and Sydney. Wall tiling, floor tiling, waterproofing, and bathroom renovations. Licensed and insured."
   primary_cta: "Request a Project Assessment"
   primary_cta_url: "/contact/"
