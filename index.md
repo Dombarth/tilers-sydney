@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Professional Tiler Sydney: Bathroom & Kitchen Tiling Ryde"
+title: "Tiler Sydney: Trusted Bathroom & Kitchen Tiling Ryde"
 description: "Sydney's trusted tiler for bathroom tiling, kitchen tiling, wall & floor tiling and waterproofing in Ryde NSW and nearby suburbs. Licensed, insured, quality craftsmanship."
 permalink: /
 
