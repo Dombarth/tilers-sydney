@@ -2,7 +2,7 @@
 # Includes redirects so old service URLs keep working after slug updates.
 
 [build]
-  command = "echo '=== Files in root ===' && ls -la *.md && echo '=== Files in guides ===' && ls -la guides/ && echo '=== Files in areas ===' && ls -la areas/ryde/ && git fetch --unshallow 2>/dev/null || true && git checkout . && bundle install && bundle exec jekyll build --verbose"
+  command = "echo '=== File comparison ===' && echo 'WORKING FILE (about):' && head -c 100 about-harbour-tiling.md | od -c && echo 'NON-WORKING FILE (bathroom):' && head -c 100 bathroom-tiling.md | od -c && echo '=== Checking for BOM ===' && hexdump -C bathroom-tiling.md | head -5 && bundle install && bundle exec jekyll build --verbose"
   publish = "_site"
 
 [build.environment]
