@@ -1,15 +1,5 @@
 # Netlify configuration for Harbour Tiling
-# Includes build settings and redirects
-
-[build]
-  command = "bundle exec jekyll build"
-  publish = "_site"
-
-[build.environment]
-  JEKYLL_ENV = "production"
-  RUBY_VERSION = "3.2.0"
-
-# Redirects so old service URLs keep working after slug updates.
+# Includes redirects so old service URLs keep working after slug updates.
 
 [[redirects]]
   from = "/bathroom-tiling"

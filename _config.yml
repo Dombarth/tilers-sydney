@@ -26,9 +26,7 @@ exclude:
   - node_modules
   - vendor
   - scripts
-  - "*.ps1"
   - seo_audit.csv
-  - "*.jpg"
 
 # Collections (future use)
 # collections:
@@ -38,6 +36,7 @@ exclude:
 # Plugins (minimal for compatibility)
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Default front matter
 defaults:
