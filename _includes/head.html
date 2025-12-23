@@ -3,9 +3,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   {%- assign seo_title = page.seo_title | default: page.title -%}
-  {%- if page.url == '/' -%}
-    {%- assign seo_title = site.data.site.business.name -%}
-  {%- endif -%}
 
   <title>{% if seo_title %}{{ seo_title }}{% else %}{{ site.data.site.business.name }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
