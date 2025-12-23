@@ -294,6 +294,44 @@ textarea {
   color: $color-text-muted;
 }
 
+// Form status messages
+.form-status {
+  margin-top: $space-4;
+  padding: $space-4;
+  border-radius: $border-radius;
+  font-size: $font-size-sm;
+  display: none;
+
+  &.is-success {
+    display: block;
+    background: #e8f5e9;
+    border: 1px solid #4caf50;
+    color: #2e7d32;
+  }
+
+  &.is-error {
+    display: block;
+    background: #ffebee;
+    border: 1px solid #f44336;
+    color: #c62828;
+  }
+
+  &.is-loading {
+    display: block;
+    background: $color-blue-soft;
+    border: 1px solid $color-blue;
+    color: $color-blue;
+  }
+}
+
+// Hide form fields after successful submission
+.contact-form.is-submitted {
+  .form-group,
+  button[type="submit"] {
+    display: none;
+  }
+}
+
 // --------------------------------------------------------------------------
 // BADGE
 // --------------------------------------------------------------------------

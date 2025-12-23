@@ -193,5 +193,66 @@
         });
       }
     });
+
+    // -------------------------------------------------------------------------
+    // Web3Forms AJAX submission
+    // -------------------------------------------------------------------------
+    var contactForms = document.querySelectorAll('.contact-form');
+
+    contactForms.forEach(function (form) {
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+
+        var statusEl = form.querySelector('.form-status');
+        var submitBtn = form.querySelector('button[type="submit"]');
+        var originalBtnText = submitBtn ? submitBtn.textContent : 'Submit';
+
+        // Show loading state
+        if (statusEl) {
+          statusEl.className = 'form-status is-loading';
+          statusEl.textContent = 'Sending...';
+        }
+        if (submitBtn) {
+          submitBtn.disabled = true;
+          submitBtn.textContent = 'Sending...';
+        }
+
+        var formData = new FormData(form);
+
+        fetch(form.action, {
+          method: 'POST',
+          body: formData
+        })
+          .then(function (response) {
+            return response.json();
+          })
+          .then(function (data) {
+            if (data.success) {
+              // Success
+              form.classList.add('is-submitted');
+              if (statusEl) {
+                statusEl.className = 'form-status is-success';
+                statusEl.innerHTML = '<strong>Thank you!</strong> Your message has been sent. I\'ll get back to you within one business day.';
+              }
+              form.reset();
+            } else {
+              // API returned error
+              throw new Error(data.message || 'Form submission failed');
+            }
+          })
+          .catch(function (error) {
+            // Error
+            if (statusEl) {
+              statusEl.className = 'form-status is-error';
+              statusEl.innerHTML = '<strong>Sorry, something went wrong.</strong> Please try again or email <a href="mailto:info@harbourtiling.com.au">info@harbourtiling.com.au</a> directly.';
+            }
+            if (submitBtn) {
+              submitBtn.disabled = false;
+              submitBtn.textContent = originalBtnText;
+            }
+            console.error('Form error:', error);
+          });
+      });
+    });
   });
 })();

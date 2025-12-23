@@ -49,7 +49,7 @@ service_area:
 
 # Contact
 contact:
-  email: "" # Add when ready
+  email: "info@harbourtiling.com.au"
   phone_display: "0416 260 086"
   phone_e164: "+61416260086"
   phone_tel: "0416260086"
