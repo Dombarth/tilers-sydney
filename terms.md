@@ -7,7 +7,7 @@ permalink: /terms/
 
 ## Terms and Conditions
 
-**Effective Date:** December 2025
+**Effective Date:** February 2026
 
 These Terms and Conditions ("Terms") govern your use of the Harbour Tiling website and any services provided by Harbour Tiling ("we", "us", or "our").
 

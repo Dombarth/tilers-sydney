@@ -35,7 +35,7 @@ faq:
 - **With demo + prep**: Add 15-25% to above
 - **Full renovation**: Add 15-25% to above
 
-*Prices are indicative for Ryde and nearby suburbs (2024). Tile cost additional if customer-supplied. Final price depends on specific conditions.*
+*Prices are indicative for Ryde and nearby suburbs (2026). Tile cost additional if customer-supplied. Final price depends on specific conditions.*
 
 ---
 
