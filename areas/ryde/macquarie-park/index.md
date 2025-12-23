@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler Macquarie Park: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Macquarie Park - bathrooms, kitchens, waterproofing"

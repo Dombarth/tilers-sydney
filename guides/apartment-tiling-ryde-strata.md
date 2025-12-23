@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Apartment tiling in Ryde (strata logistics)"
 subtitle: "Access, lift bookings, noise windows, and how to keep a job smooth"

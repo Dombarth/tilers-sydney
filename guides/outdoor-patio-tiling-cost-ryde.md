@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Outdoor Patio Tiling Cost in Ryde"
 subtitle: "What drives alfresco and courtyard tiling prices in Ryde"

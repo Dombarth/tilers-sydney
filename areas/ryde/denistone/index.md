@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler Denistone: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Denistone - bathrooms, kitchens, waterproofing"

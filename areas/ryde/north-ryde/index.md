@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler North Ryde: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in North Ryde - bathrooms, kitchens, waterproofing"

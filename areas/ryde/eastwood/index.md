@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler Eastwood: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Eastwood - bathrooms, kitchens, waterproofing"

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler North Strathfield: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in North Strathfield - bathrooms, kitchens, waterproofing"

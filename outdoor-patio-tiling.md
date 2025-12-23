@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Outdoor Tiler Sydney: Patio & Alfresco Tiling Ryde NSW"
 seo_title: "Outdoor Tiler Sydney: Expert Patio Tiling Services Ryde"

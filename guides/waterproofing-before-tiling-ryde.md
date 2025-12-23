@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Waterproofing before tiling in Ryde"
 subtitle: "Sequence, cure time, documentation, and the shortcuts that cause failures"

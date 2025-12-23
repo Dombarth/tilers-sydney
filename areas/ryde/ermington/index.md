@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler Ermington: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Ermington - bathrooms, kitchens, waterproofing"

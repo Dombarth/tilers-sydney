@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Pool Tiling Cost in Ryde"
 subtitle: "What drives waterline and pool surround tiling prices in Ryde"

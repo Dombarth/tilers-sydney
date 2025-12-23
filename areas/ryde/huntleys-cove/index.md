@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler Huntleys Cove: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Huntleys Cove - bathrooms, kitchens, waterproofing"

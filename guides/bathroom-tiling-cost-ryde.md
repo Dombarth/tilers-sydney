@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Bathroom Tiling Cost in Ryde"
 subtitle: "What drives price, typical ranges, and how to compare quotes"

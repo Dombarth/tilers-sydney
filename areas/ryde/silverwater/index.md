@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Tiler Silverwater: Bathroom & Floor Tiling NSW"
 subtitle: "Professional tiling services in Silverwater - bathrooms, kitchens, waterproofing"

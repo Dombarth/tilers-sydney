@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Pool Tiler Sydney: Waterline & Pool Surround Tiling Ryde"
 seo_title: "Pool Tiler Sydney: Expert Pool Tiling Services Ryde NSW"
