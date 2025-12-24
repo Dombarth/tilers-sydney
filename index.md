@@ -14,8 +14,6 @@ faq:
     a: "Yes. We offer tile repairs, regrouting, and restoration services."
 ---
 
-# Professional Tiler in Sydney for Bathroom, Kitchen and Floor Tiling
-
 If you are searching for a reliable tiler Sydney, choosing an experienced local professional is essential for quality results that last. We provide complete tiling services across Sydney NSW for homeowners, builders, and property managers who want clean finishes, correct installation, and dependable workmanship.
 
 Our focus is simple. Deliver professional tiling that meets Australian standards and suits Sydney homes.
