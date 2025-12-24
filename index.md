@@ -1,108 +1,133 @@
 ---
-layout: home
-title: "Tiler Sydney: Trusted Bathroom & Kitchen Tiling Ryde"
-description: "Sydney's trusted tiler for bathroom tiling, kitchen tiling, wall & floor tiling and waterproofing in Ryde NSW and nearby suburbs. Licensed, insured, quality craftsmanship."
+layout: page
+title: "Tiler Sydney: Licensed Bathroom, Kitchen & Floor Tiling Services"
+description: "Professional tiler in Sydney for bathroom tiling, kitchen tiling, wall & floor tiling and waterproofing. Licensed, insured, quality workmanship across Sydney NSW."
 permalink: /
+faq:
+  - q: "How much do tilers charge per m² in Sydney?"
+    a: "Rates vary depending on tile type and job complexity. A detailed quote ensures accurate pricing."
+  - q: "Do you provide waterproofing with bathroom tiling?"
+    a: "Yes. Waterproofing is included where required and completed to Australian standards."
+  - q: "Do you service all Sydney suburbs?"
+    a: "Yes. We provide tiling services across Sydney NSW."
+  - q: "Can you repair or replace damaged tiles?"
+    a: "Yes. We offer tile repairs, regrouting, and restoration services."
+---
 
-# =============================================================================
-# HOMEPAGE CONTENT - Structured for home.html layout
-# =============================================================================
+# Professional Tiler in Sydney for Bathroom, Kitchen and Floor Tiling
 
-# 1. HERO SECTION
-hero:
-  title: "Tiler Sydney: Bathroom, Kitchen & Floor Tiling"
-  lead: "Professional tiling services in Ryde NSW and Sydney. Wall tiling, floor tiling, waterproofing, and bathroom renovations. Licensed and insured."
-  primary_cta: "Request a Project Assessment"
-  primary_cta_url: "/contact/"
-  secondary_cta: "Ask a Tiling Question"
-  secondary_cta_url: "/contact/#question"
-  microcopy: "No pressure - if you're planning, renovating, or comparing options, I'll help you think it through."
+If you are searching for a reliable tiler Sydney, choosing an experienced local professional is essential for quality results that last. We provide complete tiling services across Sydney NSW for homeowners, builders, and property managers who want clean finishes, correct installation, and dependable workmanship.
 
-# 2. TRUST SIGNALS (quiet, factual - max 5)
-trust_signals:
-  - "Substrates checked before tiling starts"
-  - "Waterproofing coordinated and documented"
-  - "Layout planned to avoid bad cuts"
-  - "Apartment access and strata logistics handled"
-  - "Clean site throughout"
-
-# 3. WHY HARBOUR TILING (decision-making, not just outcomes)
-why_section:
-  heading: "How I decide what your project actually needs"
-  content: |
-    Before quoting, I work through a set of questions about your space:
-
-    - **What's under the existing surface?** - Concrete, timber, old tiles, render? Each has different prep requirements. I check this first because it changes the scope.
-    - **Does the waterproofing need to be redone?** - In wet areas, we handle waterproofing in-house (we hold a builders licence and are licensed waterproofers). If the membrane is compromised, tiling over it is a waste of money.
-    - **Where should cuts fall?** - I plan the layout so small slivers and awkward cuts don't end up in visible spots. This takes time upfront but changes how the room feels.
-    - **Is the tile suitable for the application?** - Some tiles aren't rated for floors, showers, or outdoor use. I'll flag this before you buy.
-
-    These decisions happen before tiling starts. They're what separates a job that lasts from one that looks good for a year.
-
-# 4. CORE SERVICES (navigation only - no sales language)
-services:
-  heading: "What we do"
-  items:
-    - title: "Bathroom tiling"
-      description: "Floors, walls, niches, and shower areas."
-      url: "/bathroom-tiling-ryde/"
-    - title: "Kitchen tiling"
-      description: "Splashbacks, floors, and feature walls."
-      url: "/kitchen-tiling-ryde/"
-    - title: "Apartment tiling"
-      description: "Units and apartments with strata access."
-      url: "/apartment-tiling-ryde/"
-    - title: "Pool tiling"
-      description: "Waterline tiles, surrounds, and outdoor durability."
-      url: "/pool-tiling-ryde/"
-    - title: "Outdoor patio tiling"
-      description: "Patios and alfresco areas: drainage and slip resistance."
-      url: "/outdoor-patio-tiling-ryde/"
-
-# 5. RYDE AUTHORITY PREVIEW
-ryde_preview:
-  heading: "Tiling in Ryde: what's different here"
-  text: "Ryde has a mix of post-war brick homes, 1970s–90s renovations, and newer apartment blocks. Each has different substrate conditions, waterproofing histories, and access constraints. Understanding those conditions changes how a tiling job should be quoted and planned."
-  link_text: "Read: Tiling in Ryde NSW"
-  link_url: "/tiling-in-ryde-nsw/"
-
-# 6. PROCESS (plain English)
-process:
-  heading: "How it works"
-  steps:
-    - title: "I look at the space"
-      description: "Surfaces, access, and what needs to happen before tiling."
-    - title: "We agree on scope"
-      description: "What's included, what the tiles need, and how the layout will work."
-    - title: "Prep and waterproofing"
-      description: "Surface work first. Waterproofing if it's a wet area."
-    - title: "Tiling and finishing"
-      description: "Tiles go on, then grouting and silicone."
-    - title: "Handover"
-      description: "Walkthrough, cleaning tips, and anything you need to know."
-
-# 7. PROOF (without testimonials)
-proof:
-  heading: "What gets checked"
-  content: |
-    I don't rely on testimonials to show quality. Instead, I focus on what can be measured and documented:
-
-    - **Flatness and level** - Checked with straight edges and levels before and after.
-    - **Lippage** - Tile-to-tile height differences are minimised, especially on large-format tiles.
-    - **Grout consistency** - Even depth, clean lines, no voids or gaps.
-    - **Waterproofing documentation** - For wet areas, waterproofing certificates are provided by the licensed applicator.
-    - **Junction detailing** - Corners, edges, and transitions finished cleanly with appropriate trims or mitres.
-
-    If you'd like to see examples of recent work, I can share photos during our conversation - including preparation stages, not just finished results.
-
-# 8. CONVERSION SECTION
-conversion:
-  heading: "Planning a bathroom, kitchen, or apartment tiling project in Ryde?"
-  text: "Whether you're early in the planning stage or ready to get quotes, I'm happy to talk through your project and answer questions."
-  primary_cta: "Request a Project Assessment"
-  primary_cta_url: "/contact/"
-  secondary_cta: "Ask a Question First"
-  secondary_cta_url: "/contact/#question"
-  note: "No pressure, no obligation. I typically respond within one business day."
+Our focus is simple. Deliver professional tiling that meets Australian standards and suits Sydney homes.
 
 ---
+
+## Complete Tiling Services Across Sydney NSW
+
+As a trusted Sydney tiler, we offer a full range of residential and commercial tiling services. Every job is approached with attention to detail, correct preparation, and materials suited to the space.
+
+**Our tiling services include:**
+
+- Bathroom tiling and waterproofing
+- Kitchen splashback tiling
+- Wall and floor tiling
+- Outdoor and balcony tiling
+- Laundry and living area tiling
+- Tile repairs and regrouting
+- Commercial tiling projects
+
+Each project is completed with accurate tile alignment, clean grout lines, and long lasting finishes.
+
+---
+
+## Bathroom and Kitchen Tiling Specialists
+
+Bathrooms and kitchens require a tiler Sydney residents can trust for moisture control and precision. We specialise in waterproofing systems, correct falls, and tile installation that protects your home from leaks and long term damage.
+
+Whether you are renovating or building new, we work with ceramic, porcelain, stone, and large format tiles to achieve a functional and visually clean result.
+
+---
+
+## Local Sydney Tiler With Proven Experience
+
+Hiring a local tiler in Sydney means better communication, faster turnaround, and workmanship that reflects local building requirements. We service Sydney suburbs and tailor each job to suit the property layout and client needs.
+
+**Our commitment includes:**
+
+- Fully licensed and insured tiling services
+- Experience with Sydney residential and commercial projects
+- High quality adhesives, grout, and waterproofing systems
+- Respectful, tidy work sites
+- Clear timelines and honest advice
+
+---
+
+## How Much Does a Tiler Cost in Sydney?
+
+Tiling costs in Sydney vary depending on several factors:
+
+- Tile type and size
+- Area being tiled
+- Surface preparation required
+- Waterproofing needs
+- Access and layout complexity
+
+Most tilers charge per square metre or provide a project based quote. We offer clear pricing and explain exactly what is included before work begins.
+
+---
+
+## Get an Online Estimate or Free Quote
+
+If you are looking for a tiler Sydney homeowners recommend, we make the process simple. You can request an online estimate or book a site visit to receive an accurate quote tailored to your project.
+
+There are no hidden costs. Just straightforward pricing and professional service.
+
+---
+
+## Why Choose Our Sydney Tiling Services
+
+Choosing the right tiler affects both appearance and durability. We focus on doing the job properly the first time.
+
+**Clients choose us because we deliver:**
+
+- Consistent quality workmanship
+- Reliable scheduling
+- Professional advice on tile selection
+- Results that add value to Sydney homes
+
+---
+
+## Frequently Asked Questions
+
+### How much do tilers charge per m² in Sydney?
+
+Rates vary depending on tile type and job complexity. A detailed quote ensures accurate pricing.
+
+### Do you provide waterproofing with bathroom tiling?
+
+Yes. Waterproofing is included where required and completed to Australian standards.
+
+### Do you service all Sydney suburbs?
+
+Yes. We provide tiling services across Sydney NSW.
+
+### Can you repair or replace damaged tiles?
+
+Yes. We offer tile repairs, regrouting, and restoration services.
+
+---
+
+## Trusted Tiler Sydney Residents Can Contact Today
+
+If you need a professional tiler Sydney for bathrooms, kitchens, floors, or repairs, we are ready to help. From small jobs to full renovations, our goal is to deliver durable, clean, and well finished tiling across Sydney homes and businesses.
+
+**Contact us today to discuss your project and receive a free quote from a trusted Sydney tiler.**
+
+<div class="cta-actions" style="margin-top: 2rem;">
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary btn-lg">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
+  <a href="/contact/" class="btn btn-secondary btn-lg">Request a Free Quote</a>
+</div>
+
+{% if page.faq %}
+{% include schema-faq.html %}
+{% endif %}
