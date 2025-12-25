@@ -1,47 +1,24 @@
 ---
 layout: page
 title: "Tiler Epping: Bathroom & Floor Tiling NSW"
-subtitle: "Professional tiling services in Epping - bathrooms, kitchens, waterproofing"
+subtitle: "Professional tiling services in Epping"
 description: "Expert tiler in Epping NSW. Bathroom tiling, kitchen tiling, wall & floor tiling, waterproofing. Licensed and insured. Local service from Ryde."
 permalink: /areas/ryde/epping/
 ---
 
+At Harbour Tiling we specialise in the areas of bathroom tiling, kitchen tiling, floor tiling and waterproofing for customers in Epping and surrounding suburbs. The team have been providing tiling services across the Ryde region for many years and are fully licensed to carry out all aspects of wall and floor tiling work.
 
-Looking for a **professional tiler in Epping**? We provide expert **bathroom tiling**, **floor tiling**, **wall tiling**, and **waterproofing services** throughout Epping NSW. Whether you need a **local tiler** for a bathroom renovation, kitchen splashback, or complete floor tiling project, our licensed and insured tiling services deliver quality results. Get a **free quote** from an experienced **Epping tiler** today.
-Harbour Tiling services **Epping** from a **West Ryde** base.
+We service customers throughout Epping for residential and commercial tiling projects. Harbour Tiling are fully insured and all work carried out comes with a guarantee on workmanship. As such we are able to offer customers quality results while still remaining competitive on pricing.
 
-This page is designed to answer the practical questions that matter before you get quotes: **prep**, **waterproofing sequencing**, **layout planning**, and (where relevant) **apartment access logistics**.
+The tilers at Harbour Tiling pride themselves on attention to detail and proper preparation before tiling commences. This includes checking substrate conditions, coordinating waterproofing for wet areas and planning tile layouts to avoid awkward cuts in visible areas.
 
-## Quick actions
+Our tiling services in Epping include bathroom tiling, kitchen splashback tiling, floor tiling, wall tiling, outdoor tiling and waterproofing coordination. We work with ceramic tiles, porcelain tiles, natural stone and large format tiles depending on what is required for the job.
 
-- **Call Nicolai:** <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>
-- **Ryde areas hub:** <a href="/areas/ryde/">All suburb guides</a>
+For apartment tiling in Epping we have experience with strata logistics including lift bookings, parking coordination and working within building noise restrictions. The team have completed tiling projects across the Ryde area including West Ryde, Eastwood, Epping, Gladesville and surrounding suburbs areas.
 
----
+At Harbour Tiling we take pride in providing quality tiling services to customers in Epping.
 
-## What usually changes scope in Epping
-
-- **What's under the existing surface** (concrete, timber, old tiles)
-- **Wet-area history** (previous leaks, unknown waterproofing)
-- **Tile size and finish** (large format needs flatter substrates)
-- **Access constraints** (parking, deliveries, strata rules)
-
-
-## Local notes (what usually matters in Epping)
-
-- Mixed stock (older houses + newer apartments): the biggest variable is what is under the existing surface (timber vs concrete).
-- Large-format tiles demand flatter substrates; prep scope is often what changes the quote.
-- If you are in an apartment, confirm lift/parking rules early so the schedule is realistic.
-
-## Useful Ryde guides
-
-- [Bathroom tiling cost in Ryde (what drives price)](/bathroom-tiling-cost-ryde/)
-- [Waterproofing before tiling in Ryde (sequence + cure time)](/waterproofing-before-tiling-ryde/)
-- [Apartment tiling in Ryde (strata logistics)](/apartment-tiling-ryde-strata/)
-
-## Where to go next
-
-- <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW - planning guide</a>
-- <a href="/bathroom-tiling-ryde/">Bathroom tiling</a>
-- <a href="/kitchen-tiling-ryde/">Kitchen tiling</a>
-- <a href="/apartment-tiling-ryde/">Apartment tiling</a>
+<div class="cta-actions" style="margin-top: 2rem;">
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary btn-lg">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
+  <a href="/contact/" class="btn btn-secondary btn-lg">Request a Quote</a>
+</div>
