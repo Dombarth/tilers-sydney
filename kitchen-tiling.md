@@ -1,185 +1,23 @@
 ---
 layout: page
 title: "Kitchen Tiler Sydney: Splashback & Floor Tiling Ryde NSW"
-seo_title: "Kitchen Tiler Sydney: Expert Kitchen Tiling Services Ryde"
-subtitle: "Professional kitchen tiling — splashbacks, floors, feature walls"
-description: "Expert kitchen tiling services in Sydney and Ryde NSW. Splashback tiling, floor tiling, wall tiling. Licensed tiler with quality craftsmanship."
+description: "Expert kitchen tiler in Sydney and Ryde NSW. Kitchen splashback tiling, floor tiling, wall tiles. Licensed and insured. Quality workmanship."
 permalink: /kitchen-tiling-ryde/
-service_schema:
-  name: "Kitchen tiling"
-  serviceType: "Kitchen tiling"
-  description: "Kitchen tiling services in Ryde NSW and nearby suburbs: splashbacks, floor tiling, feature walls, clean junctions, and layout planning coordinated with cabinetry and benchtops."
 ---
 
-Kitchen tiling is often simpler than bathroom work. Most kitchen tiling involves splashbacks, floors, or feature walls - and in many cases, no waterproofing is required. The focus is on layout, finish quality, and how the tiles meet other surfaces.
+At Harbour Tiling we specialise in the aspects of kitchen tiling including splashbacks, floor tiling and feature walls for residential and commercial customers across Sydney. The team have been providing kitchen tiling services for many years and are fully licensed to carry out all aspects of tiling work.
 
-The key is planning early. Last-minute decisions about layout or timing can lead to compromises that are visible every day.
+Kitchen splashback tiling is one of the more common services we provide. We work with ceramic tiles, porcelain tiles, natural stone, subway tiles and large format tiles depending on what is required for the design. The tilers at Harbour Tiling have experience with all types of kitchen layouts and can work around existing cabinetry and appliances.
 
-This page explains what's involved in kitchen tiling, what decisions you'll need to make, and what affects the result.
+Harbour Tiling are fully insured and all kitchen tiling work comes with a guarantee on workmanship. As such we are able to offer customers quality results while still remaining competitive on pricing.
 
-<p class="cost-guide-link" style="background: #f8f8f8; padding: 1rem; border-left: 4px solid #2a9d8f; margin: 1.5rem 0;">
-  <strong>Looking for pricing?</strong> See our <a href="/kitchen-tiling-cost-ryde/">comprehensive kitchen tiling cost guide for Ryde</a> — covers splashback and floor pricing, what affects quotes, and how to compare.
-</p>
+For kitchen floor tiling we can handle all aspects of substrate preparation including levelling, removal of existing flooring and ensuring the surface is suitable for tiling. The team have experience with both timber subfloors and concrete slabs.
 
----
+We service customers throughout Sydney including Ryde, West Ryde, North Ryde, Eastwood, Epping, Gladesville and surrounding suburbs areas. For apartment kitchens we have experience with strata logistics including lift bookings and working within building hours.
 
-## Common kitchen tiling jobs
+At Harbour Tiling we take pride in providing quality kitchen tiling services.
 
-### Splashbacks
-
-The most common kitchen tiling job. A splashback protects the wall behind the cooktop and sink, and often extends across the full length of the benchtop.
-
-**What's involved:**
-- Tiling the wall area between the benchtop and overhead cabinets
-- Cutting around power outlets, switches, and window reveals
-- Finishing edges cleanly where tiles meet cabinetry
-
-**What matters most:**
-- Layout: where cuts fall, how tiles align with features, whether the pattern is centred
-- Junction quality: clean meeting points with benchtops, cabinets, and window frames
-- Grout choice: colour, width, and whether to seal it
-
-A well-planned splashback looks effortless. A rushed one has awkward cuts and misaligned grout lines that catch your eye every time you use the kitchen.
-
-### Floor tiling
-
-Kitchen floors see a lot of traffic, spills, and dropped items. The tiling needs to be durable, easy to clean, and laid flat.
-
-Unlike splashbacks, floor tiling typically happens *before* cabinetry is installed - so the sequence is different. If you're planning both, it's worth confirming timing early.
-
-**What's involved:**
-- Preparing the substrate (concrete or timber-framed)
-- Tiling with appropriate adhesive and grout
-- Finishing at thresholds and where cabinetry will sit
-
-**What matters most:**
-- Flatness: especially important where furniture and appliances need to sit level
-- Slip resistance: some tiles are more suitable for areas that get wet
-- Grout durability: kitchen floors need grout that holds up to cleaning and foot traffic
-
-### Feature walls
-
-Some kitchens include a tiled feature wall - often behind open shelving or as a design accent. The scope is similar to a splashback, but the layout and tile choice may be more decorative.
-
----
-
-## Layout and cut placement
-
-How tiles are arranged affects how the finished kitchen looks. A few things worth thinking through:
-
-### Centring and symmetry
-
-For splashbacks, it often makes sense to centre the tile layout on the cooktop or rangehood - rather than starting from one edge. This avoids ending up with a thin sliver of tile in a prominent spot.
-
-### Outlet and switch placement
-
-Power outlets and light switches need to be cut around. The goal is to position cuts so they're clean and not awkwardly placed - ideally with the outlet near the centre of a tile, not at an edge or corner.
-
-### Visual continuity and edge finishing
-
-If the floor and splashback are both tiled, it can look better if grout lines align where they meet - though this isn't always possible with different tile sizes. Where tiles meet cabinetry or window frames, the edge needs to be finished cleanly (trim profiles, mitred edges, or silicone junctions). The right choice depends on the tile and the overall look.
-
----
-
-## Coordination with other trades
-
-Kitchen tiling usually happens after cabinetry and benchtops are installed. That means the tiler is working around fixed elements - and the fit needs to be precise.
-
-### Timing
-
-The typical sequence:
-1. Cabinetry installed
-2. Benchtops templated and installed
-3. Splashback tiled
-4. Final plumbing and electrical (tapware, outlets)
-
-If the tiler starts before benchtops are in, they're working to measurements rather than to the actual surface - which can lead to gaps or misalignment.
-
-### Access
-
-Tiling behind a cooktop or sink is easier before appliances are connected. If appliances are already in place, they may need to be temporarily removed or protected.
-
-### Communication
-
-If you're coordinating trades yourself, it helps to confirm timing with the tiler, cabinet maker, and benchtop installer. A short conversation upfront avoids scheduling clashes later.
-
-This coordination is usually simple when discussed early - most issues come from last-minute changes, not complexity.
-
----
-
-## Tile and grout choices
-
-### Tile type
-
-Common choices for kitchen splashbacks include:
-- **Subway tiles** - classic, affordable, easy to work with
-- **Large-format tiles** - cleaner look, fewer grout lines, but require flat walls
-- **Textured or patterned tiles** - more visual interest, but layout planning matters more
-
-For floors, durability and slip resistance are more important than for walls. Porcelain tiles are a common choice.
-
-### Grout colour and width
-
-Grout affects the look more than most people expect:
-- **Matching grout** blends in, making the tiles the focus
-- **Contrasting grout** highlights the pattern and layout
-- **Wider grout lines** suit rustic or handmade tiles
-- **Narrow grout lines** suit modern, minimal looks
-
-Grout in kitchens is exposed to cooking splashes and cleaning. In high-use areas, sealing the grout or using epoxy grout can reduce staining.
-
----
-
-## What to expect during a kitchen tiling job
-
-1. **Site check** - Confirm benchtop and cabinetry are installed, wall surface is ready
-2. **Layout planning** - Mark out tile positions, confirm cut placement and edge finishing
-3. **Tiling** - Adhesive applied, tiles set and levelled, cuts made as needed
-4. **Grouting** - Grout applied, cleaned, and sealed if required
-5. **Finishing** - Silicone at junctions, final clean
-
-For a standard splashback, this typically takes 1–2 days. Floor tiling takes longer depending on the area.
-
----
-
-## Questions worth thinking through
-
-- Are benchtops and cabinetry already installed?
-- Where will cuts fall - especially around outlets and edges?
-- What grout colour and width suits the tile and the overall kitchen design?
-- Do the tiles need sealing, and does the grout need sealing?
-- Who's coordinating with other trades if timing matters?
-
-These aren't complicated questions - but thinking them through before the job starts avoids surprises.
-
----
-
----
-
-## Harbour Tiling provides kitchen tiling in Ryde
-
-Harbour Tiling provides professional kitchen tiling services throughout Ryde NSW and nearby suburbs, including splashbacks, floor tiling, and feature walls. We coordinate with cabinet makers and benchtop installers to ensure proper timing, assess wall flatness before quoting, and plan layouts so cuts around power outlets fall cleanly rather than awkwardly. For kitchen projects in Ryde, West Ryde, Eastwood, North Ryde, Gladesville, and surrounding areas, we focus on clean junctions with benchtops and cabinetry, proper edge finishing, and grout that holds up to daily kitchen use.
-
----
-
-## Related Ryde guides
-
-- <a href="/kitchen-tiling-cost-ryde/">Kitchen tiling cost in Ryde (what drives price)</a>
-- <a href="/areas/ryde/">Ryde areas hub (suburb guides)</a>
-- <a href="/tiling-in-ryde-nsw/">Tiling in Ryde NSW (planning guide)</a>
-
-## Ready to discuss your kitchen project?
-
-If you're planning a splashback, floor, or feature wall in Ryde or nearby suburbs, I'm happy to talk through what's involved - including layout, timing, and coordination with other trades.
-
-<div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
-  <a href="/contact/" class="btn btn-secondary">Request a Project Assessment</a>
-  <a href="/contact/#question" class="btn btn-outline">Ask a Tiling Question</a>
+<div class="cta-actions" style="margin-top: 2rem;">
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary btn-lg">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
+  <a href="/contact/" class="btn btn-secondary btn-lg">Request a Kitchen Tiling Quote</a>
 </div>
-
-No pressure, no obligation. I typically respond within one business day.
-
-If you can share details about your cabinetry and benchtop timing, I can give you a clearer picture of how the tiling fits in.
-
-Kitchen tiling is usually straightforward - the key is planning the layout and timing before tiles go on.

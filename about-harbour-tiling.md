@@ -1,65 +1,23 @@
 ---
 layout: page
-title: "About Us: Professional Tiler Sydney"
-seo_title: "About Harbour Tiling: Trusted Tiler Sydney & Ryde NSW"
-subtitle: "Licensed tiler — bathroom, kitchen, and floor tiling specialists"
-description: "About Harbour Tiling - Sydney's trusted tiler based in Ryde NSW. Licensed for tiling and waterproofing. Quality craftsmanship, clear communication."
+title: "About Harbour Tiling: Sydney Tiler"
+description: "About Harbour Tiling - professional tiler in Sydney and Ryde NSW. Licensed, insured, quality workmanship."
 permalink: /about-harbour-tiling/
 ---
 
-Harbour Tiling is a tiling business based in Ryde, focused on preparation-led work that lasts. I serve homes and apartments across Ryde and nearby suburbs in Sydney's north.
+At Harbour Tiling we specialise in the aspects of residential and commercial tiling across Sydney and the Ryde region. The team have been providing tiling services for over fifteen years and are fully licensed to carry out all aspects of wall and floor tiling work.
 
-I started this business because I wanted to work in a way that prioritises doing things properly - with time for preparation, attention to detail, and honest communication with the people I work for.
+Harbour Tiling are based in West Ryde and service customers throughout the Sydney area including Ryde, North Ryde, Eastwood, Epping, Gladesville, Macquarie Park and surrounding suburbs areas. We are fully insured and all work carried out comes with a guarantee on workmanship.
 
----
+The tilers at Harbour Tiling pride themselves on providing the highest form of quality workmanship while still remaining competitive on pricing. We treat tiling as a profession rather than just a job. As such we are committed to delivering quality results on every project.
 
-## Why Harbour Tiling exists
+Our services include bathroom tiling, kitchen tiling, floor tiling, wall tiling, outdoor tiling and waterproofing coordination. We work with ceramic tiles, porcelain tiles, natural stone, mosaics and large format tiles depending on what is required.
 
-I wanted to build a business where I could take the time to do things right - assess the space before quoting, explain what's involved, and focus on preparation before tiling starts.
+The team have experience with all types of properties including houses, townhouses, apartments and commercial premises. For apartment tiling we have experience with strata logistics and can work within building requirements.
 
-That means checking substrates, coordinating waterproofing properly, and planning layouts before tiles go on. It's the approach I believe leads to better results.
+At Harbour Tiling we take pride in providing honest and upfront pricing with no hidden costs.
 
-That's what Harbour Tiling is built around.
-
----
-
-## How I work
-
-I work directly with homeowners, apartment owners, and sometimes builders or project managers on bathroom, kitchen, and apartment tiling projects.
-
-My focus is on:
-
-- **Preparation** - Checking substrates, coordinating waterproofing, planning layouts before tiles go on
-- **Clarity** - Being clear about what's included, what's not, and what to expect
-- **Communication** - Responding promptly, flagging issues early, and explaining what's happening at each stage
-- **Finish quality** - Clean edges, aligned grout lines, consistent grouting, and a tidy site
-
-My focus is on work that lasts - and that I'd be happy to stand behind.
-
----
-
-## Where I work
-
-I'm based in Ryde and work primarily across Ryde and nearby suburbs - including West Ryde, Eastwood, Gladesville, Meadowbank, North Ryde, and surrounding areas.
-
-If you're not sure whether your location is within my usual range, feel free to ask.
-
----
-
-## Credentials
-
-- Fully insured for residential tiling work
-- Licensed waterproofing for wet area work (we hold a builders licence)
-
----
-
-## Get in touch
-
-If you have a tiling project in mind - or you're just thinking through your options - I'm happy to talk it through.
-
-<div class="cta-actions" style="margin-top: 1.5rem;">
-  <a href="/contact/" class="btn btn-primary">Request a Project Assessment</a>
-  <a href="/contact/#question" class="btn btn-secondary">Ask a Question</a>
+<div class="cta-actions" style="margin-top: 2rem;">
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary btn-lg">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
+  <a href="/contact/" class="btn btn-secondary btn-lg">Get in Touch</a>
 </div>
-
-No pressure, no obligation.

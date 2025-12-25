@@ -1,99 +1,24 @@
 ---
 layout: page
-title: "Contact: Get a Tiling Quote Sydney"
-seo_title: "Contact Tiler Sydney: Get a Free Quote"
-subtitle: "Request a quote or ask a tiling question"
-description: "Contact Harbour Tiling - professional tiler in Sydney and Ryde NSW. Get a free quote for bathroom, kitchen, or floor tiling. Licensed and insured."
+title: "Contact Harbour Tiling: Sydney Tiler"
+description: "Contact Harbour Tiling for bathroom tiling, kitchen tiling and floor tiling in Sydney and Ryde NSW. Free quotes available."
 permalink: /contact/
 ---
 
-Whether you're planning a project or just have a question, I'm happy to hear from you.
+At Harbour Tiling we are happy to discuss your tiling project and provide a quote. The team service customers across Sydney and the Ryde region for all aspects of residential and commercial tiling work.
 
----
+You can contact us by phone or fill out the form below and we will get back to you. For straightforward jobs we may be able to provide a quote based on photos and measurements. For larger projects we can arrange a time to view the job.
 
-## Request a project assessment
+**Phone:** <a href="tel:{{ site.data.site.contact.phone_tel }}">{{ site.data.site.contact.phone_display }}</a>
 
-Use this form to tell me about your project. I'll get back to you within one business day.
+**Email:** <a href="mailto:{{ site.data.site.contact.email }}">{{ site.data.site.contact.email }}</a>
 
-<form class="contact-form" id="project-form" action="https://api.web3forms.com/submit" method="POST">
-  <input type="hidden" name="access_key" value="b29aaef9-0f0f-4782-8e48-d436341019d1">
-  <input type="hidden" name="subject" value="New Project Assessment Request - Harbour Tiling">
-  <input type="hidden" name="from_name" value="Harbour Tiling Website">
-  <input type="checkbox" name="botcheck" style="display: none;">
-  
-  <div class="form-group">
-    <label for="name">Your name</label>
-    <input type="text" id="name" name="name" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="email">Email</label>
-    <input type="email" id="email" name="email" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="phone">Phone (optional)</label>
-    <input type="tel" id="phone" name="phone">
-  </div>
-  
-  <div class="form-group">
-    <label for="location">Suburb (optional)</label>
-    <input type="text" id="location" name="location" placeholder="e.g. Ryde, West Ryde, Eastwood">
-    <small class="form-helper">Helps me understand travel and any area-specific factors.</small>
-  </div>
-  
-  <div class="form-group">
-    <label for="project">Brief project description</label>
-    <textarea id="project" name="message" placeholder="What are you planning? Bathroom, kitchen, apartment? Any details you'd like to share."></textarea>
-  </div>
-  
-  <button type="submit" class="btn btn-primary">Send request</button>
-  
-  <div class="form-status" aria-live="polite"></div>
-</form>
+Harbour Tiling are based in West Ryde and service customers throughout Sydney including Ryde, North Ryde, Eastwood, Epping, Gladesville, Macquarie Park and surrounding suburbs areas.
 
-No pressure, no obligation. If you're not sure what to include, just share what you know - we can figure out the rest together.
+Our tiling services include bathroom tiling, kitchen tiling, floor tiling, wall tiling, outdoor tiling and waterproofing coordination. As such we can handle most residential and commercial tiling projects.
 
----
+At Harbour Tiling we provide upfront and honest pricing with no hidden costs.
 
-<h2 id="question">Ask a tiling question</h2>
-
-If you have a question about tiling - whether it's about your project, materials, timing, or anything else - feel free to ask. You don't need to be ready to book anything.
-
-<form class="contact-form" id="question-form" action="https://api.web3forms.com/submit" method="POST">
-  <input type="hidden" name="access_key" value="b29aaef9-0f0f-4782-8e48-d436341019d1">
-  <input type="hidden" name="subject" value="New Tiling Question - Harbour Tiling">
-  <input type="hidden" name="from_name" value="Harbour Tiling Website">
-  <input type="checkbox" name="botcheck" style="display: none;">
-  
-  <div class="form-group">
-    <label for="q-name">Your name</label>
-    <input type="text" id="q-name" name="name" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="q-email">Email</label>
-    <input type="email" id="q-email" name="email" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="question">Your question</label>
-    <textarea id="question" name="message" placeholder="What would you like to know?"></textarea>
-  </div>
-  
-  <button type="submit" class="btn btn-secondary">Send question</button>
-  
-  <div class="form-status" aria-live="polite"></div>
-</form>
-
-I'll respond within one business day. Questions are welcome - no commitment required.
-
----
-
-## Other ways to get in touch
-
-If you prefer to reach out directly:
-
-**Email:** <a href="mailto:info@harbourtiling.com.au">info@harbourtiling.com.au</a>
-
-I'm based in Ryde and serve homes and apartments across Ryde and nearby suburbs.
+<div class="cta-actions" style="margin-top: 2rem;">
+  <a href="tel:{{ site.data.site.contact.phone_tel }}" class="btn btn-primary btn-lg">Call Nicolai: {{ site.data.site.contact.phone_display }}</a>
+</div>
