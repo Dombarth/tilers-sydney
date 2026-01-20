@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Apartment Tiler Sydney: Strata & Unit Tiling Ryde NSW"
-seo_title: "Apartment Tiler Sydney: Expert Unit Tiling Services Ryde"
+title: "Apartment Tiler Ryde: Strata & Unit Tiling Services"
+seo_title: "Apartment Tiler Ryde: Expert Unit Tiling Services"
 subtitle: "Professional apartment tiling — strata access, bathroom and floor tiling"
 description: "Expert apartment tiling services in Sydney and Ryde NSW. Bathroom tiling, floor tiling, strata logistics. Licensed tiler for units and apartments."
 permalink: /apartment-tiling-ryde/
