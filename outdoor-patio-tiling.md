@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Outdoor Tiler Sydney: Patio & Alfresco Tiling Ryde NSW"
-seo_title: "Outdoor Tiler Sydney: Expert Patio Tiling Services Ryde"
+seo_title: "Outdoor Tiler Ryde: Expert Patio Tiling Services"
 subtitle: "Professional outdoor tiling — patios, courtyards, alfresco areas"
 description: "Expert outdoor patio tiling services in Sydney and Ryde NSW. Slip-resistant tiles, drainage falls, movement joints. Licensed tiler for alfresco and courtyard tiling."
 permalink: /outdoor-patio-tiling-ryde/
