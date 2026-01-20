@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Kitchen Tiler Sydney: Splashback & Floor Tiling Ryde NSW"
-seo_title: "Kitchen Tiler Sydney: Expert Kitchen Tiling Services Ryde"
+title: "Kitchen Tiler Ryde: Splashback & Floor Tiling"
+seo_title: "Kitchen Tiler Ryde: Expert Local Kitchen Tiling Services"
 subtitle: "Professional kitchen tiling — splashbacks, floors, feature walls"
 description: "Expert kitchen tiling services in Sydney and Ryde NSW. Splashback tiling, floor tiling, wall tiling. Licensed tiler with quality craftsmanship."
 permalink: /kitchen-tiling-ryde/
