@@ -7,7 +7,7 @@ permalink: /privacy/
 
 ## Privacy Policy
 
-**Effective Date:** February 2026
+**Effective Date:** June 2026
 
 Harbour Tiling ("we", "us", or "our") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or engage our services.
 
