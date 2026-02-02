@@ -126,6 +126,3 @@ If you need a professional tiler Sydney for bathrooms, kitchens, floors, or repa
   <a href="/contact/" class="btn btn-secondary btn-lg">Request a Free Quote</a>
 </div>
 
-{% if page.faq %}
-{% include schema-faq.html %}
-{% endif %}
