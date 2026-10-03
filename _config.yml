@@ -27,6 +27,7 @@ exclude:
   - vendor
   - scripts
   - seo_audit.csv
+  - netlify
 
 # Collections (future use)
 # collections:
