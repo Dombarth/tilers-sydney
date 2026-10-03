@@ -21,6 +21,7 @@ Consistent styling for content pages
       {{ content }}
     </div>
     
-    <p class="page-updated">Page updated June 2026</p>
+    {%- comment -%} The month below is a fallback. netlify/edge-functions/page-updated-month.js rewrites it to the current Sydney month on every page view. {%- endcomment -%}
+    <p class="page-updated">Page updated October 2026</p>
   </div>
 </article>
