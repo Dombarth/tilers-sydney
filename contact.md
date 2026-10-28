@@ -43,6 +43,28 @@ Use this form to tell me about your project. I'll get back to you within one bus
   </div>
   
   <div class="form-group">
+    <label for="found">How did you find us?</label>
+    <select id="found" name="how_found_us" required>
+      <option value="">Choose one</option>
+      <option>Google search</option>
+      <option>Google Maps</option>
+      <option>AI assistant (ChatGPT, Gemini, Copilot)</option>
+      <option>Bing or another search engine</option>
+      <option>Facebook or Instagram</option>
+      <option>hipages or another trade site</option>
+      <option>Friend, family or neighbour</option>
+      <option>Returning customer</option>
+      <option>Other</option>
+    </select>
+  </div>
+  
+  <div class="form-group">
+    <label for="search">What did you type into the search bar?</label>
+    <input type="text" id="search" name="search_words" maxlength="150" required placeholder="e.g. tiler ryde">
+    <small class="form-helper">Didn't search? Type "didn't search".</small>
+  </div>
+  
+  <div class="form-group">
     <label for="project">Brief project description</label>
     <textarea id="project" name="message" placeholder="What are you planning? Bathroom, kitchen, apartment? Any details you'd like to share."></textarea>
   </div>
@@ -74,6 +96,28 @@ If you have a question about tiling - whether it's about your project, materials
   <div class="form-group">
     <label for="q-email">Email</label>
     <input type="email" id="q-email" name="email" required>
+  </div>
+  
+  <div class="form-group">
+    <label for="q-found">How did you find us?</label>
+    <select id="q-found" name="how_found_us" required>
+      <option value="">Choose one</option>
+      <option>Google search</option>
+      <option>Google Maps</option>
+      <option>AI assistant (ChatGPT, Gemini, Copilot)</option>
+      <option>Bing or another search engine</option>
+      <option>Facebook or Instagram</option>
+      <option>hipages or another trade site</option>
+      <option>Friend, family or neighbour</option>
+      <option>Returning customer</option>
+      <option>Other</option>
+    </select>
+  </div>
+  
+  <div class="form-group">
+    <label for="q-search">What did you type into the search bar?</label>
+    <input type="text" id="q-search" name="search_words" maxlength="150" required placeholder="e.g. tiler ryde">
+    <small class="form-helper">Didn't search? Type "didn't search".</small>
   </div>
   
   <div class="form-group">
